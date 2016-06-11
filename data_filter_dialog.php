@@ -28,7 +28,7 @@
         sessionStorage.setItem("evidence", getFilterData("evidenceLevel"));
         sessionStorage.setItem("peptide", getFilterData("peptide"));
 
-        window.location = "/signal-peptide/entries2.php";
+        window.location = "/proteinprofiler/entries2.php";
     }
 
     function getFilterData(name) {
