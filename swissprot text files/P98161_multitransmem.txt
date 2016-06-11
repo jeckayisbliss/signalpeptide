@@ -1,0 +1,1664 @@
+ID   PKD1_HUMAN              Reviewed;        4303 AA.
+AC   P98161; Q15140; Q15141;
+DT   01-OCT-1996, integrated into UniProtKB/Swiss-Prot.
+DT   23-MAR-2010, sequence version 3.
+DT   16-MAR-2016, entry version 200.
+DE   RecName: Full=Polycystin-1;
+DE   AltName: Full=Autosomal dominant polycystic kidney disease 1 protein;
+DE   Flags: Precursor;
+GN   Name=PKD1;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+OC   Catarrhini; Hominidae; Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1), AND VARIANT THR-1092.
+RX   PubMed=7736581;
+RA   Gluecksmann-Kuis M.A., Tayber O., Woolf E.A., Bougueleret L., Deng N.,
+RA   Alperin G.D., Iris F., Hawkins F., Munro C., Lakey N., Duyk G.,
+RA   Schneider M.C., Geng L., Zhang F., Zhao Z., Torosian S., Reeders S.T.,
+RA   Bork P., Pohlschmidt M., Loehning C., Kraus B., Nowicka U.,
+RA   Leung A.L.S., Frischauf A.-M.;
+RT   "Polycystic kidney disease: the complete structure of the PKD1 gene
+RT   and its protein.";
+RL   Cell 81:289-298(1995).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA / MRNA] (ISOFORMS 2 AND 3), AND
+RP   VARIANT GLN-739.
+RX   PubMed=7663510; DOI=10.1038/ng0695-151;
+RA   Hughes J., Ward C.J., Peral B., Aspinwall R., Clark K.,
+RA   San Millan J.L., Gamble V., Harris P.C.;
+RT   "The polycystic kidney disease 1 (PKD1) gene encodes a novel protein
+RT   with multiple cell recognition domains.";
+RL   Nat. Genet. 10:151-160(1995).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=15616553; DOI=10.1038/nature03187;
+RA   Martin J., Han C., Gordon L.A., Terry A., Prabhakar S., She X.,
+RA   Xie G., Hellsten U., Chan Y.M., Altherr M., Couronne O., Aerts A.,
+RA   Bajorek E., Black S., Blumer H., Branscomb E., Brown N.C., Bruno W.J.,
+RA   Buckingham J.M., Callen D.F., Campbell C.S., Campbell M.L.,
+RA   Campbell E.W., Caoile C., Challacombe J.F., Chasteen L.A.,
+RA   Chertkov O., Chi H.C., Christensen M., Clark L.M., Cohn J.D.,
+RA   Denys M., Detter J.C., Dickson M., Dimitrijevic-Bussod M., Escobar J.,
+RA   Fawcett J.J., Flowers D., Fotopulos D., Glavina T., Gomez M.,
+RA   Gonzales E., Goodstein D., Goodwin L.A., Grady D.L., Grigoriev I.,
+RA   Groza M., Hammon N., Hawkins T., Haydu L., Hildebrand C.E., Huang W.,
+RA   Israni S., Jett J., Jewett P.B., Kadner K., Kimball H., Kobayashi A.,
+RA   Krawczyk M.-C., Leyba T., Longmire J.L., Lopez F., Lou Y., Lowry S.,
+RA   Ludeman T., Manohar C.F., Mark G.A., McMurray K.L., Meincke L.J.,
+RA   Morgan J., Moyzis R.K., Mundt M.O., Munk A.C., Nandkeshwar R.D.,
+RA   Pitluck S., Pollard M., Predki P., Parson-Quintana B., Ramirez L.,
+RA   Rash S., Retterer J., Ricke D.O., Robinson D.L., Rodriguez A.,
+RA   Salamov A., Saunders E.H., Scott D., Shough T., Stallings R.L.,
+RA   Stalvey M., Sutherland R.D., Tapia R., Tesmer J.G., Thayer N.,
+RA   Thompson L.S., Tice H., Torney D.C., Tran-Gyamfi M., Tsai M.,
+RA   Ulanovsky L.E., Ustaszewska A., Vo N., White P.S., Williams A.L.,
+RA   Wills P.L., Wu J.-R., Wu K., Yang J., DeJong P., Bruce D.,
+RA   Doggett N.A., Deaven L., Schmutz J., Grimwood J., Richardson P.,
+RA   Rokhsar D.S., Eichler E.E., Gilna P., Lucas S.M., Myers R.M.,
+RA   Rubin E.M., Pennacchio L.A.;
+RT   "The sequence and analysis of duplication-rich human chromosome 16.";
+RL   Nature 432:988-994(2004).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA / MRNA] OF 2769-4303.
+RX   PubMed=8004675;
+RA   Ward C.J., Peral B., Hughes J., Thomas S., Gamble V., Maccarthy A.B.,
+RA   Sloane-Stanley J., Buckle V.J., Kearney L., Higgs D.R.,
+RA   Ratcliffe P.J., Harris P.C., Roelfsema J.H., Spruit L.L., Saris J.J.,
+RA   Dauwerse H.G., Peters D.J.M., Breuning M.H., Nellist M.,
+RA   Brook-Carter P.T., Maheshwar M.M., Cordeiro I., Santos H., Cabral P.,
+RA   Sampson J.R., Janssen B., Hesseling-Janssen A.L.W.,
+RA   van den Ouweland A.M.W., Eussen B., Verhoef S., Lindhout D.,
+RA   Halley D.J.J.;
+RT   "The polycystic kidney disease 1 gene encodes a 14 kb transcript and
+RT   lies within a duplicated region on chromosome 16.";
+RL   Cell 77:881-894(1994).
+RN   [5]
+RP   ERRATUM.
+RX   PubMed=8069919;
+RA   Ward C.J., Peral B., Hughes J., Thomas S., Gamble V., Maccarthy A.B.,
+RA   Sloane-Stanley J., Buckle V.J., Kearney L., Higgs D.R.,
+RA   Ratcliffe P.J., Harris P.C., Roelfsema J.H., Spruit L.L., Saris J.J.,
+RA   Dauwerse H.G., Peters D.J.M., Breuning M.H., Nellist M.,
+RA   Brook-Carter P.T., Maheshwar M.M., Cordeiro I., Santos H., Cabral P.,
+RA   Sampson J.R., Janssen B., Hesseling-Janssen A.L.W.,
+RA   van den Ouweland A.M.W., Eussen B., Verhoef S., Lindhout D.,
+RA   Halley D.J.J.;
+RL   Cell 78:725-725(1994).
+RN   [6]
+RP   INTERACTION WITH RGS7, AND SUBCELLULAR LOCATION.
+RX   PubMed=10339594; DOI=10.1073/pnas.96.11.6371;
+RA   Kim E., Arnould T., Sellin L., Benzing T., Comella N., Kocher O.,
+RA   Tsiokas L., Sukhatme V.P., Walz G.;
+RT   "Interaction between RGS7 and polycystin.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 96:6371-6376(1999).
+RN   [7]
+RP   FUNCTION IN RENAL TUBULOGENESIS, CLEAVAGE AT GPS DOMAIN,
+RP   CHARACTERIZATION OF VARIANTS PKD1 LYS-2771; PRO-2921; PRO-2993 AND
+RP   ARG-3016, AND CHARACTERIZATION OF VARIANT GLN-2791.
+RX   PubMed=12482949; DOI=10.1073/pnas.252484899;
+RA   Qian F., Boletta A., Bhunia A.K., Xu H., Liu L., Ahrabi A.K.,
+RA   Watnick T.J., Zhou F., Germino G.G.;
+RT   "Cleavage of polycystin-1 requires the receptor for egg jelly domain
+RT   and is disrupted by human autosomal-dominant polycystic kidney disease
+RT   1-associated mutations.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 99:16981-16986(2002).
+RN   [8]
+RP   AUTOPROTEOLYTIC CLEAVAGE, DETERMINATION OF AUTOPROTEOLYTIC CLEAVAGE
+RP   SITE, AND MUTAGENESIS OF THR-3049.
+RX   PubMed=17525154; DOI=10.1074/jbc.M703218200;
+RA   Wei W., Hackmann K., Xu H., Germino G., Qian F.;
+RT   "Characterization of cis-autoproteolysis of polycystin-1, the product
+RT   of human polycystic kidney disease 1 gene.";
+RL   J. Biol. Chem. 282:21729-21737(2007).
+RN   [9]
+RP   PHOSPHORYLATION AT SER-4166, AND INTERACTION WITH PRKX.
+RX   PubMed=17980165; DOI=10.1016/j.bbadis.2007.09.003;
+RA   Li X., Burrow C.R., Polgar K., Hyink D.P., Gusella G.L., Wilson P.D.;
+RT   "Protein kinase X (PRKX) can rescue the effects of polycystic kidney
+RT   disease-1 gene (PKD1) deficiency.";
+RL   Biochim. Biophys. Acta 1782:1-9(2008).
+RN   [10]
+RP   SUBCELLULAR LOCATION.
+RX   PubMed=20980620; DOI=10.1091/mbc.E10-05-0407;
+RA   Chapin H.C., Rajendran V., Caplan M.J.;
+RT   "Polycystin-1 surface localization is stimulated by polycystin-2 and
+RT   cleavage at the G protein-coupled receptor proteolytic site.";
+RL   Mol. Biol. Cell 21:4338-4348(2010).
+RN   [11]
+RP   INTERACTION WITH NPHP1.
+RX   PubMed=20856870; DOI=10.1371/journal.pone.0012719;
+RA   Wodarczyk C., Distefano G., Rowe I., Gaetani M., Bricoli B.,
+RA   Muorah M., Spitaleri A., Mannella V., Ricchiuto P., Pema M.,
+RA   Castelli M., Casanova A.E., Mollica L., Banzi M., Boca M.,
+RA   Antignac C., Saunier S., Musco G., Boletta A.;
+RT   "Nephrocystin-1 forms a complex with polycystin-1 via a polyproline
+RT   motif/SH3 domain interaction and regulates the apoptotic response in
+RT   mammals.";
+RL   PLoS ONE 5:E12719-E12719(2010).
+RN   [12]
+RP   INTERACTION WITH BBS1; BBS4; BBS5 AND TTC8.
+RX   PubMed=24939912; DOI=10.1093/hmg/ddu267;
+RA   Su X., Driscoll K., Yao G., Raed A., Wu M., Beales P.L., Zhou J.;
+RT   "Bardet-Biedl syndrome proteins 1 and 3 regulate the ciliary
+RT   trafficking of polycystic kidney disease 1 protein.";
+RL   Hum. Mol. Genet. 23:5441-5451(2014).
+RN   [13]
+RP   STRUCTURE BY NMR OF 275-354.
+RX   PubMed=9889186; DOI=10.1093/emboj/18.2.297;
+RA   Bycroft M., Bateman A., Clarke J., Hamill S.J., Sandford R.,
+RA   Thomas R.L., Chothia C.;
+RT   "The structure of a PKD domain from polycystin-1: implications for
+RT   polycystic kidney disease.";
+RL   EMBO J. 18:297-305(1999).
+RN   [14]
+RP   REVIEW.
+RX   PubMed=11698076; DOI=10.1016/S0165-6147(00)01832-0;
+RA   Stayner C., Zhou J.;
+RT   "Polycystin channels and kidney disease.";
+RL   Trends Pharmacol. Sci. 22:543-546(2001).
+RN   [15]
+RP   VARIANT PKD1 3748-ARG--VAL-3752 DEL, AND VARIANT ASP-3632.
+RX   PubMed=8554072;
+RA   Peral B., San Millan J.L., Ong A.C.M., Gamble V., Ward C.J.,
+RA   Strong C., Harris P.C.;
+RT   "Screening the 3' region of the polycystic kidney disease 1 (PKD1)
+RT   gene reveals six novel mutations.";
+RL   Am. J. Hum. Genet. 58:86-96(1996).
+RN   [16]
+RP   VARIANTS PKD1 PRO-2993; ARG-3016 AND VAL-3511, AND VARIANTS MET-3510
+RP   AND PHE-4190.
+RX   PubMed=9199561; DOI=10.1086/515467;
+RA   Peral B., Gamble V., Strong C., Ong A.C.M., Sloane-Stanley J.,
+RA   Zerres K., Winearls C.G., Harris P.C.;
+RT   "Identification of mutations in the duplicated region of the
+RT   polycystic kidney disease 1 gene (PKD1) by a novel approach.";
+RL   Am. J. Hum. Genet. 60:1399-1410(1997).
+RN   [17]
+RP   VARIANT ALA-4058.
+RX   PubMed=9150733; DOI=10.1007/s004390050421;
+RA   Constantinides R., Xenophontos S.L., Neophytou P., Nomura S.,
+RA   Pierides A., Constantinou-Deltas C.D.;
+RT   "New amino acid polymorphism, Ala/Val4058, in exon 45 of the
+RT   polycystic kidney disease 1 gene: evolution of alleles.";
+RL   Hum. Genet. 99:644-647(1997).
+RN   [18]
+RP   VARIANTS PKD1 VAL-2763; THR-2826 AND LEU-3008, AND VARIANTS THR-2760;
+RP   PRO-2761; THR-2764; GLN-2791 AND LEU-3066.
+RX   PubMed=9285784; DOI=10.1093/hmg/6.9.1473;
+RA   Watnick T.J., Piontek K.B., Cordal T.M., Weber H., Gandolph M.A.,
+RA   Qian F., Lens X.M., Neumann H.P.H., Germino G.G.;
+RT   "An unusual pattern of mutation in the duplicated portion of PKD1 is
+RT   revealed by use of a novel strategy for mutation detection.";
+RL   Hum. Mol. Genet. 6:1473-1481(1997).
+RN   [19]
+RP   VARIANT PKD1 THR-3678.
+RX   PubMed=9259200;
+RX   DOI=10.1002/(SICI)1098-1004(1997)10:2<164::AID-HUMU9>3.0.CO;2-K;
+RA   Turco A.E., Rossetti S., Bresin E., Englisch S., Corra S.,
+RA   Pignatti P.F.;
+RT   "Three novel mutations of the PKD1 gene in Italian families with
+RT   autosomal dominant polycystic kidney disease.";
+RL   Hum. Mutat. 10:164-167(1997).
+RN   [20]
+RP   VARIANT PKD1 ASP-4032, AND VARIANT VAL-4045.
+RX   PubMed=9521593; DOI=10.1007/s004390050681;
+RA   Daniells C., Maheshwar M.M., Lazarou L., Davies F., Coles G.,
+RA   Ravine D.;
+RT   "Novel and recurrent mutations in the PKD1 (polycystic kidney disease)
+RT   gene.";
+RL   Hum. Genet. 102:216-220(1998).
+RN   [21]
+RP   VARIANT PKD1 MET-3375.
+RX   PubMed=9921908; DOI=10.1007/s004390050896;
+RA   Koptides M., Constantinides R., Kyriakides G., Hadjigavriel M.,
+RA   Patsalis P.C., Pierides A., Deltas C.C.;
+RT   "Loss of heterozygosity in polycystic kidney disease with a missense
+RT   mutation in the repeated region of PKD1.";
+RL   Hum. Genet. 103:709-717(1998).
+RN   [22]
+RP   VARIANTS PKD1 LEU-324 AND SER-845, AND VARIANTS ARG-1399 AND LEU-1786.
+RX   PubMed=10364515; DOI=10.1086/302460;
+RA   Thomas R.L., McConnell R., Whittacker J., Kirkpatrick P., Bradley J.,
+RA   Sandford R.;
+RT   "Identification of mutations in the repeated part of the autosomal
+RT   dominant polycystic kidney disease type 1 gene, PKD1, by long-range
+RT   PCR.";
+RL   Am. J. Hum. Genet. 65:39-49(1999).
+RN   [23]
+RP   VARIANTS PKD1 PRO-2392 AND PHE-2423, AND VARIANTS ARG-1399; GLN-2548
+RP   AND ARG-2638.
+RX   PubMed=10577909; DOI=10.1086/302657;
+RA   Watnick T., Phakdeekitcharoen B., Johnson A., Gandolph M.A., Wang M.,
+RA   Briefel G., Klinger K.W., Kimberling W., Gabow P., Germino G.G.;
+RT   "Mutation detection of PKD1 identifies a novel mutation common to
+RT   three families with aneurysms and/or very-early-onset disease.";
+RL   Am. J. Hum. Genet. 65:1561-1571(1999).
+RN   [24]
+RP   VARIANTS PKD1 LEU-LEU-PHE-3996 INS; GLY-4136 AND CYS-4154, AND
+RP   VARIANTS.
+RX   PubMed=10987650; DOI=10.1007/s004390051094;
+RA   Perrichot R.A., Mercier B., Simon P.M., Whebe B., Cledes J., Ferec C.;
+RT   "DGGE screening of PKD1 gene reveals novel mutations in a large cohort
+RT   of 146 unrelated patients.";
+RL   Hum. Genet. 105:231-239(1999).
+RN   [25]
+RP   VARIANTS PKD1 3748-ARG--VAL-3752 DEL AND LEU-4132 DEL, AND VARIANT
+RP   VAL-4045.
+RX   PubMed=10647901; DOI=10.1007/s004399900177;
+RA   Afzal A.R., Hand M., Ternes-Pereira E., Saggar-Malik A., Taylor R.,
+RA   Jeffery S.;
+RT   "Novel mutations in the 3 region of the polycystic kidney disease 1
+RT   (PKD1) gene.";
+RL   Hum. Genet. 105:648-653(1999).
+RN   [26]
+RP   VARIANTS PKD1 PRO-4225 AND TRP-4276.
+RX   PubMed=10200984; DOI=10.1046/j.1523-1755.1999.00368.x;
+RA   Badenas C., Torra R., San Millan J.L., Lucero L., Mila M.,
+RA   Estivill X., Darnell A.;
+RT   "Mutational analysis within the 3' region of the PKD1 gene.";
+RL   Kidney Int. 55:1225-1233(1999).
+RN   [27]
+RP   VARIANTS PKD1 MET-2250; TRP-2329 AND CYS-2379, AND VARIANTS LEU-3066;
+RP   VAL-3139 AND LEU-3193.
+RX   PubMed=10854095; DOI=10.1038/sj.ejhg.5200459;
+RA   Perrichot R., Mercier B., Quere I., Carre A., Simon P., Whebe B.,
+RA   Cledes J., Ferec C.;
+RT   "Novel mutations in the duplicated region of PKD1 gene.";
+RL   Eur. J. Hum. Genet. 8:353-359(2000).
+RN   [28]
+RP   VARIANTS PKD1 HIS-3247 AND MET-3382.
+RX   PubMed=11216660; DOI=10.1089/109065700750065108;
+RA   Afzal A.R., Florencio R.N., Taylor R., Patton M.A., Saggar-Malik A.,
+RA   Jeffery S.;
+RT   "Novel mutations in the duplicated region of the polycystic kidney
+RT   disease 1 (PKD1) gene provides supporting evidence for gene
+RT   conversion.";
+RL   Genet. Test. 4:365-370(2000).
+RN   [29]
+RP   VARIANTS PKD1 PRO-2921 AND MET-3375, AND VARIANT LEU-3066.
+RX   PubMed=10923040;
+RX   DOI=10.1002/1098-1004(200008)16:2<176::AID-HUMU11>3.0.CO;2-H;
+RA   Koptides M., Mean R., Demetriou K., Constantinides R., Pierides A.,
+RA   Harris P.C., Deltas C.C.;
+RT   "Screening of the PKD1 duplicated region reveals multiple single
+RT   nucleotide polymorphisms and a de novo mutation in Hellenic polycystic
+RT   kidney disease families.";
+RL   Hum. Mutat. 16:176-176(2000).
+RN   [30]
+RP   VARIANTS PKD1 GLN-3719 AND PRO-3852, AND VARIANT VAL-4045.
+RX   PubMed=11058904;
+RX   DOI=10.1002/1098-1004(200011)16:5<444::AID-HUMU11>3.0.CO;2-C;
+RA   Aguiari G., Savelli S., Garbo M., Bozza A., Augello G., Penolazzi L.,
+RA   De Paoli Vitali E., La Torre C., Cappelli G., Piva R., del Senno L.;
+RT   "Novel splicing and missense mutations in autosomal dominant
+RT   polycystic kidney disease 1 (PKD1) gene: expression of mutated
+RT   genes.";
+RL   Hum. Mutat. 16:444-445(2000).
+RN   [31]
+RP   VARIANTS PKD1 SER-1166; GLU-1956; CYS-2408 AND GLY-2442--2443 INS, AND
+RP   VARIANTS HIS-1995 AND ASN-2604.
+RX   PubMed=11012875; DOI=10.1046/j.1523-1755.2000.00302.x;
+RA   Phakdeekitcharoen B., Watnick T.J., Ahn C., Whang D.-Y., Burkhart B.,
+RA   Germino G.G.;
+RT   "Thirteen novel mutations of the replicated region of PKD1 in an Asian
+RT   population.";
+RL   Kidney Int. 58:1400-1412(2000).
+RN   [32]
+RP   VARIANTS PKD1 TRP-3753 AND ASN-3815.
+RX   PubMed=10729710; DOI=10.1016/S1383-5726(99)00013-8;
+RA   Kim U.K., Jin D.K., Ahn C., Shin J.H., Lee K.B., Kim S.H., Chae J.J.,
+RA   Hwang D.Y., Lee J.G., Namkoong Y., Lee C.C.;
+RT   "Novel mutations of the PKD1 gene in Korean patients with autosomal
+RT   dominant polycystic kidney disease.";
+RL   Mutat. Res. 432:39-45(2000).
+RN   [33]
+RP   VARIANTS PKD1 GLN-13; PHE-75; CYS-139; 1992-PHE-THR-1993 DELINS LEU;
+RP   2220-ARG--PRO-2224 DEL; ASP-2336; ASP-2752; ILE-LEU-MET-ARG-2765 INS;
+RP   MET-2768; LYS-2771; PRO-2816; SER-2858; 3012-THR--TYR-3017 DEL AND
+RP   3748-LEU--ARG-3752 DEL, AND VARIANTS SER-2674; MET-2708; THR-2734;
+RP   LEU-2735; CYS-2765; MET-2782; ARG-2814; GLY-2888; ILE-2905; ASP-2966
+RP   AND LEU-3066.
+RX   PubMed=11115377; DOI=10.1086/316939;
+RA   Rossetti S., Strmecki L., Gamble V., Burton S., Sneddon V., Peral B.,
+RA   Roy S., Bakkaloglu A., Komel R., Winearls C.G., Harris P.C.;
+RT   "Mutation analysis of the entire PKD1 gene: genetic and diagnostic
+RT   implications.";
+RL   Am. J. Hum. Genet. 68:46-63(2001).
+RN   [34]
+RP   VARIANTS PKD1 LEU-2471; LEU-2519; GLY-2579 DEL; LEU-2613 DEL; ILE-2649
+RP   AND PHE-2978 DEL, AND VARIANTS MET-2582; ARG-2638; ASN-2972 AND
+RP   LEU-3066.
+RX   PubMed=11571556; DOI=10.1038/sj.ejhg.5200696;
+RA   Bouba I., Koptides M., Mean R., Costi C.-E., Demetriou K.,
+RA   Georgiou I., Pierides A., Siamopoulos K., Deltas C.C.;
+RT   "Novel PKD1 deletions and missense variants in a cohort of Hellenic
+RT   polycystic kidney disease families.";
+RL   Eur. J. Hum. Genet. 9:677-684(2001).
+RN   [35]
+RP   VARIANTS PKD1 ARG-967; ARG-2696; GLY-2985; CYS-3039 AND ILE-3285, AND
+RP   VARIANTS VAL-88 AND ARG-3311.
+RX   PubMed=11316854;
+RA   Phakdeekitcharoen B., Watnick T.J., Germino G.G.;
+RT   "Mutation analysis of the entire replicated portion of PKD1 using
+RT   genomic DNA samples.";
+RL   J. Am. Soc. Nephrol. 12:955-963(2001).
+RN   [36]
+RP   VARIANT PKD1 MET-3510, AND VARIANT MET-3008.
+RX   PubMed=11558899; DOI=10.1007/s100380170032;
+RA   Mizoguchi M., Tamura T., Yamaki A., Higashihara E., Shimizu Y.;
+RT   "Mutations of the PKD1 gene among Japanese autosomal dominant
+RT   polycystic kidney disease patients, including one heterozygous
+RT   mutation identified in members of the same family.";
+RL   J. Hum. Genet. 46:511-517(2001).
+RN   [37]
+RP   VARIANTS PKD1 ARG-3560; GLN-3719 AND TRP-3753, AND VARIANT MET-3510.
+RX   PubMed=11691639; DOI=10.1016/S0027-5107(01)00226-3;
+RA   Tsuchiya K., Komeda M., Takahashi M., Yamashita N., Cigira M.,
+RA   Suzuki T., Suzuki K., Nihei H., Mochizuki T.;
+RT   "Mutational analysis within the 3' region of the PKD1 gene in Japanese
+RT   families.";
+RL   Mutat. Res. 458:77-84(2001).
+RN   [38]
+RP   VARIANTS PKD1 SER-3602 AND SER-4255.
+RX   PubMed=12220456; DOI=10.1034/j.1399-0004.2002.620211.x;
+RA   Eo H.-S., Lee J.G., Ahn C., Cho J.T., Hwang D.Y., Hwang Y.H.,
+RA   Lee E.J., Kim Y.S., Han J.S., Kim S., Lee J.S., Jeoung D.I., Lee S.E.,
+RA   Kim U.K.;
+RT   "Three novel mutations of the PKD1 gene in Korean patients with
+RT   autosomal dominant polycystic kidney disease.";
+RL   Clin. Genet. 62:169-174(2002).
+RN   [39]
+RP   VARIANTS PKD1 CYS-381; ASP-2185; THR-2421 DEL; ASP-2785 AND
+RP   3027-THR--ARG-3039 DEL, AND VARIANTS GLN-739; THR-1092; ARG-1399;
+RP   MET-1649; ARG-2638; CYS-2765 AND LEU-3066.
+RX   PubMed=11857740; DOI=10.1002/humu.10045;
+RA   McCluskey M., Schiavello T., Hunter M., Hantke J., Angelicheva D.,
+RA   Bogdanova N., Markoff A., Thomas M., Dworniczak B., Horst J.,
+RA   Kalaydjieva L.;
+RT   "Mutation detection in the duplicated region of the polycystic kidney
+RT   disease 1 (PKD1) gene in PKD1-linked Australian families.";
+RL   Hum. Mutat. 19:240-250(2002).
+RN   [40]
+RP   VARIANTS PKD1 ILE-2083; ARG-2814 AND PRO-2816, AND VARIANTS MET-87 AND
+RP   MET-3510.
+RX   PubMed=12007219; DOI=10.1002/humu.10080;
+RA   Inoue S., Inoue K., Utsunomiya M., Nozaki J., Yamada Y., Iwasa T.,
+RA   Mori E., Yoshinaga T., Koizumi A.;
+RT   "Mutation analysis in PKD1 of Japanese autosomal dominant polycystic
+RT   kidney disease patients.";
+RL   Hum. Mutat. 19:622-628(2002).
+RN   [41]
+RP   VARIANT PKD1 HIS-987, AND VARIANTS ARG-1399 AND VAL-4045.
+RX   PubMed=12070253; DOI=10.1136/jmg.39.6.422;
+RA   Burtey S., Lossi A.M., Bayle J., Berland Y., Fontes M.;
+RT   "Mutation screening of the PKD1 transcript by RT-PCR.";
+RL   J. Med. Genet. 39:422-429(2002).
+RN   [42]
+RP   VARIANTS PKD1 TRP-1340; LYS-1811; CYS-2092; ILE-2260 DEL; PHE-3167 AND
+RP   PRO-3852, AND VARIANTS LEU-61; SER-572; THR-1092; SER-1168; ARG-1399;
+RP   LEU-1684; ILE-1943; ARG-2638; SER-2674; MET-2708; ARG-2814; LEU-2958;
+RP   ASN-2977; MET-3057; GLN-3435; VAL-3512; VAL-4045; VAL-4059; SER-4124;
+RP   ILE-4146 AND PHE-4190.
+RX   PubMed=11967008; DOI=10.1046/j.1523-1755.2002.00326.x;
+RA   Rossetti S., Chauveau D., Walker D., Saggar-Malik A., Winearls C.G.,
+RA   Torres V.E., Harris P.C.;
+RT   "A complete mutation screen of the ADPKD genes by DHPLC.";
+RL   Kidney Int. 61:1588-1599(2002).
+RN   [43]
+RP   VARIANTS PKD1 ASP-3632; LEU-3649 AND THR-3678, AND VARIANTS VAL-4045;
+RP   VAL-4059; GLU-4102; PRO-4106 AND ILE-4146.
+RX   PubMed=11773467; DOI=10.1093/ndt/17.1.75;
+RA   Ding L., Zhang S., Qiu W., Xiao C., Wu S., Zhang G., Cheng L.,
+RA   Zhang S.;
+RT   "Novel mutations of PKD1 gene in Chinese patients with autosomal
+RT   dominant polycystic kidney disease.";
+RL   Nephrol. Dial. Transplant. 17:75-80(2002).
+RN   [44]
+RP   VARIANTS PKD1 ARG-164; GLY-210; ARG-508; ASP-690; ASN-1240 DEL;
+RP   PRO-1667; LYS-1811; CYS-2092; CYS-2200; ILE-2260 DEL; ARG-2370;
+RP   TYR-2373; LYS-2771; LEU-2802; ASN-3188 DEL; LEU-3355; PRO-3682 AND
+RP   ARG-3751.
+RX   PubMed=12842373; DOI=10.1016/S0140-6736(03)13773-7;
+RA   Rossetti S., Chauveau D., Kubly V., Slezak J.M., Saggar-Malik A.K.,
+RA   Pei Y., Ong A.C.M., Stewart F., Watson M.L., Bergstralh E.J.,
+RA   Winearls C.G., Torres V.E., Harris P.C.;
+RT   "Association of mutation position in polycystic kidney disease 1
+RT   (PKD1) gene and development of a vascular phenotype.";
+RL   Lancet 361:2196-2201(2003).
+RN   [45]
+RP   VARIANTS PKD1 SER-845; MET-3138 AND PRO-3954, AND VARIANTS HIS-36;
+RP   ARG-2638; LEU-3066; MET-3510; VAL-3512; VAL-4045 AND VAL-4059.
+RX   PubMed=15772804; DOI=10.1007/s00109-005-0644-6;
+RA   Peltola P., Lumiaho A., Miettinen R., Pihlajamaeki J., Sandford R.,
+RA   Laakso M.;
+RT   "Genetics and phenotypic characteristics of autosomal dominant
+RT   polycystic kidney disease in Finns.";
+RL   J. Mol. Med. 83:638-646(2005).
+RN   [46]
+RP   VARIANTS PKD1 LEU-61; ILE-99; TYR-594; THR-1092; MET-1242; CYS-2200;
+RP   LYS-2422; ARG-2638; LEU-3066; SER-3726 AND VAL-4155, AND VARIANTS
+RP   HIS-36; GLN-739; ARG-1399; THR-1516; THR-1871; VAL-1926; ASP-1952;
+RP   MET-2708; ARG-2814; VAL-3512; VAL-4045 AND VAL-4059.
+RX   PubMed=18837007; DOI=10.1002/humu.20842;
+RA   Tan Y.-C., Blumenfeld J.D., Anghel R., Donahue S., Belenkaya R.,
+RA   Balina M., Parker T., Levine D., Leonard D.G.B., Rennert H.;
+RT   "Novel method for genomic analysis of PKD1 and PKD2 mutations in
+RT   autosomal dominant polycystic kidney disease.";
+RL   Hum. Mutat. 30:264-273(2009).
+RN   [47]
+RP   VARIANTS PKD1 GLY-97; ARG-436; PRO-442; ARG-727; PRO-727; ASP-2391;
+RP   TRP-2434; TYR-2546; CYS-2569; THR-2646; ARG-2889; PRO-3154; ARG-3603
+RP   AND GLN-3750.
+RX   PubMed=21115670; DOI=10.1093/ndt/gfq720;
+RA   Hoefele J., Mayer K., Scholz M., Klein H.G.;
+RT   "Novel PKD1 and PKD2 mutations in autosomal dominant polycystic kidney
+RT   disease (ADPKD).";
+RL   Nephrol. Dial. Transplant. 26:2181-2188(2011).
+RN   [48]
+RP   VARIANTS PKD1 CYS-325; TRP-611; ASP-698; PRO-727; GLY-1206; CYS-2379;
+RP   CYS-2767; LYS-2771; ARG-2995; SER-3651; GLN-3750; TRP-3753; CYS-4150
+RP   AND TRP-4276.
+RX   PubMed=22508176; DOI=10.1002/humu.22103;
+RA   Audrezet M.P., Gall E.C., Chen J.M., Redon S., Quere I., Creff J.,
+RA   Benech C., Maestri S., Meur Y.L., Ferec C.;
+RT   "Autosomal dominant polycystic kidney disease: Comprehensive mutation
+RT   analysis of PKD1 and PKD2 in 700 unrelated patients.";
+RL   Hum. Mutat. 33:1239-1250(2012).
+CC   -!- FUNCTION: Involved in renal tubulogenesis (PubMed:12482949).
+CC       Involved in fluid-flow mechanosensation by the primary cilium in
+CC       renal epithelium (By similarity). Acts as a regulator of cilium
+CC       length, together with PKD2 (By similarity). The dynamic control of
+CC       cilium length is essential in the regulation of
+CC       mechanotransductive signaling (By similarity). The cilium length
+CC       response creates a negative feedback loop whereby fluid shear-
+CC       mediated deflection of the primary cilium, which decreases
+CC       intracellular cAMP, leads to cilium shortening and thus decreases
+CC       flow-induced signaling (By similarity). May be an ion-channel
+CC       regulator. Involved in adhesive protein-protein and protein-
+CC       carbohydrate interactions. {ECO:0000250|UniProtKB:O08852,
+CC       ECO:0000269|PubMed:12482949}.
+CC   -!- SUBUNIT: Interacts with PKD2 and PKD2L1 (By similarity). Interacts
+CC       with PRKX; involved in differentiation and controlled
+CC       morphogenesis of the kidney (PubMed:17980165). Interacts with
+CC       NPHP1 (via SH3 domain) (PubMed:20856870). Interacts with BBS1,
+CC       BBS4, BBS5 and TTC8 (PubMed:24939912). Interacts with RGS7
+CC       (PubMed:10339594). {ECO:0000250|UniProtKB:O08852,
+CC       ECO:0000269|PubMed:10339594, ECO:0000269|PubMed:17980165,
+CC       ECO:0000269|PubMed:20856870, ECO:0000269|PubMed:24939912}.
+CC   -!- INTERACTION:
+CC       O15259:NPHP1; NbExp=2; IntAct=EBI-1752013, EBI-953828;
+CC       Q13563:PKD2; NbExp=8; IntAct=EBI-1752013, EBI-7813714;
+CC   -!- SUBCELLULAR LOCATION: Cell membrane {ECO:0000269|PubMed:10339594,
+CC       ECO:0000269|PubMed:20980620}; Multi-pass membrane protein
+CC       {ECO:0000269|PubMed:20980620}. Cell projection, cilium
+CC       {ECO:0000250|UniProtKB:O08852}. Note=PKD1 localization to the
+CC       plasma and ciliary membranes requires PKD2, is independent of PKD2
+CC       channel activity, and involves stimulation of PKD1 autoproteolytic
+CC       cleavage at the GPS domain (By similarity). Ciliary localization
+CC       of PKD1 requires BBS1 and ARL6/BBS3 (By similarity).
+CC       {ECO:0000250|UniProtKB:O08852}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=3;
+CC       Name=1;
+CC         IsoId=P98161-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=P98161-2; Sequence=VSP_009677, VSP_009678;
+CC       Name=3;
+CC         IsoId=P98161-3; Sequence=VSP_009678;
+CC   -!- DOMAIN: The LDL-receptor class A domain is atypical; the potential
+CC       calcium-binding site is missing.
+CC   -!- PTM: After synthesis, undergoes cleavage between Leu-3048 and Thr-
+CC       3049 in the GPS domain. Cleavage at the GPS domain occurs through
+CC       a cis-autoproteolytic mechanism involving an ester-intermediate
+CC       via N-O acyl rearrangement. This process takes place in the early
+CC       secretory pathway, depends on initial N-glycosylation, and
+CC       requires the REJ domain. There is evidence that cleavage at GPS
+CC       domain is incomplete. Uncleaved and cleaved products may have
+CC       different functions in vivo. {ECO:0000269|PubMed:12482949}.
+CC   -!- DISEASE: Polycystic kidney disease 1 (PKD1) [MIM:173900]: A
+CC       disorder characterized by renal cysts, liver cysts and
+CC       intracranial aneurysm. Clinical variability is due to differences
+CC       in the rate of loss of glomerular filtration, the age of reaching
+CC       end-stage renal disease and the occurrence of hypertension,
+CC       symptomatic extrarenal cysts, and subarachnoid hemorrhage from
+CC       intracranial 'berry' aneurysm. {ECO:0000269|PubMed:10200984,
+CC       ECO:0000269|PubMed:10364515, ECO:0000269|PubMed:10577909,
+CC       ECO:0000269|PubMed:10647901, ECO:0000269|PubMed:10729710,
+CC       ECO:0000269|PubMed:10854095, ECO:0000269|PubMed:10923040,
+CC       ECO:0000269|PubMed:10987650, ECO:0000269|PubMed:11012875,
+CC       ECO:0000269|PubMed:11058904, ECO:0000269|PubMed:11115377,
+CC       ECO:0000269|PubMed:11216660, ECO:0000269|PubMed:11316854,
+CC       ECO:0000269|PubMed:11558899, ECO:0000269|PubMed:11571556,
+CC       ECO:0000269|PubMed:11691639, ECO:0000269|PubMed:11773467,
+CC       ECO:0000269|PubMed:11857740, ECO:0000269|PubMed:11967008,
+CC       ECO:0000269|PubMed:12007219, ECO:0000269|PubMed:12070253,
+CC       ECO:0000269|PubMed:12220456, ECO:0000269|PubMed:12842373,
+CC       ECO:0000269|PubMed:15772804, ECO:0000269|PubMed:18837007,
+CC       ECO:0000269|PubMed:21115670, ECO:0000269|PubMed:22508176,
+CC       ECO:0000269|PubMed:8554072, ECO:0000269|PubMed:9199561,
+CC       ECO:0000269|PubMed:9259200, ECO:0000269|PubMed:9285784,
+CC       ECO:0000269|PubMed:9521593, ECO:0000269|PubMed:9921908}. Note=The
+CC       disease is caused by mutations affecting the gene represented in
+CC       this entry.
+CC   -!- SIMILARITY: Belongs to the polycystin family. {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 1 C-type lectin domain. {ECO:0000255|PROSITE-
+CC       ProRule:PRU00040}.
+CC   -!- SIMILARITY: Contains 1 GPS domain. {ECO:0000255|PROSITE-
+CC       ProRule:PRU00098}.
+CC   -!- SIMILARITY: Contains 1 LDL-receptor class A domain. {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 2 LRR (leucine-rich) repeats. {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 1 LRRCT domain. {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 1 LRRNT domain. {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 17 PKD domains. {ECO:0000255|PROSITE-
+CC       ProRule:PRU00151}.
+CC   -!- SIMILARITY: Contains 1 PLAT domain. {ECO:0000255|PROSITE-
+CC       ProRule:PRU00152}.
+CC   -!- SIMILARITY: Contains 1 REJ domain. {ECO:0000255|PROSITE-
+CC       ProRule:PRU00511}.
+CC   -!- SIMILARITY: Contains 1 WSC domain. {ECO:0000255|PROSITE-
+CC       ProRule:PRU00558}.
+CC   -!- CAUTION: Variant Cys-2379 has been originally described as a
+CC       benign polymorphism (PubMed:10854095). However, it is a likely
+CC       pathogenic mutation (PubMed:22508176).
+CC       {ECO:0000305|PubMed:10854095, ECO:0000305|PubMed:22508176}.
+CC   -!- WEB RESOURCE: Name=Functional Glycomics Gateway - Glycan Binding;
+CC       Note=Polycystin-1;
+CC       URL="http://www.functionalglycomics.org/glycomics/GBPServlet?&operationType=view&cbpId=cbp_hum_Ctlect_204";
+CC   -!- WEB RESOURCE: Name=Atlas of Genetics and Cytogenetics in Oncology
+CC       and Haematology;
+CC       URL="http://atlasgeneticsoncology.org/Genes/PKD1ID41725ch16p13.html";
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; U24497; AAC50128.1; -; mRNA.
+DR   EMBL; L33243; AAC37576.1; -; mRNA.
+DR   EMBL; L43619; AAC41765.1; -; Genomic_DNA.
+DR   EMBL; L43601; AAC41765.1; JOINED; Genomic_DNA.
+DR   EMBL; L43602; AAC41765.1; JOINED; Genomic_DNA.
+DR   EMBL; L43604; AAC41765.1; JOINED; Genomic_DNA.
+DR   EMBL; L43605; AAC41765.1; JOINED; Genomic_DNA.
+DR   EMBL; L43610; AAC41765.1; JOINED; Genomic_DNA.
+DR   EMBL; L43617; AAC41765.1; JOINED; Genomic_DNA.
+DR   EMBL; L43618; AAC41765.1; JOINED; Genomic_DNA.
+DR   EMBL; AC093513; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AC009065; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   CCDS; CCDS32369.1; -. [P98161-1]
+DR   CCDS; CCDS45385.1; -. [P98161-3]
+DR   PIR; A38971; A38971.
+DR   RefSeq; NP_000287.3; NM_000296.3.
+DR   RefSeq; NP_001009944.2; NM_001009944.2.
+DR   UniGene; Hs.75813; -.
+DR   PDB; 1B4R; NMR; -; A=275-354.
+DR   PDBsum; 1B4R; -.
+DR   ProteinModelPortal; P98161; -.
+DR   SMR; P98161; 275-354.
+DR   BioGrid; 111327; 18.
+DR   DIP; DIP-52317N; -.
+DR   IntAct; P98161; 7.
+DR   MINT; MINT-1199187; -.
+DR   STRING; 9606.ENSP00000262304; -.
+DR   ChEMBL; CHEMBL5772; -.
+DR   MEROPS; P02.038; -.
+DR   TCDB; 1.A.5.1.1; the polycystin cation channel (pcc) family.
+DR   iPTMnet; P98161; -.
+DR   PhosphoSite; P98161; -.
+DR   BioMuta; PKD1; -.
+DR   DMDM; 292495072; -.
+DR   MaxQB; P98161; -.
+DR   PaxDb; P98161; -.
+DR   PRIDE; P98161; -.
+DR   Ensembl; ENST00000262304; ENSP00000262304; ENSG00000008710. [P98161-1]
+DR   Ensembl; ENST00000423118; ENSP00000399501; ENSG00000008710. [P98161-3]
+DR   GeneID; 5310; -.
+DR   KEGG; hsa:5310; -.
+DR   UCSC; uc002cos.1; human. [P98161-1]
+DR   CTD; 5310; -.
+DR   GeneCards; PKD1; -.
+DR   GeneReviews; PKD1; -.
+DR   H-InvDB; HIX0173395; -.
+DR   H-InvDB; HIX0202314; -.
+DR   HGNC; HGNC:9008; PKD1.
+DR   HPA; CAB046448; -.
+DR   MalaCards; PKD1; -.
+DR   MIM; 173900; phenotype.
+DR   MIM; 601313; gene+phenotype.
+DR   neXtProt; NX_P98161; -.
+DR   Orphanet; 730; Autosomal dominant polycystic kidney disease.
+DR   Orphanet; 88924; Autosomal dominant polycystic kidney disease type 1 with tuberous sclerosis.
+DR   PharmGKB; PA35521; -.
+DR   eggNOG; KOG3599; Eukaryota.
+DR   eggNOG; ENOG410XTGE; LUCA.
+DR   GeneTree; ENSGT00700000104221; -.
+DR   HOGENOM; HOG000168445; -.
+DR   HOVERGEN; HBG049412; -.
+DR   InParanoid; P98161; -.
+DR   KO; K04985; -.
+DR   OMA; VSCKAQS; -.
+DR   OrthoDB; EOG76X5Z6; -.
+DR   PhylomeDB; P98161; -.
+DR   TreeFam; TF316484; -.
+DR   Reactome; R-HSA-5620916; VxPx cargo-targeting to cilium.
+DR   SignaLink; P98161; -.
+DR   EvolutionaryTrace; P98161; -.
+DR   GeneWiki; PKD1; -.
+DR   GenomeRNAi; 5310; -.
+DR   NextBio; 20530; -.
+DR   PRO; PR:P98161; -.
+DR   Proteomes; UP000005640; Chromosome 16.
+DR   Bgee; P98161; -.
+DR   CleanEx; HS_PKD1; -.
+DR   ExpressionAtlas; P98161; baseline and differential.
+DR   Genevisible; P98161; HS.
+DR   GO; GO:0016323; C:basolateral plasma membrane; IDA:BHF-UCL.
+DR   GO; GO:0009986; C:cell surface; IEA:Ensembl.
+DR   GO; GO:0060170; C:ciliary membrane; TAS:Reactome.
+DR   GO; GO:0005929; C:cilium; ISS:BHF-UCL.
+DR   GO; GO:0005737; C:cytoplasm; ISS:BHF-UCL.
+DR   GO; GO:0005829; C:cytosol; IEA:Ensembl.
+DR   GO; GO:0070062; C:extracellular exosome; IDA:UniProtKB.
+DR   GO; GO:0000139; C:Golgi membrane; TAS:Reactome.
+DR   GO; GO:0030660; C:Golgi-associated vesicle membrane; TAS:Reactome.
+DR   GO; GO:0016021; C:integral component of membrane; NAS:BHF-UCL.
+DR   GO; GO:0005887; C:integral component of plasma membrane; TAS:ProtInc.
+DR   GO; GO:0016328; C:lateral plasma membrane; IEA:Ensembl.
+DR   GO; GO:0031512; C:motile primary cilium; ISS:BHF-UCL.
+DR   GO; GO:0005634; C:nucleus; ISS:BHF-UCL.
+DR   GO; GO:0005886; C:plasma membrane; IDA:MGI.
+DR   GO; GO:0002133; C:polycystin complex; ISS:BHF-UCL.
+DR   GO; GO:0072372; C:primary cilium; ISS:UniProtKB.
+DR   GO; GO:0005262; F:calcium channel activity; ISS:BHF-UCL.
+DR   GO; GO:0030246; F:carbohydrate binding; IEA:UniProtKB-KW.
+DR   GO; GO:0044325; F:ion channel binding; IPI:BHF-UCL.
+DR   GO; GO:0019904; F:protein domain specific binding; IPI:BHF-UCL.
+DR   GO; GO:0019901; F:protein kinase binding; IPI:UniProtKB.
+DR   GO; GO:0009653; P:anatomical structure morphogenesis; TAS:ProtInc.
+DR   GO; GO:0048754; P:branching morphogenesis of an epithelial tube; IDA:UniProtKB.
+DR   GO; GO:0070588; P:calcium ion transmembrane transport; ISS:BHF-UCL.
+DR   GO; GO:0007161; P:calcium-independent cell-matrix adhesion; TAS:ProtInc.
+DR   GO; GO:0001502; P:cartilage condensation; IEA:Ensembl.
+DR   GO; GO:0051216; P:cartilage development; IEP:UniProtKB.
+DR   GO; GO:0007050; P:cell cycle arrest; ISS:BHF-UCL.
+DR   GO; GO:0007160; P:cell-matrix adhesion; TAS:ProtInc.
+DR   GO; GO:0042994; P:cytoplasmic sequestering of transcription factor; ISS:BHF-UCL.
+DR   GO; GO:0050982; P:detection of mechanical stimulus; ISS:BHF-UCL.
+DR   GO; GO:0048565; P:digestive tract development; IEP:UniProtKB.
+DR   GO; GO:0001892; P:embryonic placenta development; ISS:BHF-UCL.
+DR   GO; GO:0030010; P:establishment of cell polarity; IEA:Ensembl.
+DR   GO; GO:0048806; P:genitalia development; IEP:UniProtKB.
+DR   GO; GO:0007507; P:heart development; IEP:UniProtKB.
+DR   GO; GO:0007156; P:homophilic cell adhesion via plasma membrane adhesion molecules; TAS:ProtInc.
+DR   GO; GO:0001701; P:in utero embryonic development; ISS:BHF-UCL.
+DR   GO; GO:0007259; P:JAK-STAT cascade; ISS:BHF-UCL.
+DR   GO; GO:0001822; P:kidney development; ISS:BHF-UCL.
+DR   GO; GO:0001889; P:liver development; IEA:Ensembl.
+DR   GO; GO:0060428; P:lung epithelium development; IEP:UniProtKB.
+DR   GO; GO:0036303; P:lymph vessel morphogenesis; IEA:Ensembl.
+DR   GO; GO:0072177; P:mesonephric duct development; IEP:UniProtKB.
+DR   GO; GO:0072164; P:mesonephric tubule development; IEP:UniProtKB.
+DR   GO; GO:0072218; P:metanephric ascending thin limb development; IEP:UniProtKB.
+DR   GO; GO:0072205; P:metanephric collecting duct development; IEP:UniProtKB.
+DR   GO; GO:0072287; P:metanephric distal tubule morphogenesis; IEP:UniProtKB.
+DR   GO; GO:0072237; P:metanephric proximal tubule development; IEP:UniProtKB.
+DR   GO; GO:0021915; P:neural tube development; IEP:UniProtKB.
+DR   GO; GO:0006807; P:nitrogen compound metabolic process; IEA:Ensembl.
+DR   GO; GO:0006996; P:organelle organization; TAS:Reactome.
+DR   GO; GO:0018105; P:peptidyl-serine phosphorylation; ISS:BHF-UCL.
+DR   GO; GO:0060674; P:placenta blood vessel development; ISS:BHF-UCL.
+DR   GO; GO:0031659; P:positive regulation of cyclin-dependent protein serine/threonine kinase activity involved in G1/S transition of mitotic cell cycle; IDA:BHF-UCL.
+DR   GO; GO:0007204; P:positive regulation of cytosolic calcium ion concentration; IEA:Ensembl.
+DR   GO; GO:0032092; P:positive regulation of protein binding; ISS:BHF-UCL.
+DR   GO; GO:0045944; P:positive regulation of transcription from RNA polymerase II promoter; IDA:BHF-UCL.
+DR   GO; GO:0006611; P:protein export from nucleus; ISS:BHF-UCL.
+DR   GO; GO:0030155; P:regulation of cell adhesion; IEA:Ensembl.
+DR   GO; GO:0060236; P:regulation of mitotic spindle organization; IEA:Ensembl.
+DR   GO; GO:0061136; P:regulation of proteasomal protein catabolic process; IDA:MGI.
+DR   GO; GO:0034405; P:response to fluid shear stress; IEA:Ensembl.
+DR   GO; GO:0016337; P:single organismal cell-cell adhesion; IEA:Ensembl.
+DR   GO; GO:0043588; P:skin development; IEP:UniProtKB.
+DR   GO; GO:0021510; P:spinal cord development; IEP:UniProtKB.
+DR   Gene3D; 2.60.40.670; -; 14.
+DR   Gene3D; 2.60.60.20; -; 1.
+DR   Gene3D; 3.10.100.10; -; 2.
+DR   Gene3D; 3.80.10.10; -; 1.
+DR   InterPro; IPR001304; C-type_lectin.
+DR   InterPro; IPR016186; C-type_lectin-like.
+DR   InterPro; IPR016187; C-type_lectin_fold.
+DR   InterPro; IPR000483; Cys-rich_flank_reg_C.
+DR   InterPro; IPR000203; GPS.
+DR   InterPro; IPR032675; L_dom-like.
+DR   InterPro; IPR001611; Leu-rich_rpt.
+DR   InterPro; IPR003591; Leu-rich_rpt_typical-subtyp.
+DR   InterPro; IPR000372; LRRNT.
+DR   InterPro; IPR000434; PC1.
+DR   InterPro; IPR022409; PKD/Chitinase_dom.
+DR   InterPro; IPR002859; PKD/REJ-like.
+DR   InterPro; IPR013122; PKD1_2_channel.
+DR   InterPro; IPR000601; PKD_dom.
+DR   InterPro; IPR001024; PLAT/LH2_dom.
+DR   InterPro; IPR006228; Polycystin_cat.
+DR   InterPro; IPR014010; REJ_dom.
+DR   InterPro; IPR002889; WSC_carb-bd.
+DR   InterPro; IPR013994; WSC_carb-bd_subgr.
+DR   Pfam; PF00059; Lectin_C; 1.
+DR   Pfam; PF13855; LRR_8; 1.
+DR   Pfam; PF00801; PKD; 15.
+DR   Pfam; PF08016; PKD_channel; 1.
+DR   Pfam; PF01477; PLAT; 1.
+DR   Pfam; PF02010; REJ; 1.
+DR   Pfam; PF01822; WSC; 1.
+DR   PRINTS; PR00500; POLYCYSTIN1.
+DR   SMART; SM00034; CLECT; 1.
+DR   SMART; SM00303; GPS; 1.
+DR   SMART; SM00308; LH2; 1.
+DR   SMART; SM00369; LRR_TYP; 1.
+DR   SMART; SM00082; LRRCT; 1.
+DR   SMART; SM00013; LRRNT; 1.
+DR   SMART; SM00089; PKD; 15.
+DR   SMART; SM00321; WSC; 1.
+DR   SUPFAM; SSF49299; SSF49299; 13.
+DR   SUPFAM; SSF49723; SSF49723; 1.
+DR   SUPFAM; SSF52058; SSF52058; 1.
+DR   SUPFAM; SSF56436; SSF56436; 1.
+DR   TIGRFAMs; TIGR00864; PCC; 1.
+DR   PROSITE; PS50041; C_TYPE_LECTIN_2; 1.
+DR   PROSITE; PS50221; GPS; 1.
+DR   PROSITE; PS51450; LRR; 2.
+DR   PROSITE; PS50093; PKD; 12.
+DR   PROSITE; PS50095; PLAT; 1.
+DR   PROSITE; PS51111; REJ; 1.
+DR   PROSITE; PS51212; WSC; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Alternative splicing; Autocatalytic cleavage;
+KW   Cell membrane; Cell projection; Ciliopathy; Cilium; Coiled coil;
+KW   Complete proteome; Disease mutation; Disulfide bond; Glycoprotein;
+KW   Lectin; Leucine-rich repeat; Membrane; Phosphoprotein; Polymorphism;
+KW   Reference proteome; Repeat; Signal; Transmembrane;
+KW   Transmembrane helix.
+FT   SIGNAL        1     23       {ECO:0000255}.
+FT   CHAIN        24   4303       Polycystin-1.
+FT                                /FTId=PRO_0000024298.
+FT   TOPO_DOM     24   3074       Extracellular. {ECO:0000255}.
+FT   TRANSMEM   3075   3095       Helical. {ECO:0000255}.
+FT   TOPO_DOM   3096   3282       Cytoplasmic. {ECO:0000255}.
+FT   TRANSMEM   3283   3303       Helical. {ECO:0000255}.
+FT   TOPO_DOM   3304   3323       Extracellular. {ECO:0000255}.
+FT   TRANSMEM   3324   3344       Helical. {ECO:0000255}.
+FT   TOPO_DOM   3345   3559       Cytoplasmic. {ECO:0000255}.
+FT   TRANSMEM   3560   3580       Helical. {ECO:0000255}.
+FT   TOPO_DOM   3581   3582       Extracellular. {ECO:0000255}.
+FT   TRANSMEM   3583   3603       Helical. {ECO:0000255}.
+FT   TOPO_DOM   3604   3673       Cytoplasmic. {ECO:0000255}.
+FT   TRANSMEM   3674   3694       Helical. {ECO:0000255}.
+FT   TOPO_DOM   3695   3896       Extracellular. {ECO:0000255}.
+FT   TRANSMEM   3897   3917       Helical. {ECO:0000255}.
+FT   TOPO_DOM   3918   3938       Cytoplasmic. {ECO:0000255}.
+FT   TRANSMEM   3939   3959       Helical. {ECO:0000255}.
+FT   TOPO_DOM   3960   3979       Extracellular. {ECO:0000255}.
+FT   TRANSMEM   3980   4000       Helical. {ECO:0000255}.
+FT   TOPO_DOM   4001   4027       Cytoplasmic. {ECO:0000255}.
+FT   TRANSMEM   4028   4048       Helical. {ECO:0000255}.
+FT   TOPO_DOM   4049   4085       Extracellular. {ECO:0000255}.
+FT   TRANSMEM   4086   4106       Helical. {ECO:0000255}.
+FT   TOPO_DOM   4107   4303       Cytoplasmic. {ECO:0000255}.
+FT   DOMAIN       24     67       LRRNT.
+FT   REPEAT       68     91       LRR 1.
+FT   REPEAT       92    113       LRR 2.
+FT   DOMAIN      125    178       LRRCT.
+FT   DOMAIN      177    271       WSC. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00558}.
+FT   DOMAIN      272    359       PKD 1. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00151}.
+FT   DOMAIN      415    531       C-type lectin. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00040}.
+FT   DOMAIN      638    671       LDL-receptor class A; atypical.
+FT   DOMAIN      743    817       PKD 2. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00151}.
+FT   DOMAIN      855    928       PKD 3. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00151}.
+FT   DOMAIN      935   1020       PKD 4. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00151}.
+FT   DOMAIN     1023   1129       PKD 5. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00151}.
+FT   DOMAIN     1127   1215       PKD 6. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00151}.
+FT   DOMAIN     1213   1298       PKD 7. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00151}.
+FT   DOMAIN     1294   1383       PKD 8. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00151}.
+FT   DOMAIN     1382   1469       PKD 9. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00151}.
+FT   DOMAIN     1468   1551       PKD 10. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00151}.
+FT   DOMAIN     1550   1635       PKD 11. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00151}.
+FT   DOMAIN     1634   1721       PKD 12. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00151}.
+FT   DOMAIN     1719   1805       PKD 13. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00151}.
+FT   DOMAIN     1807   1890       PKD 14. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00151}.
+FT   DOMAIN     1889   1974       PKD 15. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00151}.
+FT   DOMAIN     1977   2057       PKD 16. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00151}.
+FT   DOMAIN     2060   2148       PKD 17. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00151}.
+FT   DOMAIN     2146   2833       REJ. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00511}.
+FT   DOMAIN     3012   3061       GPS. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00098}.
+FT   DOMAIN     3118   3233       PLAT. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00152}.
+FT   COILED     4220   4251       {ECO:0000255}.
+FT   MOTIF      3744   3756       Polycystin motif.
+FT   SITE       3048   3049       Cleavage; by autolysis.
+FT   MOD_RES    4166   4166       Phosphoserine; by PRKX; in vitro.
+FT                                {ECO:0000269|PubMed:17980165}.
+FT   CARBOHYD     50     50       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD     89     89       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    116    116       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    121    121       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    187    187       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    621    621       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    632    632       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    746    746       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    810    810       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    841    841       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    854    854       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    890    890       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    921    921       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD   1004   1004       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD   1010   1010       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD   1034   1034       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD   1072   1072       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD   1113   1113       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD   1178   1178       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD   1194   1194       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD   1240   1240       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD   1269   1269       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD   1336   1336       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD   1348   1348       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD   1382   1382       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD   1450   1450       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD   1455   1455       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD   1474   1474       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD   1518   1518       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD   1541   1541       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD   1554   1554       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD   1563   1563       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD   1647   1647       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD   1661   1661       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD   1733   1733       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD   1791   1791       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD   1834   1834       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD   1867   1867       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD   1880   1880       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD   1991   1991       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD   2050   2050       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD   2074   2074       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD   2125   2125       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD   2248   2248       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD   2353   2353       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD   2395   2395       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD   2412   2412       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD   2567   2567       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD   2578   2578       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD   2645   2645       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD   2718   2718       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD   2754   2754       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD   2841   2841       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD   2878   2878       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD   2925   2925       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD   2956   2956       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD   2994   2994       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD   3738   3738       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD   3790   3790       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD   3845   3845       N-linked (GlcNAc...). {ECO:0000255}.
+FT   DISULFID    436    530       {ECO:0000250}.
+FT   DISULFID    508    522       {ECO:0000250}.
+FT   DISULFID    640    653       {ECO:0000250}.
+FT   DISULFID    647    665       {ECO:0000250}.
+FT   DISULFID    660    669       {ECO:0000250}.
+FT   VAR_SEQ    2497   2507       GWHDAEDAGAP -> A (in isoform 2).
+FT                                {ECO:0000303|PubMed:7663510}.
+FT                                /FTId=VSP_009677.
+FT   VAR_SEQ    3390   3390       Missing (in isoform 2 and isoform 3).
+FT                                {ECO:0000303|PubMed:7663510}.
+FT                                /FTId=VSP_009678.
+FT   VARIANT      13     13       L -> Q (in PKD1).
+FT                                {ECO:0000269|PubMed:11115377}.
+FT                                /FTId=VAR_011030.
+FT   VARIANT      36     36       P -> H. {ECO:0000269|PubMed:15772804,
+FT                                ECO:0000269|PubMed:18837007}.
+FT                                /FTId=VAR_058759.
+FT   VARIANT      61     61       P -> L (in PKD1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:11967008,
+FT                                ECO:0000269|PubMed:18837007}.
+FT                                /FTId=VAR_058760.
+FT   VARIANT      75     75       S -> F (in PKD1).
+FT                                {ECO:0000269|PubMed:11115377}.
+FT                                /FTId=VAR_011031.
+FT   VARIANT      87     87       L -> M. {ECO:0000269|PubMed:12007219}.
+FT                                /FTId=VAR_058761.
+FT   VARIANT      88     88       A -> V. {ECO:0000269|PubMed:11316854}.
+FT                                /FTId=VAR_012452.
+FT   VARIANT      97     97       D -> G (in PKD1).
+FT                                {ECO:0000269|PubMed:21115670}.
+FT                                /FTId=VAR_064380.
+FT   VARIANT      99     99       S -> I (in PKD1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:18837007}.
+FT                                /FTId=VAR_058762.
+FT   VARIANT     139    139       W -> C (in PKD1).
+FT                                {ECO:0000269|PubMed:11115377}.
+FT                                /FTId=VAR_011032.
+FT   VARIANT     164    164       Q -> R (in PKD1).
+FT                                {ECO:0000269|PubMed:12842373}.
+FT                                /FTId=VAR_058763.
+FT   VARIANT     210    210       C -> G (in PKD1).
+FT                                {ECO:0000269|PubMed:12842373}.
+FT                                /FTId=VAR_058764.
+FT   VARIANT     324    324       R -> L (in PKD1).
+FT                                {ECO:0000269|PubMed:10364515}.
+FT                                /FTId=VAR_010085.
+FT   VARIANT     325    325       Y -> C (in PKD1).
+FT                                {ECO:0000269|PubMed:22508176}.
+FT                                /FTId=VAR_068024.
+FT   VARIANT     381    381       G -> C (in PKD1).
+FT                                {ECO:0000269|PubMed:11857740}.
+FT                                /FTId=VAR_058765.
+FT   VARIANT     436    436       C -> R (in PKD1).
+FT                                {ECO:0000269|PubMed:21115670}.
+FT                                /FTId=VAR_064381.
+FT   VARIANT     442    442       A -> P (in PKD1).
+FT                                {ECO:0000269|PubMed:21115670}.
+FT                                /FTId=VAR_064382.
+FT   VARIANT     508    508       C -> R (in PKD1; dbSNP:rs58598099).
+FT                                {ECO:0000269|PubMed:12842373}.
+FT                                /FTId=VAR_058766.
+FT   VARIANT     572    572       P -> S (in dbSNP:rs149022148).
+FT                                {ECO:0000269|PubMed:11967008}.
+FT                                /FTId=VAR_058767.
+FT   VARIANT     594    594       F -> Y (in PKD1).
+FT                                {ECO:0000269|PubMed:18837007}.
+FT                                /FTId=VAR_058768.
+FT   VARIANT     611    611       R -> W (in PKD1).
+FT                                {ECO:0000269|PubMed:22508176}.
+FT                                /FTId=VAR_068025.
+FT   VARIANT     690    690       V -> D (in PKD1).
+FT                                {ECO:0000269|PubMed:12842373}.
+FT                                /FTId=VAR_058769.
+FT   VARIANT     698    698       Y -> D (in PKD1).
+FT                                {ECO:0000269|PubMed:22508176}.
+FT                                /FTId=VAR_068026.
+FT   VARIANT     727    727       L -> P (in PKD1).
+FT                                {ECO:0000269|PubMed:21115670,
+FT                                ECO:0000269|PubMed:22508176}.
+FT                                /FTId=VAR_064383.
+FT   VARIANT     727    727       L -> R (in PKD1).
+FT                                {ECO:0000269|PubMed:21115670}.
+FT                                /FTId=VAR_064384.
+FT   VARIANT     738    738       P -> R.
+FT                                /FTId=VAR_058770.
+FT   VARIANT     739    739       R -> Q (in dbSNP:rs40433).
+FT                                {ECO:0000269|PubMed:11857740,
+FT                                ECO:0000269|PubMed:18837007,
+FT                                ECO:0000269|PubMed:7663510}.
+FT                                /FTId=VAR_058771.
+FT   VARIANT     845    845       L -> S (in PKD1).
+FT                                {ECO:0000269|PubMed:10364515,
+FT                                ECO:0000269|PubMed:15772804}.
+FT                                /FTId=VAR_010086.
+FT   VARIANT     950    950       L -> P (in dbSNP:rs2369063).
+FT                                /FTId=VAR_056696.
+FT   VARIANT     967    967       W -> R (in PKD1).
+FT                                {ECO:0000269|PubMed:11316854}.
+FT                                /FTId=VAR_012453.
+FT   VARIANT     987    987       Q -> H (in PKD1).
+FT                                {ECO:0000269|PubMed:12070253}.
+FT                                /FTId=VAR_058772.
+FT   VARIANT    1092   1092       M -> T (in PKD1; dbSNP:rs2549677).
+FT                                {ECO:0000269|PubMed:11857740,
+FT                                ECO:0000269|PubMed:11967008,
+FT                                ECO:0000269|PubMed:18837007,
+FT                                ECO:0000269|PubMed:7736581}.
+FT                                /FTId=VAR_056697.
+FT   VARIANT    1114   1114       L -> R (in dbSNP:rs241573).
+FT                                /FTId=VAR_056698.
+FT   VARIANT    1166   1166       G -> S (in PKD1).
+FT                                {ECO:0000269|PubMed:11012875}.
+FT                                /FTId=VAR_011033.
+FT   VARIANT    1168   1168       P -> S (in dbSNP:rs146887330).
+FT                                {ECO:0000269|PubMed:11967008}.
+FT                                /FTId=VAR_058773.
+FT   VARIANT    1206   1206       V -> G (in PKD1).
+FT                                {ECO:0000269|PubMed:22508176}.
+FT                                /FTId=VAR_068027.
+FT   VARIANT    1240   1240       Missing (in PKD1).
+FT                                {ECO:0000269|PubMed:12842373}.
+FT                                /FTId=VAR_058774.
+FT   VARIANT    1242   1242       T -> M (in PKD1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:18837007}.
+FT                                /FTId=VAR_058775.
+FT   VARIANT    1340   1340       R -> W (in PKD1; dbSNP:rs143690392).
+FT                                {ECO:0000269|PubMed:11967008}.
+FT                                /FTId=VAR_058776.
+FT   VARIANT    1399   1399       W -> R (in dbSNP:rs116092985).
+FT                                {ECO:0000269|PubMed:10364515,
+FT                                ECO:0000269|PubMed:10577909,
+FT                                ECO:0000269|PubMed:11857740,
+FT                                ECO:0000269|PubMed:11967008,
+FT                                ECO:0000269|PubMed:12070253,
+FT                                ECO:0000269|PubMed:18837007}.
+FT                                /FTId=VAR_010087.
+FT   VARIANT    1516   1516       A -> T (in dbSNP:rs148164067).
+FT                                {ECO:0000269|PubMed:18837007}.
+FT                                /FTId=VAR_058777.
+FT   VARIANT    1557   1557       R -> P (in dbSNP:rs241572).
+FT                                /FTId=VAR_056699.
+FT   VARIANT    1649   1649       T -> M. {ECO:0000269|PubMed:11857740}.
+FT                                /FTId=VAR_058778.
+FT   VARIANT    1667   1667       T -> P (in PKD1).
+FT                                {ECO:0000269|PubMed:12842373}.
+FT                                /FTId=VAR_058779.
+FT   VARIANT    1684   1684       S -> L (in dbSNP:rs139520275).
+FT                                {ECO:0000269|PubMed:11967008}.
+FT                                /FTId=VAR_058780.
+FT   VARIANT    1734   1734       T -> K (in dbSNP:rs241571).
+FT                                /FTId=VAR_056700.
+FT   VARIANT    1786   1786       P -> L (rare polymorphism).
+FT                                {ECO:0000269|PubMed:10364515}.
+FT                                /FTId=VAR_010088.
+FT   VARIANT    1811   1811       E -> K (in PKD1).
+FT                                {ECO:0000269|PubMed:11967008,
+FT                                ECO:0000269|PubMed:12842373}.
+FT                                /FTId=VAR_058781.
+FT   VARIANT    1871   1871       A -> T. {ECO:0000269|PubMed:18837007}.
+FT                                /FTId=VAR_058782.
+FT   VARIANT    1926   1926       A -> V. {ECO:0000269|PubMed:18837007}.
+FT                                /FTId=VAR_058783.
+FT   VARIANT    1943   1943       V -> I (in dbSNP:rs137978188).
+FT                                {ECO:0000269|PubMed:11967008}.
+FT                                /FTId=VAR_058784.
+FT   VARIANT    1952   1952       G -> D. {ECO:0000269|PubMed:18837007}.
+FT                                /FTId=VAR_058785.
+FT   VARIANT    1956   1956       V -> E (in PKD1).
+FT                                {ECO:0000269|PubMed:11012875}.
+FT                                /FTId=VAR_011034.
+FT   VARIANT    1992   1993       FT -> L (in PKD1).
+FT                                {ECO:0000269|PubMed:11115377}.
+FT                                /FTId=VAR_011035.
+FT   VARIANT    1995   1995       R -> H. {ECO:0000269|PubMed:11012875}.
+FT                                /FTId=VAR_011036.
+FT   VARIANT    2083   2083       T -> I (in PKD1).
+FT                                {ECO:0000269|PubMed:12007219}.
+FT                                /FTId=VAR_058786.
+FT   VARIANT    2092   2092       Y -> C (in PKD1).
+FT                                {ECO:0000269|PubMed:11967008,
+FT                                ECO:0000269|PubMed:12842373}.
+FT                                /FTId=VAR_058787.
+FT   VARIANT    2185   2185       Y -> D (in PKD1).
+FT                                {ECO:0000269|PubMed:11857740}.
+FT                                /FTId=VAR_058788.
+FT   VARIANT    2200   2200       R -> C (in PKD1; dbSNP:rs140869992).
+FT                                {ECO:0000269|PubMed:12842373,
+FT                                ECO:0000269|PubMed:18837007}.
+FT                                /FTId=VAR_058789.
+FT   VARIANT    2220   2224       Missing (in PKD1).
+FT                                {ECO:0000269|PubMed:11115377}.
+FT                                /FTId=VAR_011037.
+FT   VARIANT    2250   2250       T -> M (in PKD1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:10854095}.
+FT                                /FTId=VAR_011038.
+FT   VARIANT    2260   2260       Missing (in PKD1).
+FT                                {ECO:0000269|PubMed:11967008,
+FT                                ECO:0000269|PubMed:12842373}.
+FT                                /FTId=VAR_058790.
+FT   VARIANT    2329   2329       R -> W (in PKD1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:10854095}.
+FT                                /FTId=VAR_011039.
+FT   VARIANT    2336   2336       Y -> D (in PKD1).
+FT                                {ECO:0000269|PubMed:11115377}.
+FT                                /FTId=VAR_011040.
+FT   VARIANT    2370   2370       C -> R (in PKD1).
+FT                                {ECO:0000269|PubMed:12842373}.
+FT                                /FTId=VAR_058791.
+FT   VARIANT    2373   2373       C -> Y (in PKD1).
+FT                                {ECO:0000269|PubMed:12842373}.
+FT                                /FTId=VAR_058792.
+FT   VARIANT    2379   2379       Y -> C (in PKD1).
+FT                                {ECO:0000269|PubMed:10854095,
+FT                                ECO:0000269|PubMed:22508176}.
+FT                                /FTId=VAR_011041.
+FT   VARIANT    2391   2391       G -> D (in PKD1).
+FT                                {ECO:0000269|PubMed:21115670}.
+FT                                /FTId=VAR_064385.
+FT   VARIANT    2392   2392       R -> P (in PKD1).
+FT                                {ECO:0000269|PubMed:10577909}.
+FT                                /FTId=VAR_012454.
+FT   VARIANT    2408   2408       R -> C (in PKD1).
+FT                                {ECO:0000269|PubMed:11012875}.
+FT                                /FTId=VAR_011042.
+FT   VARIANT    2421   2421       Missing (in PKD1).
+FT                                {ECO:0000269|PubMed:11857740}.
+FT                                /FTId=VAR_058793.
+FT   VARIANT    2422   2422       T -> K (in PKD1).
+FT                                {ECO:0000269|PubMed:18837007}.
+FT                                /FTId=VAR_058794.
+FT   VARIANT    2423   2423       S -> F (in PKD1).
+FT                                {ECO:0000269|PubMed:10577909}.
+FT                                /FTId=VAR_012455.
+FT   VARIANT    2434   2434       R -> W (in PKD1).
+FT                                {ECO:0000269|PubMed:21115670}.
+FT                                /FTId=VAR_064386.
+FT   VARIANT    2443   2443       G -> GG (in PKD1).
+FT                                /FTId=VAR_011043.
+FT   VARIANT    2471   2471       P -> L (in PKD1).
+FT                                {ECO:0000269|PubMed:11571556}.
+FT                                /FTId=VAR_012456.
+FT   VARIANT    2515   2515       R -> Q (in dbSNP:rs2432404).
+FT                                /FTId=VAR_056701.
+FT   VARIANT    2519   2519       Q -> L (in PKD1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:11571556}.
+FT                                /FTId=VAR_012457.
+FT   VARIANT    2534   2534       S -> G (in dbSNP:rs3874655).
+FT                                /FTId=VAR_056702.
+FT   VARIANT    2546   2546       H -> Y (in PKD1).
+FT                                {ECO:0000269|PubMed:21115670}.
+FT                                /FTId=VAR_064387.
+FT   VARIANT    2548   2548       E -> Q (in dbSNP:rs28369051).
+FT                                {ECO:0000269|PubMed:10577909}.
+FT                                /FTId=VAR_012458.
+FT   VARIANT    2569   2569       S -> C (in PKD1).
+FT                                {ECO:0000269|PubMed:21115670}.
+FT                                /FTId=VAR_064388.
+FT   VARIANT    2579   2579       Missing (in PKD1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:11571556}.
+FT                                /FTId=VAR_012459.
+FT   VARIANT    2582   2582       T -> M (in dbSNP:rs2432405).
+FT                                {ECO:0000269|PubMed:11571556}.
+FT                                /FTId=VAR_012460.
+FT   VARIANT    2604   2604       D -> N. {ECO:0000269|PubMed:11012875}.
+FT                                /FTId=VAR_011044.
+FT   VARIANT    2613   2613       Missing (in PKD1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:11571556}.
+FT                                /FTId=VAR_012461.
+FT   VARIANT    2638   2638       H -> R (in PKD1; dbSNP:rs9936785).
+FT                                {ECO:0000269|PubMed:10577909,
+FT                                ECO:0000269|PubMed:11571556,
+FT                                ECO:0000269|PubMed:11857740,
+FT                                ECO:0000269|PubMed:11967008,
+FT                                ECO:0000269|PubMed:15772804,
+FT                                ECO:0000269|PubMed:18837007}.
+FT                                /FTId=VAR_012462.
+FT   VARIANT    2646   2646       I -> T (in PKD1).
+FT                                {ECO:0000269|PubMed:21115670}.
+FT                                /FTId=VAR_064389.
+FT   VARIANT    2649   2649       T -> I (in PKD1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:11571556}.
+FT                                /FTId=VAR_012463.
+FT   VARIANT    2674   2674       P -> S. {ECO:0000269|PubMed:11115377,
+FT                                ECO:0000269|PubMed:11967008}.
+FT                                /FTId=VAR_011045.
+FT   VARIANT    2696   2696       L -> R (in PKD1).
+FT                                {ECO:0000269|PubMed:11316854}.
+FT                                /FTId=VAR_012464.
+FT   VARIANT    2708   2708       T -> M. {ECO:0000269|PubMed:11115377,
+FT                                ECO:0000269|PubMed:11967008,
+FT                                ECO:0000269|PubMed:18837007}.
+FT                                /FTId=VAR_011046.
+FT   VARIANT    2734   2734       P -> T (in dbSNP:rs150568356).
+FT                                {ECO:0000269|PubMed:11115377}.
+FT                                /FTId=VAR_011047.
+FT   VARIANT    2735   2735       Q -> L (in dbSNP:rs141717814).
+FT                                {ECO:0000269|PubMed:11115377}.
+FT                                /FTId=VAR_011048.
+FT   VARIANT    2746   2746       R -> P (in dbSNP:rs1800569).
+FT                                /FTId=VAR_014918.
+FT   VARIANT    2752   2752       A -> D (in PKD1).
+FT                                {ECO:0000269|PubMed:11115377}.
+FT                                /FTId=VAR_011049.
+FT   VARIANT    2760   2760       M -> T (associated with PKD1;
+FT                                dbSNP:rs1800568).
+FT                                {ECO:0000269|PubMed:9285784}.
+FT                                /FTId=VAR_005533.
+FT   VARIANT    2761   2761       R -> P (associated with PKD1).
+FT                                {ECO:0000269|PubMed:9285784}.
+FT                                /FTId=VAR_058795.
+FT   VARIANT    2763   2763       L -> V (in PKD1).
+FT                                {ECO:0000269|PubMed:9285784}.
+FT                                /FTId=VAR_005535.
+FT   VARIANT    2764   2764       M -> T (associated with PKD1;
+FT                                dbSNP:rs1800570).
+FT                                {ECO:0000269|PubMed:9285784}.
+FT                                /FTId=VAR_005536.
+FT   VARIANT    2765   2765       R -> C (in dbSNP:rs144979397).
+FT                                {ECO:0000269|PubMed:11115377,
+FT                                ECO:0000269|PubMed:11857740}.
+FT                                /FTId=VAR_011051.
+FT   VARIANT    2765   2765       R -> RILMR (in PKD1).
+FT                                /FTId=VAR_011050.
+FT   VARIANT    2767   2767       R -> C (in PKD1).
+FT                                {ECO:0000269|PubMed:22508176}.
+FT                                /FTId=VAR_068028.
+FT   VARIANT    2768   2768       V -> M (in PKD1; associated with S-2858).
+FT                                {ECO:0000269|PubMed:11115377}.
+FT                                /FTId=VAR_011052.
+FT   VARIANT    2771   2771       E -> K (in PKD1; does not undergo
+FT                                autoproteolytic cleavage).
+FT                                {ECO:0000269|PubMed:11115377,
+FT                                ECO:0000269|PubMed:12482949,
+FT                                ECO:0000269|PubMed:12842373,
+FT                                ECO:0000269|PubMed:22508176}.
+FT                                /FTId=VAR_011053.
+FT   VARIANT    2782   2782       V -> M. {ECO:0000269|PubMed:11115377}.
+FT                                /FTId=VAR_011054.
+FT   VARIANT    2785   2785       G -> D (in PKD1).
+FT                                {ECO:0000269|PubMed:11857740}.
+FT                                /FTId=VAR_058796.
+FT   VARIANT    2791   2791       R -> Q (in a patient with polycystic
+FT                                kidney disease; does not affect
+FT                                autoproteolytic cleavage at the GPS
+FT                                domain). {ECO:0000269|PubMed:12482949,
+FT                                ECO:0000269|PubMed:9285784}.
+FT                                /FTId=VAR_005537.
+FT   VARIANT    2802   2802       P -> L (in PKD1).
+FT                                {ECO:0000269|PubMed:12842373}.
+FT                                /FTId=VAR_058797.
+FT   VARIANT    2814   2814       G -> R (in PKD1; unknown pathological
+FT                                significance; dbSNP:rs149151043).
+FT                                {ECO:0000269|PubMed:11115377,
+FT                                ECO:0000269|PubMed:11967008,
+FT                                ECO:0000269|PubMed:12007219,
+FT                                ECO:0000269|PubMed:18837007}.
+FT                                /FTId=VAR_011055.
+FT   VARIANT    2816   2816       L -> P (in PKD1).
+FT                                {ECO:0000269|PubMed:11115377,
+FT                                ECO:0000269|PubMed:12007219}.
+FT                                /FTId=VAR_011056.
+FT   VARIANT    2826   2826       I -> T (in PKD1).
+FT                                {ECO:0000269|PubMed:9285784}.
+FT                                /FTId=VAR_005538.
+FT   VARIANT    2858   2858       G -> S (in PKD1; associated with M-2768).
+FT                                {ECO:0000269|PubMed:11115377}.
+FT                                /FTId=VAR_011057.
+FT   VARIANT    2888   2888       R -> G. {ECO:0000269|PubMed:11115377}.
+FT                                /FTId=VAR_011058.
+FT   VARIANT    2889   2889       S -> R (in PKD1).
+FT                                {ECO:0000269|PubMed:21115670}.
+FT                                /FTId=VAR_064390.
+FT   VARIANT    2905   2905       V -> I (in dbSNP:rs147788838).
+FT                                {ECO:0000269|PubMed:11115377}.
+FT                                /FTId=VAR_011059.
+FT   VARIANT    2921   2921       H -> P (in PKD1; does not undergo
+FT                                autoproteolytic cleavage).
+FT                                {ECO:0000269|PubMed:10923040,
+FT                                ECO:0000269|PubMed:12482949}.
+FT                                /FTId=VAR_011060.
+FT   VARIANT    2958   2958       S -> L. {ECO:0000269|PubMed:11967008}.
+FT                                /FTId=VAR_058798.
+FT   VARIANT    2966   2966       E -> D (in dbSNP:rs13337123).
+FT                                {ECO:0000269|PubMed:11115377}.
+FT                                /FTId=VAR_011061.
+FT   VARIANT    2972   2972       D -> N. {ECO:0000269|PubMed:11571556}.
+FT                                /FTId=VAR_012465.
+FT   VARIANT    2977   2977       T -> N. {ECO:0000269|PubMed:11967008}.
+FT                                /FTId=VAR_058799.
+FT   VARIANT    2978   2978       Missing (in PKD1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:11571556}.
+FT                                /FTId=VAR_012466.
+FT   VARIANT    2985   2985       R -> G (in PKD1).
+FT                                {ECO:0000269|PubMed:11316854}.
+FT                                /FTId=VAR_012467.
+FT   VARIANT    2993   2993       L -> P (in PKD1; does not undergo
+FT                                autoproteolytic cleavage).
+FT                                {ECO:0000269|PubMed:12482949,
+FT                                ECO:0000269|PubMed:9199561}.
+FT                                /FTId=VAR_010089.
+FT   VARIANT    2995   2995       L -> R (in PKD1).
+FT                                {ECO:0000269|PubMed:22508176}.
+FT                                /FTId=VAR_068029.
+FT   VARIANT    3005   3005       Q -> E (in dbSNP:rs1063401).
+FT                                /FTId=VAR_056703.
+FT   VARIANT    3008   3008       V -> L (in PKD1).
+FT                                {ECO:0000269|PubMed:9285784}.
+FT                                /FTId=VAR_005539.
+FT   VARIANT    3008   3008       V -> M (in dbSNP:rs117896488).
+FT                                {ECO:0000269|PubMed:11558899}.
+FT                                /FTId=VAR_058800.
+FT   VARIANT    3012   3017       Missing (in PKD1).
+FT                                {ECO:0000269|PubMed:11115377}.
+FT                                /FTId=VAR_011062.
+FT   VARIANT    3016   3016       Q -> R (in PKD1; does not undergo
+FT                                autoproteolytic cleavage).
+FT                                {ECO:0000269|PubMed:12482949,
+FT                                ECO:0000269|PubMed:9199561}.
+FT                                /FTId=VAR_010090.
+FT   VARIANT    3023   3023       M -> V (in dbSNP:rs17135779).
+FT                                /FTId=VAR_056704.
+FT   VARIANT    3027   3039       Missing (in PKD1).
+FT                                {ECO:0000269|PubMed:11857740}.
+FT                                /FTId=VAR_058801.
+FT   VARIANT    3039   3039       R -> C (in PKD1).
+FT                                {ECO:0000269|PubMed:11316854}.
+FT                                /FTId=VAR_012468.
+FT   VARIANT    3057   3057       V -> M. {ECO:0000269|PubMed:11967008}.
+FT                                /FTId=VAR_058802.
+FT   VARIANT    3066   3066       F -> L (in PKD1; dbSNP:rs77028972).
+FT                                {ECO:0000269|PubMed:10854095,
+FT                                ECO:0000269|PubMed:10923040,
+FT                                ECO:0000269|PubMed:11115377,
+FT                                ECO:0000269|PubMed:11571556,
+FT                                ECO:0000269|PubMed:11857740,
+FT                                ECO:0000269|PubMed:15772804,
+FT                                ECO:0000269|PubMed:18837007,
+FT                                ECO:0000269|PubMed:9285784}.
+FT                                /FTId=VAR_011063.
+FT   VARIANT    3138   3138       V -> M (in PKD1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:15772804}.
+FT                                /FTId=VAR_058803.
+FT   VARIANT    3139   3139       G -> V. {ECO:0000269|PubMed:10854095}.
+FT                                /FTId=VAR_011064.
+FT   VARIANT    3154   3154       L -> P (in PKD1).
+FT                                {ECO:0000269|PubMed:21115670}.
+FT                                /FTId=VAR_064391.
+FT   VARIANT    3167   3167       I -> F (in PKD1).
+FT                                {ECO:0000269|PubMed:11967008}.
+FT                                /FTId=VAR_058804.
+FT   VARIANT    3188   3188       Missing (in PKD1).
+FT                                {ECO:0000269|PubMed:12842373}.
+FT                                /FTId=VAR_058805.
+FT   VARIANT    3193   3193       P -> L. {ECO:0000269|PubMed:10854095}.
+FT                                /FTId=VAR_011065.
+FT   VARIANT    3247   3247       R -> H (in PKD1).
+FT                                {ECO:0000269|PubMed:11216660}.
+FT                                /FTId=VAR_013838.
+FT   VARIANT    3285   3285       V -> I (in PKD1).
+FT                                {ECO:0000269|PubMed:11316854}.
+FT                                /FTId=VAR_012469.
+FT   VARIANT    3311   3311       H -> R. {ECO:0000269|PubMed:11316854}.
+FT                                /FTId=VAR_012470.
+FT   VARIANT    3355   3355       P -> L (in PKD1).
+FT                                {ECO:0000269|PubMed:12842373}.
+FT                                /FTId=VAR_058806.
+FT   VARIANT    3375   3375       V -> M (in PKD1).
+FT                                {ECO:0000269|PubMed:10923040,
+FT                                ECO:0000269|PubMed:9921908}.
+FT                                /FTId=VAR_005541.
+FT   VARIANT    3382   3382       T -> M (in PKD1).
+FT                                {ECO:0000269|PubMed:11216660}.
+FT                                /FTId=VAR_013839.
+FT   VARIANT    3435   3435       R -> Q (in dbSNP:rs140189010).
+FT                                {ECO:0000269|PubMed:11967008}.
+FT                                /FTId=VAR_058807.
+FT   VARIANT    3510   3510       T -> M (in PKD1; dbSNP:rs45478794).
+FT                                {ECO:0000269|PubMed:11558899,
+FT                                ECO:0000269|PubMed:11691639,
+FT                                ECO:0000269|PubMed:12007219,
+FT                                ECO:0000269|PubMed:15772804,
+FT                                ECO:0000269|PubMed:9199561}.
+FT                                /FTId=VAR_010091.
+FT   VARIANT    3511   3511       L -> V (in PKD1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:9199561}.
+FT                                /FTId=VAR_010092.
+FT   VARIANT    3512   3512       A -> V (in dbSNP:rs34197769).
+FT                                {ECO:0000269|PubMed:11967008,
+FT                                ECO:0000269|PubMed:15772804,
+FT                                ECO:0000269|PubMed:18837007}.
+FT                                /FTId=VAR_011066.
+FT   VARIANT    3560   3560       G -> R (in PKD1; dbSNP:rs79000340).
+FT                                {ECO:0000269|PubMed:11691639}.
+FT                                /FTId=VAR_012471.
+FT   VARIANT    3562   3562       S -> N.
+FT                                /FTId=VAR_010093.
+FT   VARIANT    3602   3602       G -> S (in PKD1).
+FT                                {ECO:0000269|PubMed:12220456}.
+FT                                /FTId=VAR_058808.
+FT   VARIANT    3603   3603       W -> R (in PKD1).
+FT                                {ECO:0000269|PubMed:21115670}.
+FT                                /FTId=VAR_064392.
+FT   VARIANT    3632   3632       E -> D (in PKD1).
+FT                                {ECO:0000269|PubMed:11773467,
+FT                                ECO:0000269|PubMed:8554072}.
+FT                                /FTId=VAR_005542.
+FT   VARIANT    3649   3649       P -> L (in PKD1).
+FT                                {ECO:0000269|PubMed:11773467}.
+FT                                /FTId=VAR_058809.
+FT   VARIANT    3651   3651       G -> S (in PKD1).
+FT                                {ECO:0000269|PubMed:22508176}.
+FT                                /FTId=VAR_068030.
+FT   VARIANT    3678   3678       M -> T (in PKD1).
+FT                                {ECO:0000269|PubMed:11773467,
+FT                                ECO:0000269|PubMed:9259200}.
+FT                                /FTId=VAR_005543.
+FT   VARIANT    3682   3682       L -> P (in PKD1).
+FT                                {ECO:0000269|PubMed:12842373}.
+FT                                /FTId=VAR_058810.
+FT   VARIANT    3719   3719       R -> Q (in PKD1).
+FT                                {ECO:0000269|PubMed:11058904,
+FT                                ECO:0000269|PubMed:11691639}.
+FT                                /FTId=VAR_011067.
+FT   VARIANT    3726   3726       W -> S (in PKD1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:18837007}.
+FT                                /FTId=VAR_058811.
+FT   VARIANT    3748   3752       Missing (in PKD1).
+FT                                {ECO:0000269|PubMed:10647901,
+FT                                ECO:0000269|PubMed:8554072}.
+FT                                /FTId=VAR_005544.
+FT   VARIANT    3750   3750       R -> Q (in PKD1).
+FT                                {ECO:0000269|PubMed:21115670,
+FT                                ECO:0000269|PubMed:22508176}.
+FT                                /FTId=VAR_064393.
+FT   VARIANT    3751   3751       Q -> R (in PKD1).
+FT                                {ECO:0000269|PubMed:12842373}.
+FT                                /FTId=VAR_058812.
+FT   VARIANT    3753   3753       R -> W (in PKD1).
+FT                                {ECO:0000269|PubMed:10729710,
+FT                                ECO:0000269|PubMed:11691639,
+FT                                ECO:0000269|PubMed:22508176}.
+FT                                /FTId=VAR_011068.
+FT   VARIANT    3815   3815       D -> N (in PKD1).
+FT                                {ECO:0000269|PubMed:10729710}.
+FT                                /FTId=VAR_011069.
+FT   VARIANT    3852   3852       L -> P (in PKD1).
+FT                                {ECO:0000269|PubMed:11058904,
+FT                                ECO:0000269|PubMed:11967008}.
+FT                                /FTId=VAR_011070.
+FT   VARIANT    3954   3954       A -> P (in PKD1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:15772804}.
+FT                                /FTId=VAR_058813.
+FT   VARIANT    3996   3996       F -> FLLF (in PKD1).
+FT                                /FTId=VAR_010094.
+FT   VARIANT    4032   4032       G -> D (in PKD1).
+FT                                {ECO:0000269|PubMed:9521593}.
+FT                                /FTId=VAR_005545.
+FT   VARIANT    4045   4045       I -> V (in dbSNP:rs10960).
+FT                                {ECO:0000269|PubMed:10647901,
+FT                                ECO:0000269|PubMed:11058904,
+FT                                ECO:0000269|PubMed:11773467,
+FT                                ECO:0000269|PubMed:11967008,
+FT                                ECO:0000269|PubMed:12070253,
+FT                                ECO:0000269|PubMed:15772804,
+FT                                ECO:0000269|PubMed:18837007,
+FT                                ECO:0000269|PubMed:9521593}.
+FT                                /FTId=VAR_005546.
+FT   VARIANT    4058   4058       V -> A. {ECO:0000269|PubMed:9150733}.
+FT                                /FTId=VAR_005547.
+FT   VARIANT    4059   4059       A -> V (in dbSNP:rs3209986).
+FT                                {ECO:0000269|PubMed:11773467,
+FT                                ECO:0000269|PubMed:11967008,
+FT                                ECO:0000269|PubMed:15772804,
+FT                                ECO:0000269|PubMed:18837007}.
+FT                                /FTId=VAR_010095.
+FT   VARIANT    4102   4102       G -> E. {ECO:0000269|PubMed:11773467}.
+FT                                /FTId=VAR_058814.
+FT   VARIANT    4106   4106       L -> P. {ECO:0000269|PubMed:11773467}.
+FT                                /FTId=VAR_058815.
+FT   VARIANT    4124   4124       P -> S. {ECO:0000269|PubMed:11967008}.
+FT                                /FTId=VAR_058816.
+FT   VARIANT    4132   4132       Missing (in PKD1).
+FT                                {ECO:0000269|PubMed:10647901}.
+FT                                /FTId=VAR_011071.
+FT   VARIANT    4136   4136       R -> G (in PKD1).
+FT                                {ECO:0000269|PubMed:10987650}.
+FT                                /FTId=VAR_010096.
+FT   VARIANT    4146   4146       V -> I (in dbSNP:rs148478410).
+FT                                {ECO:0000269|PubMed:11773467,
+FT                                ECO:0000269|PubMed:11967008}.
+FT                                /FTId=VAR_058817.
+FT   VARIANT    4150   4150       R -> C (in PKD1).
+FT                                {ECO:0000269|PubMed:22508176}.
+FT                                /FTId=VAR_068031.
+FT   VARIANT    4154   4154       R -> C (in PKD1; dbSNP:rs115538130).
+FT                                {ECO:0000269|PubMed:10987650}.
+FT                                /FTId=VAR_010097.
+FT   VARIANT    4155   4155       F -> V (in PKD1).
+FT                                {ECO:0000269|PubMed:18837007}.
+FT                                /FTId=VAR_058818.
+FT   VARIANT    4190   4190       S -> F. {ECO:0000269|PubMed:11967008,
+FT                                ECO:0000269|PubMed:9199561}.
+FT                                /FTId=VAR_010098.
+FT   VARIANT    4225   4225       Q -> P (in PKD1).
+FT                                {ECO:0000269|PubMed:10200984}.
+FT                                /FTId=VAR_010099.
+FT   VARIANT    4255   4255       P -> S (in PKD1).
+FT                                {ECO:0000269|PubMed:12220456}.
+FT                                /FTId=VAR_058819.
+FT   VARIANT    4276   4276       R -> W (in PKD1; dbSNP:rs114251396).
+FT                                {ECO:0000269|PubMed:10200984,
+FT                                ECO:0000269|PubMed:22508176}.
+FT                                /FTId=VAR_010100.
+FT   MUTAGEN    3049   3049       T->C,S: Does not affect auto-cleavage.
+FT                                {ECO:0000269|PubMed:17525154}.
+FT   MUTAGEN    3049   3049       T->G,R,V: Does not undergo auto-cleavage.
+FT                                {ECO:0000269|PubMed:17525154}.
+FT   CONFLICT     71     71       A -> E (in Ref. 1; AAC50128).
+FT                                {ECO:0000305}.
+FT   CONFLICT    138    138       R -> Q (in Ref. 1; AAC50128).
+FT                                {ECO:0000305}.
+FT   CONFLICT    253    253       P -> A (in Ref. 1; AAC50128).
+FT                                {ECO:0000305}.
+FT   CONFLICT    302    302       A -> D (in Ref. 1; AAC50128).
+FT                                {ECO:0000305}.
+FT   CONFLICT    691    691       P -> A (in Ref. 2; AAC37576/AAC41765).
+FT                                {ECO:0000305}.
+FT   CONFLICT    763    763       A -> G (in Ref. 1; AAC50128).
+FT                                {ECO:0000305}.
+FT   CONFLICT    774    775       AT -> QR (in Ref. 1; AAC50128).
+FT                                {ECO:0000305}.
+FT   CONFLICT    792    792       L -> M (in Ref. 2; AAC37576/AAC41765).
+FT                                {ECO:0000305}.
+FT   CONFLICT    866    866       V -> L (in Ref. 1; AAC50128).
+FT                                {ECO:0000305}.
+FT   CONFLICT    884    884       G -> A (in Ref. 1; AAC50128).
+FT                                {ECO:0000305}.
+FT   CONFLICT   1056   1056       T -> N (in Ref. 2; AAC37576/AAC41765).
+FT                                {ECO:0000305}.
+FT   CONFLICT   1277   1277       A -> G (in Ref. 1; AAC50128).
+FT                                {ECO:0000305}.
+FT   CONFLICT   1724   1724       A -> T (in Ref. 2; AAC37576/AAC41765).
+FT                                {ECO:0000305}.
+FT   CONFLICT   1976   1976       V -> M (in Ref. 2; AAC37576/AAC41765).
+FT                                {ECO:0000305}.
+FT   CONFLICT   3982   3983       QL -> HV (in Ref. 1; AAC50128).
+FT                                {ECO:0000305}.
+FT   CONFLICT   4005   4006       QL -> HV (in Ref. 1; AAC50128).
+FT                                {ECO:0000305}.
+FT   STRAND      276    278       {ECO:0000244|PDB:1B4R}.
+FT   STRAND      285    296       {ECO:0000244|PDB:1B4R}.
+FT   STRAND      301    306       {ECO:0000244|PDB:1B4R}.
+FT   STRAND      313    317       {ECO:0000244|PDB:1B4R}.
+FT   STRAND      320    325       {ECO:0000244|PDB:1B4R}.
+FT   STRAND      327    338       {ECO:0000244|PDB:1B4R}.
+FT   STRAND      343    353       {ECO:0000244|PDB:1B4R}.
+SQ   SEQUENCE   4303 AA;  462529 MW;  AEDAC48F3F0A853C CRC64;
+     MPPAAPARLA LALGLGLWLG ALAGGPGRGC GPCEPPCLCG PAPGAACRVN CSGRGLRTLG
+     PALRIPADAT ALDVSHNLLR ALDVGLLANL SALAELDISN NKISTLEEGI FANLFNLSEI
+     NLSGNPFECD CGLAWLPRWA EEQQVRVVQP EAATCAGPGS LAGQPLLGIP LLDSGCGEEY
+     VACLPDNSSG TVAAVSFSAA HEGLLQPEAC SAFCFSTGQG LAALSEQGWC LCGAAQPSSA
+     SFACLSLCSG PPPPPAPTCR GPTLLQHVFP ASPGATLVGP HGPLASGQLA AFHIAAPLPV
+     TATRWDFGDG SAEVDAAGPA ASHRYVLPGR YHVTAVLALG AGSALLGTDV QVEAAPAALE
+     LVCPSSVQSD ESLDLSIQNR GGSGLEAAYS IVALGEEPAR AVHPLCPSDT EIFPGNGHCY
+     RLVVEKAAWL QAQEQCQAWA GAALAMVDSP AVQRFLVSRV TRSLDVWIGF STVQGVEVGP
+     APQGEAFSLE SCQNWLPGEP HPATAEHCVR LGPTGWCNTD LCSAPHSYVC ELQPGGPVQD
+     AENLLVGAPS GDLQGPLTPL AQQDGLSAPH EPVEVMVFPG LRLSREAFLT TAEFGTQELR
+     RPAQLRLQVY RLLSTAGTPE NGSEPESRSP DNRTQLAPAC MPGGRWCPGA NICLPLDASC
+     HPQACANGCT SGPGLPGAPY ALWREFLFSV PAGPPAQYSV TLHGQDVLML PGDLVGLQHD
+     AGPGALLHCS PAPGHPGPRA PYLSANASSW LPHLPAQLEG TWACPACALR LLAATEQLTV
+     LLGLRPNPGL RLPGRYEVRA EVGNGVSRHN LSCSFDVVSP VAGLRVIYPA PRDGRLYVPT
+     NGSALVLQVD SGANATATAR WPGGSVSARF ENVCPALVAT FVPGCPWETN DTLFSVVALP
+     WLSEGEHVVD VVVENSASRA NLSLRVTAEE PICGLRATPS PEARVLQGVL VRYSPVVEAG
+     SDMVFRWTIN DKQSLTFQNV VFNVIYQSAA VFKLSLTASN HVSNVTVNYN VTVERMNRMQ
+     GLQVSTVPAV LSPNATLALT AGVLVDSAVE VAFLWTFGDG EQALHQFQPP YNESFPVPDP
+     SVAQVLVEHN VMHTYAAPGE YLLTVLASNA FENLTQQVPV SVRASLPSVA VGVSDGVLVA
+     GRPVTFYPHP LPSPGGVLYT WDFGDGSPVL TQSQPAANHT YASRGTYHVR LEVNNTVSGA
+     AAQADVRVFE ELRGLSVDMS LAVEQGAPVV VSAAVQTGDN ITWTFDMGDG TVLSGPEATV
+     EHVYLRAQNC TVTVGAASPA GHLARSLHVL VFVLEVLRVE PAACIPTQPD ARLTAYVTGN
+     PAHYLFDWTF GDGSSNTTVR GCPTVTHNFT RSGTFPLALV LSSRVNRAHY FTSICVEPEV
+     GNVTLQPERQ FVQLGDEAWL VACAWPPFPY RYTWDFGTEE AAPTRARGPE VTFIYRDPGS
+     YLVTVTASNN ISAANDSALV EVQEPVLVTS IKVNGSLGLE LQQPYLFSAV GRGRPASYLW
+     DLGDGGWLEG PEVTHAYNST GDFTVRVAGW NEVSRSEAWL NVTVKRRVRG LVVNASRTVV
+     PLNGSVSFST SLEAGSDVRY SWVLCDRCTP IPGGPTISYT FRSVGTFNII VTAENEVGSA
+     QDSIFVYVLQ LIEGLQVVGG GRYFPTNHTV QLQAVVRDGT NVSYSWTAWR DRGPALAGSG
+     KGFSLTVLEA GTYHVQLRAT NMLGSAWADC TMDFVEPVGW LMVAASPNPA AVNTSVTLSA
+     ELAGGSGVVY TWSLEEGLSW ETSEPFTTHS FPTPGLHLVT MTAGNPLGSA NATVEVDVQV
+     PVSGLSIRAS EPGGSFVAAG SSVPFWGQLA TGTNVSWCWA VPGGSSKRGP HVTMVFPDAG
+     TFSIRLNASN AVSWVSATYN LTAEEPIVGL VLWASSKVVA PGQLVHFQIL LAAGSAVTFR
+     LQVGGANPEV LPGPRFSHSF PRVGDHVVSV RGKNHVSWAQ AQVRIVVLEA VSGLQVPNCC
+     EPGIATGTER NFTARVQRGS RVAYAWYFSL QKVQGDSLVI LSGRDVTYTP VAAGLLEIQV
+     RAFNALGSEN RTLVLEVQDA VQYVALQSGP CFTNRSAQFE AATSPSPRRV AYHWDFGDGS
+     PGQDTDEPRA EHSYLRPGDY RVQVNASNLV SFFVAQATVT VQVLACREPE VDVVLPLQVL
+     MRRSQRNYLE AHVDLRDCVT YQTEYRWEVY RTASCQRPGR PARVALPGVD VSRPRLVLPR
+     LALPVGHYCF VFVVSFGDTP LTQSIQANVT VAPERLVPII EGGSYRVWSD TRDLVLDGSE
+     SYDPNLEDGD QTPLSFHWAC VASTQREAGG CALNFGPRGS STVTIPRERL AAGVEYTFSL
+     TVWKAGRKEE ATNQTVLIRS GRVPIVSLEC VSCKAQAVYE VSRSSYVYLE GRCLNCSSGS
+     KRGRWAARTF SNKTLVLDET TTSTGSAGMR LVLRRGVLRD GEGYTFTLTV LGRSGEEEGC
+     ASIRLSPNRP PLGGSCRLFP LGAVHALTTK VHFECTGWHD AEDAGAPLVY ALLLRRCRQG
+     HCEEFCVYKG SLSSYGAVLP PGFRPHFEVG LAVVVQDQLG AAVVALNRSL AITLPEPNGS
+     ATGLTVWLHG LTASVLPGLL RQADPQHVIE YSLALVTVLN EYERALDVAA EPKHERQHRA
+     QIRKNITETL VSLRVHTVDD IQQIAAALAQ CMGPSRELVC RSCLKQTLHK LEAMMLILQA
+     ETTAGTVTPT AIGDSILNIT GDLIHLASSD VRAPQPSELG AESPSRMVAS QAYNLTSALM
+     RILMRSRVLN EEPLTLAGEE IVAQGKRSDP RSLLCYGGAP GPGCHFSIPE AFSGALANLS
+     DVVQLIFLVD SNPFPFGYIS NYTVSTKVAS MAFQTQAGAQ IPIERLASER AITVKVPNNS
+     DWAARGHRSS ANSANSVVVQ PQASVGAVVT LDSSNPAAGL HLQLNYTLLD GHYLSEEPEP
+     YLAVYLHSEP RPNEHNCSAS RRIRPESLQG ADHRPYTFFI SPGSRDPAGS YHLNLSSHFR
+     WSALQVSVGL YTSLCQYFSE EDMVWRTEGL LPLEETSPRQ AVCLTRHLTA FGASLFVPPS
+     HVRFVFPEPT ADVNYIVMLT CAVCLVTYMV MAAILHKLDQ LDASRGRAIP FCGQRGRFKY
+     EILVKTGWGR GSGTTAHVGI MLYGVDSRSG HRHLDGDRAF HRNSLDIFRI ATPHSLGSVW
+     KIRVWHDNKG LSPAWFLQHV IVRDLQTARS AFFLVNDWLS VETEANGGLV EKEVLAASDA
+     ALLRFRRLLV AELQRGFFDK HIWLSIWDRP PRSRFTRIQR ATCCVLLICL FLGANAVWYG
+     AVGDSAYSTG HVSRLSPLSV DTVAVGLVSS VVVYPVYLAI LFLFRMSRSK VAGSPSPTPA
+     GQQVLDIDSC LDSSVLDSSF LTFSGLHAEQ AFVGQMKSDL FLDDSKSLVC WPSGEGTLSW
+     PDLLSDPSIV GSNLRQLARG QAGHGLGPEE DGFSLASPYS PAKSFSASDE DLIQQVLAEG
+     VSSPAPTQDT HMETDLLSSL SSTPGEKTET LALQRLGELG PPSPGLNWEQ PQAARLSRTG
+     LVEGLRKRLL PAWCASLAHG LSLLLVAVAV AVSGWVGASF PPGVSVAWLL SSSASFLASF
+     LGWEPLKVLL EALYFSLVAK RLHPDEDDTL VESPAVTPVS ARVPRVRPPH GFALFLAKEE
+     ARKVKRLHGM LRSLLVYMLF LLVTLLASYG DASCHGHAYR LQSAIKQELH SRAFLAITRS
+     EELWPWMAHV LLPYVHGNQS SPELGPPRLR QVRLQEALYP DPPGPRVHTC SAAGGFSTSD
+     YDVGWESPHN GSGTWAYSAP DLLGAWSWGS CAVYDSGGYV QELGLSLEES RDRLRFLQLH
+     NWLDNRSRAV FLELTRYSPA VGLHAAVTLR LEFPAAGRAL AALSVRPFAL RRLSAGLSLP
+     LLTSVCLLLF AVHFAVAEAR TWHREGRWRV LRLGAWARWL LVALTAATAL VRLAQLGAAD
+     RQWTRFVRGR PRRFTSFDQV AQLSSAARGL AASLLFLLLV KAAQQLRFVR QWSVFGKTLC
+     RALPELLGVT LGLVVLGVAY AQLAILLVSS CVDSLWSVAQ ALLVLCPGTG LSTLCPAESW
+     HLSPLLCVGL WALRLWGALR LGAVILRWRY HALRGELYRP AWEPQDYEMV ELFLRRLRLW
+     MGLSKVKEFR HKVRFEGMEP LPSRSSRGSK VSPDVPPPSA GSDASHPSTS SSQLDGLSVS
+     LGRLGTRCEP EPSRLQAVFE ALLTQFDRLN QATEDVYQLE QQLHSLQGRR SSRAPAGSSR
+     GPSPGLRPAL PSRLARASRG VDLATGPSRT PLRAKNKVHP SST
+//

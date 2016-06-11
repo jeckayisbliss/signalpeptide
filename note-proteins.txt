@@ -1,0 +1,22 @@
+//Protein Entries
+
+Reviewed = 551 193
+Reviewed - Signal = 40 287
+
+    //breakdown
+    * Archaea = 152
+    * Bacteria = 9 775
+    * Eukaryota = 28 773
+    * Viruses =1 587
+
+    //sample 10%
+    * Archaea = 15
+    * Bacteria = 978
+    * Eukaryota = 2 877
+    * Viruses = 159
+
+Reviewed - Non Signal = 510 906
+    * Archaea = 19 233
+    * Bacteria = 322 792
+    * Eukaryota = 153 839
+    * Viruses = 15 042

@@ -1,0 +1,3401 @@
+ID   SCN5A_HUMAN             Reviewed;        2016 AA.
+AC   Q14524; A5H1P8; A6N922; A6N923; B2RTU0; E7ET19; E9PEF3; E9PEK2;
+AC   E9PFW7; Q59H93; Q75RX9; Q75RY0; Q86UR3; Q8IZC9; Q96J69;
+DT   15-DEC-1998, integrated into UniProtKB/Swiss-Prot.
+DT   25-NOV-2008, sequence version 2.
+DT   17-FEB-2016, entry version 178.
+DE   RecName: Full=Sodium channel protein type 5 subunit alpha;
+DE   AltName: Full=HH1;
+DE   AltName: Full=Sodium channel protein cardiac muscle subunit alpha;
+DE   AltName: Full=Sodium channel protein type V subunit alpha;
+DE   AltName: Full=Voltage-gated sodium channel subunit alpha Nav1.5;
+GN   Name=SCN5A;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+OC   Catarrhini; Hominidae; Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1), AND VARIANTS ARG-552 AND
+RP   GLN-1027.
+RC   TISSUE=Heart;
+RX   PubMed=1309946; DOI=10.1073/pnas.89.2.554;
+RA   Gellens M.E., George A.L. Jr., Chen L.Q., Chahine M., Horn R.,
+RA   Barchi R.L., Kallen R.G.;
+RT   "Primary structure and functional expression of the human cardiac
+RT   tetrodotoxin-insensitive voltage-dependent sodium channel.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 89:554-558(1992).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 2), TISSUE SPECIFICITY, AND
+RP   VARIANT ARG-552.
+RC   TISSUE=Jejunal smooth muscle;
+RX   PubMed=12358675; DOI=10.1046/j.1365-2982.2002.00348.x;
+RA   Ou Y., Gibbons S.J., Miller S.M., Strege P.R., Rich A., Distad M.A.,
+RA   Ackerman M.J., Rae J.L., Szurszewski J.H., Farrugia G.;
+RT   "SCN5A is expressed in human jejunal circular smooth muscle cells.";
+RL   Neurogastroenterol. Motil. 14:477-486(2002).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 2), AND VARIANTS ARG-558 AND
+RP   TYR-1103.
+RX   PubMed=14500339; DOI=10.1161/01.RES.0000096652.14509.96;
+RA   Makielski J.C., Ye B., Valdivia C.R., Pagel M.D., Pu J., Tester D.J.,
+RA   Ackerman M.J.;
+RT   "A ubiquitous splice variant and a common polymorphism affect
+RT   heterologous expression of recombinant human SCN5A heart sodium
+RT   channels.";
+RL   Circ. Res. 93:821-828(2003).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 2), VARIANT ARG-558, AND
+RP   CHARACTERIZATION OF VARIANT LQT3 LEU-1766.
+RX   PubMed=12454206; DOI=10.1152/physiolgenomics.00117.2002;
+RA   Ye B., Valdivia C.R., Ackerman M.J., Makielski J.C.;
+RT   "A common human SCN5A polymorphism modifies expression of an
+RT   arrhythmia causing mutation.";
+RL   Physiol. Genomics 12:187-193(2003).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORMS 4 AND 5), AND VARIANT THR-1498.
+RX   PubMed=16115203; DOI=10.1111/j.1460-9568.2005.04280.x;
+RA   Ou S.-W., Kameyama A., Hao L.-Y., Horiuchi M., Minobe E., Wang W.-Y.,
+RA   Makita N., Kameyama M.;
+RT   "Tetrodotoxin-resistant Na+ channels in human neuroblastoma cells are
+RT   encoded by new variants of Nav1.5/SCN5A.";
+RL   Eur. J. Neurosci. 22:793-801(2005).
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORMS 4 AND 6), AND VARIANTS LEU-336
+RP   AND GLN-1027.
+RA   Wang J., Ou S.-W., Wang Y.-J., Zong Z.-H.;
+RT   "Cloning, distribution and analysis of the new exon encoding Nav1.5
+RT   channel in brain tissues.";
+RL   Sheng Wu Hua Xue Yu Sheng Wu Wu Li Jin Zhan 34:255-259(2007).
+RN   [7]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RG   NHLBI resequencing and genotyping service (RS&G);
+RL   Submitted (JUN-2006) to the EMBL/GenBank/DDBJ databases.
+RN   [8]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=16641997; DOI=10.1038/nature04728;
+RA   Muzny D.M., Scherer S.E., Kaul R., Wang J., Yu J., Sudbrak R.,
+RA   Buhay C.J., Chen R., Cree A., Ding Y., Dugan-Rocha S., Gill R.,
+RA   Gunaratne P., Harris R.A., Hawes A.C., Hernandez J., Hodgson A.V.,
+RA   Hume J., Jackson A., Khan Z.M., Kovar-Smith C., Lewis L.R.,
+RA   Lozado R.J., Metzker M.L., Milosavljevic A., Miner G.R., Morgan M.B.,
+RA   Nazareth L.V., Scott G., Sodergren E., Song X.-Z., Steffen D., Wei S.,
+RA   Wheeler D.A., Wright M.W., Worley K.C., Yuan Y., Zhang Z., Adams C.Q.,
+RA   Ansari-Lari M.A., Ayele M., Brown M.J., Chen G., Chen Z.,
+RA   Clendenning J., Clerc-Blankenburg K.P., Chen R., Chen Z., Davis C.,
+RA   Delgado O., Dinh H.H., Dong W., Draper H., Ernst S., Fu G.,
+RA   Gonzalez-Garay M.L., Garcia D.K., Gillett W., Gu J., Hao B.,
+RA   Haugen E., Havlak P., He X., Hennig S., Hu S., Huang W., Jackson L.R.,
+RA   Jacob L.S., Kelly S.H., Kube M., Levy R., Li Z., Liu B., Liu J.,
+RA   Liu W., Lu J., Maheshwari M., Nguyen B.-V., Okwuonu G.O., Palmeiri A.,
+RA   Pasternak S., Perez L.M., Phelps K.A., Plopper F.J., Qiang B.,
+RA   Raymond C., Rodriguez R., Saenphimmachak C., Santibanez J., Shen H.,
+RA   Shen Y., Subramanian S., Tabor P.E., Verduzco D., Waldron L., Wang J.,
+RA   Wang J., Wang Q., Williams G.A., Wong G.K.-S., Yao Z., Zhang J.,
+RA   Zhang X., Zhao G., Zhou J., Zhou Y., Nelson D., Lehrach H.,
+RA   Reinhardt R., Naylor S.L., Yang H., Olson M., Weinstock G.,
+RA   Gibbs R.A.;
+RT   "The DNA sequence, annotation and analysis of human chromosome 3.";
+RL   Nature 440:1194-1198(2006).
+RN   [9]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 3), AND VARIANT
+RP   ARG-558.
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA
+RT   project: the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [10]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 422-2016 (ISOFORMS 3/6).
+RC   TISSUE=Brain;
+RA   Totoki Y., Toyoda A., Takeda T., Sakaki Y., Tanaka A., Yokoyama S.,
+RA   Ohara O., Nagase T., Kikuno R.F.;
+RL   Submitted (MAR-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [11]
+RP   INTERACTION WITH NEDD4L, UBIQUITINATION, AND MUTAGENESIS OF TYR-1977
+RP   AND VAL-1980.
+RX   PubMed=15217910; DOI=10.1161/01.RES.0000136816.05109.89;
+RA   van Bemmelen M.X., Rougier J.-S., Gavillet B., Apotheloz F.,
+RA   Daidie D., Tateyama M., Rivolta I., Thomas M.A., Kass R.S., Staub O.,
+RA   Abriel H.;
+RT   "Cardiac voltage-gated sodium channel Nav1.5 is regulated by Nedd4-2
+RT   mediated ubiquitination.";
+RL   Circ. Res. 95:284-291(2004).
+RN   [12]
+RP   INTERACTION WITH NEDD4; NEDD4L AND WWP2, UBIQUITINATION, AND
+RP   MUTAGENESIS OF PRO-1974; PRO-1975; SER-1976; TYR-1977; ASP-1978;
+RP   SER-1979 AND VAL-1980.
+RX   PubMed=15548568; DOI=10.1152/ajpcell.00460.2004;
+RA   Rougier J.-S., van Bemmelen M.X., Bruce M.C., Jespersen T.,
+RA   Gavillet B., Apotheloz F., Cordonier S., Staub O., Rotin D.,
+RA   Abriel H.;
+RT   "Molecular determinants of voltage-gated sodium channel regulation by
+RT   the Nedd4/Nedd4-like proteins.";
+RL   Am. J. Physiol. 288:C692-C701(2005).
+RN   [13]
+RP   MUTAGENESIS OF GLN-1476.
+RX   PubMed=16054936; DOI=10.1016/S0140-6736(05)66786-4;
+RA   Dichgans M., Freilinger T., Eckstein G., Babini E.,
+RA   Lorenz-Depiereux B., Biskup S., Ferrari M.D., Herzog J.,
+RA   van den Maagdenberg A.M.J.M., Pusch M., Strom T.M.;
+RT   "Mutation in the neuronal voltage-gated sodium channel SCN1A in
+RT   familial hemiplegic migraine.";
+RL   Lancet 366:371-377(2005).
+RN   [14]
+RP   INTERACTION WITH GPD1L.
+RX   PubMed=19666841; DOI=10.1152/ajpheart.00513.2009;
+RA   Valdivia C.R., Ueda K., Ackerman M.J., Makielski J.C.;
+RT   "GPD1L links redox state to cardiac excitability by PKC-dependent
+RT   phosphorylation of the sodium channel SCN5A.";
+RL   Am. J. Physiol. 297:H1446-H1452(2009).
+RN   [15]
+RP   ALTERNATIVE SPLICING, AND TISSUE SPECIFICITY (ISOFORM 4).
+RX   PubMed=19376164; DOI=10.1016/j.neures.2009.04.003;
+RA   Wang J., Ou S.-W., Wang Y.-J., Kameyama M., Kameyama A., Zong Z.-H.;
+RT   "Analysis of four novel variants of Nav1.5/SCN5A cloned from the
+RT   brain.";
+RL   Neurosci. Res. 64:339-347(2009).
+RN   [16]
+RP   REVIEW ON VARIANTS.
+RX   PubMed=19027780; DOI=10.1016/j.pbiomolbio.2008.10.005;
+RA   Zimmer T., Surber R.;
+RT   "SCN5A channelopathies - An update on mutations and mechanisms.";
+RL   Prog. Biophys. Mol. Biol. 98:120-136(2008).
+RN   [17]
+RP   ALTERNATIVE SPLICING.
+RX   PubMed=20398673; DOI=10.1016/j.yjmcc.2010.04.004;
+RA   Schroeter A., Walzik S., Blechschmidt S., Haufe V., Benndorf K.,
+RA   Zimmer T.;
+RT   "Structure and function of splice variants of the cardiac voltage-
+RT   gated sodium channel Na(v)1.5.";
+RL   J. Mol. Cell. Cardiol. 49:16-24(2010).
+RN   [18]
+RP   INTERACTION WITH FGF13.
+RX   PubMed=21817159; DOI=10.1161/CIRCRESAHA.111.247957;
+RA   Wang C., Hennessey J.A., Kirkton R.D., Wang C., Graham V.,
+RA   Puranam R.S., Rosenberg P.B., Bursac N., Pitt G.S.;
+RT   "Fibroblast growth factor homologous factor 13 regulates Na+ channels
+RT   and conduction velocity in murine hearts.";
+RL   Circ. Res. 109:775-782(2011).
+RN   [19]
+RP   METHYLATION AT ARG-513; ARG-526 AND ARG-680.
+RX   PubMed=21726068; DOI=10.1021/pr200339n;
+RA   Beltran-Alvarez P., Pagans S., Brugada R.;
+RT   "The cardiac sodium channel is post-translationally modified by
+RT   arginine methylation.";
+RL   J. Proteome Res. 10:3712-3719(2011).
+RN   [20]
+RP   PHOSPHORYLATION AT SER-36; THR-38; SER-457; SER-460; SER-483; SER-484;
+RP   SER-497; SER-510; SER-571; SER-664 AND SER-667.
+RX   PubMed=23092124; DOI=10.1021/pr300702c;
+RA   Marionneau C., Lichti C.F., Lindenbaum P., Charpentier F.,
+RA   Nerbonne J.M., Townsend R.R., Merot J.;
+RT   "Mass spectrometry-based identification of native cardiac Nav1.5
+RT   channel alpha subunit phosphorylation sites.";
+RL   J. Proteome Res. 11:5994-6007(2012).
+RN   [21]
+RP   MUTAGENESIS OF ASP-1610.
+RX   PubMed=24898004; DOI=10.1124/mol.114.092338;
+RA   Xiao Y., Blumenthal K., Cummins T.R.;
+RT   "Gating-pore currents demonstrate selective and specific modulation of
+RT   individual sodium channel voltage-sensors by biological toxins.";
+RL   Mol. Pharmacol. 86:159-167(2014).
+RN   [22]
+RP   STRUCTURE BY NMR OF 1773-1865, FUNCTION, SUBCELLULAR LOCATION,
+RP   RESPONSE TO CALCIUM, AND MUTAGENESIS OF 1802-ASP--GLU-1804.
+RX   PubMed=19074138; DOI=10.1074/jbc.M807747200;
+RA   Chagot B., Potet F., Balser J.R., Chazin W.J.;
+RT   "Solution NMR structure of the C-terminal EF-hand domain of human
+RT   cardiac sodium channel NaV1.5.";
+RL   J. Biol. Chem. 284:6436-6445(2009).
+RN   [23]
+RP   STRUCTURE BY NMR OF 1901-1927 IN COMPLEX WITH CALM, AND INTERACTION
+RP   WITH CALM.
+RX   PubMed=21167176; DOI=10.1016/j.jmb.2010.11.046;
+RA   Chagot B., Chazin W.J.;
+RT   "Solution NMR structure of Apo-calmodulin in complex with the IQ motif
+RT   of human cardiac sodium channel NaV1.5.";
+RL   J. Mol. Biol. 406:106-119(2011).
+RN   [24]
+RP   X-RAY CRYSTALLOGRAPHY (2.2 ANGSTROMS) OF 1773-1940 IN COMPLEX WITH
+RP   FGF13 AND CALMODULIN.
+RX   PubMed=22705208; DOI=10.1016/j.str.2012.05.001;
+RA   Wang C., Chung B.C., Yan H., Lee S.Y., Pitt G.S.;
+RT   "Crystal structure of the ternary complex of a NaV C-terminal domain,
+RT   a fibroblast growth factor homologous factor, and calmodulin.";
+RL   Structure 20:1167-1176(2012).
+RN   [25]
+RP   VARIANTS LQT3.
+RX   PubMed=7889574; DOI=10.1016/0092-8674(95)90359-3;
+RA   Wang Q., Shen J., Splawski I., Atkinson D., Li Z., Robinson J.L.,
+RA   Moss A.J., Towbin J.A., Keating M.T.;
+RT   "SCN5A mutations associated with an inherited cardiac arrhythmia, long
+RT   QT syndrome.";
+RL   Cell 80:805-811(1995).
+RN   [26]
+RP   VARIANTS LQT3.
+RX   PubMed=8541846; DOI=10.1093/hmg/4.9.1603;
+RA   Wang Q., Shen J., Li Z., Timothy K.W., Vincent G.M., Priori S.G.,
+RA   Schwartz P.J., Keating M.T.;
+RT   "Cardiac sodium channel mutations in patients with long QT syndrome,
+RT   an inherited cardiac arrhythmia.";
+RL   Hum. Mol. Genet. 4:1603-1607(1995).
+RN   [27]
+RP   VARIANT LQT3 1505-LYS--GLN-1507 DEL.
+RX   PubMed=7651517; DOI=10.1038/376683a0;
+RA   Bennett P.B., Yazawa K., Makita N., George A.L. Jr.;
+RT   "Molecular mechanism for an inherited cardiac arrhythmia.";
+RL   Nature 376:683-685(1995).
+RN   [28]
+RP   VARIANT LQT3 GLY-1790.
+RX   PubMed=9686753; DOI=10.1161/01.RES.83.2.141;
+RA   An R.H., Wang X.L., Kerem B., Benhorin J., Medina A., Goldmit M.,
+RA   Kass R.S.;
+RT   "Novel LQT-3 mutation affects Na+ channel activity through
+RT   interactions between alpha- and beta1-subunits.";
+RL   Circ. Res. 83:141-146(1998).
+RN   [29]
+RP   VARIANT LQT3 GLN-1623.
+RX   PubMed=9506831; DOI=10.1016/S0014-5793(98)00033-7;
+RA   Makita N., Shirai N., Nagashima M., Matsuoka R., Yamada Y., Tohse N.,
+RA   Kitabatake A.;
+RT   "A de novo missense mutation of human cardiac Na(+) channel exhibiting
+RT   novel molecular mechanisms of long QT syndrome.";
+RL   FEBS Lett. 423:5-9(1998).
+RN   [30]
+RP   VARIANT LQT3 GLY-1839.
+RX   PubMed=10627139;
+RX   DOI=10.1002/(SICI)1098-1004(1998)12:1<72::AID-HUMU17>3.0.CO;2-Z;
+RA   Benhorin J., Goldmit M., Maccluer J.W., Blangero J., Goffen R.,
+RA   Leibovitch A., Rahat A., Wang Q., Medina A., Towbin J.A., Kerem B.;
+RT   "Identification of a new SCN5A mutation, D1840G, associated with the
+RT   long QT syndrome.";
+RL   Hum. Mutat. 12:72-72(1998).
+RN   [31]
+RP   VARIANT LQT3 GLN-1623.
+RA   Yamagishi H., Furutani M., Kamisago M., Morikawa Y., Kojima Y.,
+RA   Hino Y., Furutani Y., Kimura M., Imamura S., Takao A., Momma K.,
+RA   Matsuoka R.;
+RT   "A De Novo missense mutation (R1623Q) of the SCN5A gene in a Japanese
+RT   girl with sporadic long QT syndrome.";
+RL   Hum. Mutat. 12:481-481(1998).
+RN   [32]
+RP   VARIANTS BRGDA1 TRP-1232 AND MET-1620.
+RX   PubMed=9521325; DOI=10.1038/32675;
+RA   Chen Q., Kirsch G.E., Zhang D., Brugada R., Brugada J., Brugada P.,
+RA   Potenza D., Moya A., Borggrefe M., Breithardt G., Ortiz-Lopez R.,
+RA   Wang Z., Antzelevitch C., O'Brien R.E., Schulze-Bahr E., Keating M.T.,
+RA   Towbin J.A., Wang Q.;
+RT   "Genetic basis and molecular mechanism for idiopathic ventricular
+RT   fibrillation.";
+RL   Nature 392:293-296(1998).
+RN   [33]
+RP   VARIANTS LQT3 MET-1304 AND MET-1645, AND VARIANT ASN-1500.
+RX   PubMed=10508990;
+RX   DOI=10.1002/(SICI)1096-8628(19991029)86:5<470::AID-AJMG13>3.0.CO;2-Y;
+RA   Wattanasirichaigoon D., Vesely M.R., Duggal P., Levine J.C.,
+RA   Blume E.D., Wolff G.S., Edwards S.B., Beggs A.H.;
+RT   "Sodium channel abnormalities are infrequent in patients with long QT
+RT   syndrome: identification of two novel SCN5A mutations.";
+RL   Am. J. Med. Genet. 86:470-476(1999).
+RN   [34]
+RP   CHARACTERIZATION OF VARIANTS BRGDA1 TRP-1512 AND THR-1924.
+RX   PubMed=10690282; DOI=10.1016/S0008-6363(99)00350-8;
+RA   Rook M.B., Bezzina Alshinawi C., Groenewegen W.A., van Gelder I.C.,
+RA   van Ginneken A.C.G., Jongsma H.J., Mannens M.M.A.M., Wilde A.A.M.;
+RT   "Human SCN5A gene mutations alter cardiac sodium channel kinetics and
+RT   are associated with the Brugada syndrome.";
+RL   Cardiovasc. Res. 44:507-517(1999).
+RN   [35]
+RP   VARIANT LQT3 LYS-1784.
+RX   PubMed=10377081; DOI=10.1161/01.CIR.99.24.3165;
+RA   Wei J., Wang D.W., Alings M., Fish F., Wathen M., Roden D.M.,
+RA   George A.L. Jr.;
+RT   "Congenital long-QT syndrome caused by a novel mutation in a conserved
+RT   acidic domain of the cardiac Na+ channel.";
+RL   Circulation 99:3165-3171(1999).
+RN   [36]
+RP   CHARACTERIZATION OF VARIANT BRGDA1 MET-1620.
+RX   PubMed=10532948; DOI=10.1161/01.RES.85.9.803;
+RA   Dumaine R., Towbin J.A., Brugada P., Vatta M., Nesterenko D.V.,
+RA   Nesterenko V.V., Brugada J., Brugada R., Antzelevitch C.;
+RT   "Ionic mechanisms responsible for the electrocardiographic phenotype
+RT   of the Brugada syndrome are temperature dependent.";
+RL   Circ. Res. 85:803-809(1999).
+RN   [37]
+RP   CHARACTERIZATION OF VARIANT LQT3/BRGDA1 ASP-1795 INS.
+RX   PubMed=10590249; DOI=10.1161/01.RES.85.12.1206;
+RA   Bezzina C.R., Veldkamp M.W., van Den Berg M.P., Postma A.V.,
+RA   Rook M.B., Viersma J.-W., van Langen I.M., Tan-Sindhunata G.,
+RA   Bink-Boelkens M.T.E., van Der Hout A.H., Mannens M.M.A.M.,
+RA   Wilde A.A.M.;
+RT   "A single Na(+) channel mutation causing both long-QT and Brugada
+RT   syndromes.";
+RL   Circ. Res. 85:1206-1213(1999).
+RN   [38]
+RP   DISEASE.
+RX   PubMed=10471492; DOI=10.1038/12618;
+RA   Schott J.-J., Alshinawi C., Kyndt F., Probst V., Hoorntje T.M.,
+RA   Hulsbeek M., Wilde A.A.M., Escande D., Mannens M.M.A.M., Le Marec H.;
+RT   "Cardiac conduction defects associate with mutations in SCN5A.";
+RL   Nat. Genet. 23:20-21(1999).
+RN   [39]
+RP   CHARACTERIZATION OF VARIANT BRGDA1 MET-1620.
+RX   PubMed=10618304; DOI=10.1161/01.CIR.101.1.54;
+RA   Makita N., Shirai N., Wang D.W., Sasaki K., George A.L. Jr., Kanno M.,
+RA   Kitabatake A.;
+RT   "Cardiac Na(+) channel dysfunction in Brugada syndrome is aggravated
+RT   by beta(1)-subunit.";
+RL   Circulation 101:54-60(2000).
+RN   [40]
+RP   VARIANTS LQT3 ASN-1114; VAL-1501; LEU-1623 AND HIS-1644, AND VARIANT
+RP   ASN-1787.
+RX   PubMed=10973849; DOI=10.1161/01.CIR.102.10.1178;
+RA   Splawski I., Shen J., Timothy K.W., Lehmann M.H., Priori S.G.,
+RA   Robinson J.L., Moss A.J., Schwartz P.J., Towbin J.A., Vincent G.M.,
+RA   Keating M.T.;
+RT   "Spectrum of mutations in long-QT syndrome genes. KVLQT1, HERG, SCN5A,
+RT   KCNE1, and KCNE2.";
+RL   Circulation 102:1178-1185(2000).
+RN   [41]
+RP   VARIANT VF1 LEU-1710.
+RX   PubMed=10940383; DOI=10.1016/S0014-5793(00)01875-5;
+RA   Akai J., Makita N., Sakurada H., Shirai N., Ueda K., Kitabatake A.,
+RA   Nakazawa K., Kimura A., Hiraoka M.;
+RT   "A novel SCN5A mutation associated with idiopathic ventricular
+RT   fibrillation without typical ECG findings of Brugada syndrome.";
+RL   FEBS Lett. 479:29-34(2000).
+RN   [42]
+RP   VARIANT LQT3 ASN-941.
+RX   PubMed=10911008; DOI=10.1056/NEJM200007273430405;
+RA   Schwartz P.J., Priori S.G., Dumaine R., Napolitano C.,
+RA   Antzelevitch C., Stramba-Badiale M., Richard T.A., Berti M.R.,
+RA   Bloise R.;
+RT   "A molecular link between the sudden infant death syndrome and the
+RT   long-QT syndrome.";
+RL   N. Engl. J. Med. 343:262-267(2000).
+RN   [43]
+RP   VARIANT LQT3 LYS-1295, AND CHARACTERIZATION OF VARIANT LQT3 LYS-1295.
+RX   PubMed=11304498; DOI=10.1161/hh0701.089668;
+RA   Abriel H., Cabo C., Wehrens X.H., Rivolta I., Motoike H.K., Memmi M.,
+RA   Napolitano C., Priori S.G., Kass R.S.;
+RT   "Novel arrhythmogenic mechanism revealed by a long-QT syndrome
+RT   mutation in the cardiac Na(+) channel.";
+RL   Circ. Res. 88:740-745(2001).
+RN   [44]
+RP   CHARACTERIZATION OF VARIANT LQT3 CYS-1795, AND CHARACTERIZATION OF
+RP   VARIANT BRGDA1 HIS-1795.
+RX   PubMed=11410597; DOI=10.1074/jbc.M104471200;
+RA   Rivolta I., Abriel H., Tateyama M., Liu H., Memmi M., Vardas P.,
+RA   Napolitano C., Priori S.G., Kass R.S.;
+RT   "Inherited Brugada and long QT-3 syndrome mutations of a single
+RT   residue of the cardiac sodium channel confer distinct channel and
+RT   clinical phenotypes.";
+RL   J. Biol. Chem. 276:30623-30630(2001).
+RN   [45]
+RP   VARIANT SSS1/BRGDA1 ARG-1408.
+RX   PubMed=11748104; DOI=10.1161/hc5001.100834;
+RA   Kyndt F., Probst V., Potet F., Demolombe S., Chevallier J.-C.,
+RA   Baro I., Moisan J.-P., Boisseau P., Schott J.-J., Escande D.,
+RA   Le Marec H.;
+RT   "Novel SCN5A mutation leading either to isolated cardiac conduction
+RT   defect or Brugada syndrome in a large French family.";
+RL   Circulation 104:3081-3086(2001).
+RN   [46]
+RP   CHARACTERIZATION OF VARIANTS LQT3 SER-997 AND HIS-1826.
+RX   PubMed=11710892; DOI=10.1001/jama.286.18.2264;
+RA   Ackerman M.J., Siu B.L., Sturner W.Q., Tester D.J., Valdivia C.R.,
+RA   Makielski J.C., Towbin J.A.;
+RT   "Postmortem molecular analysis of SCN5A defects in sudden infant death
+RT   syndrome.";
+RL   JAMA 286:2264-2269(2001).
+RN   [47]
+RP   CHARACTERIZATION OF VARIANT PFHB1A CYS-514.
+RX   PubMed=11234013; DOI=10.1038/35059090;
+RA   Tan H.L., Bink-Boelkens M.T.E., Bezzina C.R., Viswanathan P.C.,
+RA   Beaufort-Krol G.C.M., van Tintelen P.J., van den Berg M.P.,
+RA   Wilde A.A.M., Balser J.R.;
+RT   "A sodium-channel mutation causes isolated cardiac conduction
+RT   disease.";
+RL   Nature 409:1043-1047(2001).
+RN   [48]
+RP   VARIANTS BRGDA1 LYS-161; CYS-367; LYS-369; ARG-752; LYS-1225;
+RP   VAL-1319; ILE-1382; LEU-1405; ARG-1406; LYS-1479 DEL; SER-1502;
+RP   TRP-1512; GLU-1743 AND THR-1924.
+RX   PubMed=12106943; DOI=10.1016/S0735-1097(02)01962-9;
+RA   Smits J.P.P., Eckardt L., Probst V., Bezzina C.R., Schott J.-J.,
+RA   Remme C.A., Haverkamp W., Breithardt G., Escande D., Schulze-Bahr E.,
+RA   LeMarec H., Wilde A.A.M.;
+RT   "Genotype-phenotype relationship in Brugada syndrome:
+RT   electrocardiographic features differentiate SCN5A-related patients
+RT   from non-SCN5A-related patients.";
+RL   J. Am. Coll. Cardiol. 40:350-356(2002).
+RN   [49]
+RP   CHARACTERIZATION OF VARIANTS PFHB1A SER-298 AND ASN-1595.
+RX   PubMed=11804990; DOI=10.1161/hc0302.102592;
+RA   Wang D.W., Viswanathan P.C., Balser J.R., George A.L. Jr.,
+RA   Benson D.W.;
+RT   "Clinical, genetic and biophysical characterisation of SCN5A mutations
+RT   associated with atrioventricular conduction block.";
+RL   Circulation 105:341-346(2002).
+RN   [50]
+RP   MODELING OF VARIANT LQT3/BRGDA1 ASP-1795 INS.
+RX   PubMed=11889015; DOI=10.1161/hc1002.105183;
+RA   Clancy C.E., Rudy Y.;
+RT   "Na(+) channel mutation that causes both Brugada and long-QT syndrome
+RT   phenotypes: a simulation study of mechanism.";
+RL   Circulation 105:1208-1213(2002).
+RN   [51]
+RP   VARIANTS BRGDA1 HIS-27; VAL-226; VAL-230; HIS-282; MET-294; SER-319;
+RP   PHE-393 DEL; GLN-567; PRO-681; GLU-735; LEU-851; ILE-892; SER-896;
+RP   LEU-910; CYS-965; LYS-1053; ASN-1236; GLN-1240; SER-1293; LYS-1500
+RP   DEL; ARG-1740; LYS-1784; HIS-1795 AND LEU-1951.
+RX   PubMed=11901046; DOI=10.1161/hc1102.105288;
+RA   Priori S.G., Napolitano C., Gasparini M., Pappone C., Della Bella P.,
+RA   Giordano U., Bloise R., Giustetto C., De Nardis R., Grillo M.,
+RA   Ronchetti E., Faggiano G., Nastoli J.;
+RT   "Natural history of Brugada syndrome: insights for risk stratification
+RT   and management.";
+RL   Circulation 105:1342-1347(2002).
+RN   [52]
+RP   VARIANTS LQT3 GLU-615; PHE-619 AND LEU-1250, AND VARIANTS CYS-34 AND
+RP   ARG-558.
+RX   PubMed=11997281; DOI=10.1161/01.CIR.0000014448.19052.4C;
+RA   Yang P., Kanki H., Drolet B., Yang T., Wei J., Viswanathan P.C.,
+RA   Hohnloser S.H., Shimizu W., Schwartz P.J., Stanton M., Murray K.T.,
+RA   Norris K., George A.L. Jr., Roden D.M.;
+RT   "Allelic variants in long-QT disease genes in patients with drug-
+RT   associated torsades de pointes.";
+RL   Circulation 105:1943-1948(2002).
+RN   [53]
+RP   CHARACTERIZATION OF VARIANTS BRGDA1 HIS-367; VAL-735 AND GLN-1193.
+RX   PubMed=11823453; DOI=10.1093/hmg/11.3.337;
+RA   Vatta M., Dumaine R., Varghese G., Richard T.A., Shimizu W.,
+RA   Aihara N., Nademanee K., Brugada R., Brugada J., Veerakul G., Li H.,
+RA   Bowles N.E., Brugada P., Antzelevitch C., Towbin J.A.;
+RT   "Genetic and biophysical basis of sudden unexplained nocturnal death
+RT   syndrome (SUNDS), a disease allelic to Brugada syndrome.";
+RL   Hum. Mol. Genet. 11:337-345(2002).
+RN   [54]
+RP   VARIANT TYR-1103.
+RX   PubMed=12471205; DOI=10.1136/jmg.39.12.913;
+RA   Chen S., Chung M.K., Martin D., Rozich R., Tchou P.J., Wang Q.;
+RT   "SNP S1103Y in the cardiac sodium channel gene SCN5A is associated
+RT   with cardiac arrhythmias and sudden death in a white family.";
+RL   J. Med. Genet. 39:913-915(2002).
+RN   [55]
+RP   VARIANTS BRGDA1 GLU-126 AND VAL-351, CHARACTERIZATION OF VARIANT
+RP   BRGDA1 VAL-351, AND VARIANT ARG-558.
+RX   PubMed=12051963; DOI=10.1016/S1096-7192(02)00006-9;
+RA   Vatta M., Dumaine R., Antzelevitch C., Brugada R., Li H., Bowles N.E.,
+RA   Nademanee K., Brugada J., Brugada P., Towbin J.A.;
+RT   "Novel mutations in domain I of SCN5A cause Brugada syndrome.";
+RL   Mol. Genet. Metab. 75:317-324(2002).
+RN   [56]
+RP   VARIANT LQT3 VAL-1768, AND CHARACTERIZATION OF VARIANT LQT3 VAL-1768.
+RX   PubMed=12209021; DOI=10.1152/physiolgenomics.00039.2002;
+RA   Rivolta I., Clancy C.E., Tateyama M., Liu H., Priori S.G., Kass R.S.;
+RT   "A novel SCN5A mutation associated with long QT-3: altered
+RT   inactivation kinetics and channel dysfunction.";
+RL   Physiol. Genomics 10:191-197(2002).
+RN   [57]
+RP   VARIANT TYR-1103.
+RX   PubMed=12193783; DOI=10.1126/science.1073569;
+RA   Splawski I., Timothy K.W., Tateyama M., Clancy C.E., Malhotra A.,
+RA   Beggs A.H., Cappuccio F.P., Sagnella G.A., Kass R.S., Keating M.T.;
+RT   "Variant of SCN5A sodium channel implicated in risk of cardiac
+RT   arrhythmia.";
+RL   Science 297:1333-1336(2002).
+RN   [58]
+RP   VARIANT ATRST1 ASN-1275.
+RX   PubMed=12522116; DOI=10.1161/01.RES.0000050585.07097.D7;
+RA   Groenewegen W.A., Firouzi M., Bezzina C.R., Vliex S., van Langen I.M.,
+RA   Sandkuijl L., Smits J.P., Hulsbeek M., Rook M.B., Jongsma H.J.,
+RA   Wilde A.A.M.;
+RT   "A cardiac sodium channel mutation cosegregates with a rare connexin40
+RT   genotype in familial atrial standstill.";
+RL   Circ. Res. 92:14-22(2003).
+RN   [59]
+RP   VARIANT PFHB1A TRP-225.
+RX   PubMed=12574143; DOI=10.1161/01.RES.0000052672.97759.36;
+RA   Bezzina C.R., Rook M.B., Groenewegen W.A., Herfst L.J.,
+RA   van der Wal A.C., Lam J., Jongsma H.J., Wilde A.A.M., Mannens M.M.;
+RT   "Compound heterozygosity for mutations (W156X and R225W) in SCN5A
+RT   associated with severe cardiac conduction disturbances and
+RT   degenerative changes in the conduction system.";
+RL   Circ. Res. 92:159-168(2003).
+RN   [60]
+RP   VARIANT LQT3 PHE-619.
+RX   PubMed=12673799; DOI=10.1002/humu.9136;
+RA   Wehrens X.H., Rossenbacker T., Jongbloed R.J., Gewillig M.,
+RA   Heidbuchel H., Doevendans P.A., Vos M.A., Wellens H.J., Kass R.S.;
+RT   "A novel mutation L619F in the cardiac Na+ channel SCN5A associated
+RT   with long-QT syndrome (LQT3): a role for the I-II linker in
+RT   inactivation gating.";
+RL   Hum. Mutat. 21:552-552(2003).
+RN   [61]
+RP   VARIANT PFHB1A ILE-512, CHARACTERIZATION OF VARIANT PFHB1A ILE-512,
+RP   VARIANT ARG-558, AND CHARACTERIZATION OF VARIANT ARG-558.
+RX   PubMed=12569159; DOI=10.1172/JCI200316879;
+RA   Viswanathan P.C., Benson D.W., Balser J.R.;
+RT   "A common SCN5A polymorphism modulates the biophysical effects of an
+RT   SCN5A mutation.";
+RL   J. Clin. Invest. 111:341-346(2003).
+RN   [62]
+RP   VARIANTS SSS1 ILE-220; LEU-1298 AND ARG-1408.
+RX   PubMed=14523039; DOI=10.1172/JCI200318062;
+RA   Benson D.W., Wang D.W., Dyment M., Knilans T.K., Fish F.A.,
+RA   Strieper M.J., Rhodes T.H., George A.L. Jr.;
+RT   "Congenital sick sinus syndrome caused by recessive mutations in the
+RT   cardiac sodium channel gene (SCN5A).";
+RL   J. Clin. Invest. 112:1019-1028(2003).
+RN   [63]
+RP   VARIANT BRGDA1 ARG-1743, AND CHARACTERIZATION OF VARIANT BRGDA1
+RP   ARG-1743.
+RX   PubMed=15023552; DOI=10.1016/j.cardiores.2004.01.022;
+RA   Valdivia C.R., Tester D.J., Rok B.A., Porter C.B., Munger T.M.,
+RA   Jahangir A., Makielski J.C., Ackerman M.J.;
+RT   "A trafficking defective, Brugada syndrome-causing SCN5A mutation
+RT   rescued by drugs.";
+RL   Cardiovasc. Res. 62:53-62(2004).
+RN   [64]
+RP   VARIANT CMD1E ASN-1275.
+RX   PubMed=15466643; DOI=10.1161/01.CIR.0000144458.58660.BB;
+RG   The familial cardiomyopathy registry research group;
+RA   McNair W.P., Ku L., Taylor M.R.G., Fain P.R., Dao D., Wolfel E.,
+RA   Mestroni L.;
+RT   "SCN5A mutation associated with dilated cardiomyopathy, conduction
+RT   disorder, and arrhythmia.";
+RL   Circulation 110:2163-2167(2004).
+RN   [65]
+RP   VARIANT BRGDA1 SER-1262.
+RX   PubMed=15338453; DOI=10.1007/s10038-004-0182-z;
+RA   Shin D.-J., Jang Y., Park H.-Y., Lee J.E., Yang K., Kim E., Bae Y.,
+RA   Kim J., Kim J., Kim S.S., Lee M.H., Chahine M., Yoon S.K.;
+RT   "Genetic analysis of the cardiac sodium channel gene SCN5A in Koreans
+RT   with Brugada syndrome.";
+RL   J. Hum. Genet. 49:573-578(2004).
+RN   [66]
+RP   VARIANT BRGDA1 LYS-1053, AND CHARACTERIZATION OF VARIANT BRGDA1
+RP   LYS-1053.
+RX   PubMed=15579534; DOI=10.1073/pnas.0403711101;
+RA   Mohler P.J., Rivolta I., Napolitano C., LeMaillet G., Lambert S.,
+RA   Priori S.G., Bennett V.;
+RT   "Nav1.5 E1053K mutation causing Brugada syndrome blocks binding to
+RT   ankyrin-G and expression of Nav1.5 on the surface of cardiomyocytes.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 101:17533-17538(2004).
+RN   [67]
+RP   VARIANT BRGDA1 GLY-1714, AND CHARACTERIZATION OF VARIANT BRGDA1
+RP   GLY-1714.
+RX   PubMed=16266370; DOI=10.1111/j.1365-201X.2005.01496.x;
+RA   Amin A.S., Verkerk A.O., Bhuiyan Z.A., Wilde A.A.M., Tan H.L.;
+RT   "Novel Brugada syndrome-causing mutation in ion-conducting pore of
+RT   cardiac Na+ channel does not affect ion selectivity properties.";
+RL   Acta Physiol. Scand. 185:291-301(2005).
+RN   [68]
+RP   VARIANTS BRGDA1 ARG-1527 AND PRO-1569.
+RX   PubMed=15851320; DOI=10.1016/j.hrthm.2004.11.022;
+RA   Yokoi H., Makita N., Sasaki K., Takagi Y., Okumura Y., Nishino T.,
+RA   Makiyama T., Kitabatake A., Horie M., Watanabe I., Tsutsui H.;
+RT   "Double SCN5A mutation underlying asymptomatic Brugada syndrome.";
+RL   Heart Rhythm 2:285-292(2005).
+RN   [69]
+RP   VARIANTS LQT3 GLU-413; THR-413; GLU-573; ARG-579; HIS-689; PRO-1626;
+RP   CYS-1644; VAL-1660; CYS-1767; GLY-1790 AND HIS-1913, AND VARIANTS
+RP   THR-1498 AND ASN-1787.
+RX   PubMed=16414944; DOI=10.1001/jama.294.23.2975;
+RA   Napolitano C., Priori S.G., Schwartz P.J., Bloise R., Ronchetti E.,
+RA   Nastoli J., Bottelli G., Cerrone M., Leonardi S.;
+RT   "Genetic testing in the long QT syndrome: development and validation
+RT   of an efficient approach to genotyping in clinical practice.";
+RL   JAMA 294:2975-2980(2005).
+RN   [70]
+RP   VARIANTS LQT3 LEU-125; LYS-245; GLN-404; LYS-406; MET-411; LYS-462;
+RP   ASP-572; GLU-615; LEU-637; LEU-648; CYS-971; MET-1069; LYS-1225;
+RP   LYS-1231; SER-1325; TYR-1458; GLU-1481; 1505-LYS--GLN-1507 DEL;
+RP   LEU-1623; HIS-1644; ILE-1667; MET-1763; LEU-1766; MET-1777; MET-1779;
+RP   LYS-1784; CYS-1795; ARG-1909 AND SER-1949, AND VARIANTS TRP-18;
+RP   PHE-618 AND GLN-1958.
+RX   PubMed=15840476; DOI=10.1016/j.hrthm.2005.01.020;
+RA   Tester D.J., Will M.L., Haglund C.M., Ackerman M.J.;
+RT   "Compendium of cardiac channel mutations in 541 consecutive unrelated
+RT   patients referred for long QT syndrome genetic testing.";
+RL   Heart Rhythm 2:507-517(2005).
+RN   [71]
+RP   VARIANTS BRGDA1 ILE-187 AND ASN-356, AND CHARACTERIZATION OF VARIANTS
+RP   BRGDA1 ILE-187 AND ASN-356.
+RX   PubMed=16325048; DOI=10.1016/j.jacc.2005.08.043;
+RA   Makiyama T., Akao M., Tsuji K., Doi T., Ohno S., Takenaka K.,
+RA   Kobori A., Ninomiya T., Yoshida H., Takano M., Makita N.,
+RA   Yanagisawa F., Higashi Y., Takeyama Y., Kita T., Horie M.;
+RT   "High risk for bradyarrhythmic complications in patients with Brugada
+RT   syndrome caused by SCN5A gene mutations.";
+RL   J. Am. Coll. Cardiol. 46:2100-2106(2005).
+RN   [72]
+RP   VARIANT BRGDA1 SER-1344, AND VARIANTS ARG-552 AND GLN-1027.
+RX   PubMed=16616735; DOI=10.1016/j.cardiores.2006.02.030;
+RA   Keller D.I., Huang H., Zhao J., Frank R., Suarez V., Delacretaz E.,
+RA   Brink M., Osswald S., Schwick N., Chahine M.;
+RT   "A novel SCN5A mutation, F1344S, identified in a patient with Brugada
+RT   syndrome and fever-induced ventricular fibrillation.";
+RL   Cardiovasc. Res. 70:521-529(2006).
+RN   [73]
+RP   VARIANTS BRGDA1 LEU-336 AND VAL-1660, AND CHARACTERIZATION OF VARIANTS
+RP   BRGDA1 LEU-336 AND VAL-1660.
+RX   PubMed=17075016; DOI=10.1161/CIRCULATIONAHA.106.627489;
+RA   Cordeiro J.M., Barajas-Martinez H., Hong K., Burashnikov E.,
+RA   Pfeiffer R., Orsino A.M., Wu Y.S., Hu D., Brugada J., Brugada P.,
+RA   Antzelevitch C., Dumaine R., Brugada R.;
+RT   "Compound heterozygous mutations P336L and I1660V in the human cardiac
+RT   sodium channel associated with the Brugada syndrome.";
+RL   Circulation 114:2026-2033(2006).
+RN   [74]
+RP   VARIANTS LQT3 VAL-9; GLN-225; ARG-639; TYR-1333; TRP-1609 AND
+RP   ASN-1819.
+RX   PubMed=16922724; DOI=10.1111/j.1399-0004.2006.00671.x;
+RA   Millat G., Chevalier P., Restier-Miron L., Da Costa A., Bouvagnet P.,
+RA   Kugener B., Fayol L., Gonzalez Armengod C., Oddou B., Chanavat V.,
+RA   Froidefond E., Perraudin R., Rousson R., Rodriguez-Lafrasse C.;
+RT   "Spectrum of pathogenic mutations and associated polymorphisms in a
+RT   cohort of 44 unrelated patients with long QT syndrome.";
+RL   Clin. Genet. 70:214-227(2006).
+RN   [75]
+RP   VARIANTS BRGDA1 ILE-95; PHE-1617 DEL AND VAL-1649.
+RX   PubMed=17081365;
+RA   Liang P., Liu W.L., Hu D.Y., Li C.L., Tao W.H., Li L.;
+RT   "Novel SCN5A gene mutations associated with Brugada syndrome: V95I,
+RT   A1649V and delF1617.";
+RL   Zhonghua Xin Xue Guan Bing Za Zhi 34:616-619(2006).
+RN   [76]
+RP   VARIANT LQT3 LEU-1904, AND CHARACTERIZATION OF VARIANT LQT3 LEU-1904.
+RX   PubMed=18708744; DOI=10.4161/chan.4956;
+RA   Bankston J.R., Sampson K.J., Kateriya S., Glaaser I.W., Malito D.L.,
+RA   Chung W.K., Kass R.S.;
+RT   "A novel LQT-3 mutation disrupts an inactivation gate complex with
+RT   distinct rate-dependent phenotypic consequences.";
+RL   Channels 1:273-280(2007).
+RN   [77]
+RP   VARIANT BRGDA1 ILE-353.
+RX   PubMed=17198989; DOI=10.1016/j.hrthm.2006.09.031;
+RA   Pfahnl A.E., Viswanathan P.C., Weiss R., Shang L.L., Sanyal S.,
+RA   Shusterman V., Kornblit C., London B., Dudley S.C. Jr.;
+RT   "A sodium channel pore mutation causing Brugada syndrome.";
+RL   Heart Rhythm 4:46-53(2007).
+RN   [78]
+RP   VARIANT LQT3 CYS-1473.
+RX   PubMed=18060054; DOI=10.1371/journal.pone.0001258;
+RA   Bankston J.R., Yue M., Chung W., Spyres M., Pass R.H., Silver E.,
+RA   Sampson K.J., Kass R.S.;
+RT   "A novel and lethal de novo LQT-3 mutation in a newborn with distinct
+RT   molecular pharmacology and therapeutic response.";
+RL   PLoS ONE 2:E1258-E1258(2007).
+RN   [79]
+RP   VARIANT BRGDA1 ASN-1494.
+RX   PubMed=18341814;
+RA   Tian L., Zhu J.F., Yang J.G.;
+RT   "Gene (SCN5A) mutation analysis of a Chinese family with Brugada
+RT   syndrome.";
+RL   Zhonghua Xin Xue Guan Bing Za Zhi 35:1122-1125(2007).
+RN   [80]
+RP   VARIANT BRGDA1 CYS-878.
+RX   PubMed=18616619; DOI=10.1111/j.1748-1716.2008.01883.x;
+RA   Zhang Y., Wang T., Ma A., Zhou X., Gui J., Wan H., Shi R., Huang C.,
+RA   Grace A.A., Huang C.L., Trump D., Zhang H., Zimmer T., Lei M.;
+RT   "Correlations between clinical and physiological consequences of the
+RT   novel mutation R878C in a highly conserved pore residue in the cardiac
+RT   Na+ channel.";
+RL   Acta Physiol. 194:311-323(2008).
+RN   [81]
+RP   VARIANT BRGDA1 LEU-2004, AND CHARACTERIZATION OF VARIANT BRGDA1
+RP   LEU-2004.
+RX   PubMed=18456723; DOI=10.1152/ajpheart.91495.2007;
+RA   Bebarova M., O'Hara T., Geelen J.L.M.C., Jongbloed R.J.,
+RA   Timmermans C., Arens Y.H., Rodriguez L.-M., Rudy Y., Volders P.G.A.;
+RT   "Subepicardial phase 0 block and discontinuous transmural conduction
+RT   underlie right precordial ST-segment elevation by a SCN5A loss-of-
+RT   function mutation.";
+RL   Am. J. Physiol. 295:H48-H58(2008).
+RN   [82]
+RP   VARIANT BRGDA1 SER-1850, AND CHARACTERIZATION OF VARIANT BRGDA1
+RP   SER-1850.
+RX   PubMed=18252757; DOI=10.1093/cvr/cvn023;
+RA   Petitprez S., Jespersen T., Pruvot E., Keller D.I., Corbaz C.,
+RA   Schlapfer J., Abriel H., Kucera J.P.;
+RT   "Analyses of a novel SCN5A mutation (C1850S): conduction vs.
+RT   repolarization disorder hypotheses in the Brugada syndrome.";
+RL   Cardiovasc. Res. 78:494-504(2008).
+RN   [83]
+RP   VARIANTS ILE-232 AND PHE-1308.
+RX   PubMed=18599870; DOI=10.1161/CIRCRESAHA.108.172619;
+RA   Barajas-Martinez H.M., Hu D., Cordeiro J.M., Wu Y., Kovacs R.J.,
+RA   Meltser H., Kui H., Elena B., Brugada R., Antzelevitch C., Dumaine R.;
+RT   "Lidocaine-induced Brugada syndrome phenotype linked to a novel double
+RT   mutation in the cardiac sodium channel.";
+RL   Circ. Res. 103:396-404(2008).
+RN   [84]
+RP   VARIANTS ATFB10 ILE-138; LYS-428; ASP-445; LYS-470; ASP-572; LYS-655;
+RP   LYS-1053; ILE-1131; CYS-1826 AND MET-1951, AND VARIANTS CYS-34;
+RP   LEU-216; HIS-376; VAL-461; TRP-481; TYR-524; ARG-558; PHE-618;
+RP   SER-997; TYR-1103; GLN-1193; LEU-1951 AND LEU-2004.
+RX   PubMed=18378609; DOI=10.1161/CIRCULATIONAHA.107.757955;
+RA   Darbar D., Kannankeril P.J., Donahue B.S., Kucera G., Stubblefield T.,
+RA   Haines J.L., George A.L. Jr., Roden D.M.;
+RT   "Cardiac sodium channel (SCN5A) variants associated with atrial
+RT   fibrillation.";
+RL   Circulation 117:1927-1935(2008).
+RN   [85]
+RP   VARIANT ATFB10 LYS-1987.
+RX   PubMed=18088563; DOI=10.1016/j.hrthm.2007.09.015;
+RA   Ellinor P.T., Nam E.G., Shea M.A., Milan D.J., Ruskin J.N.,
+RA   MacRae C.A.;
+RT   "Cardiac sodium channel mutation in atrial fibrillation.";
+RL   Heart Rhythm 5:99-105(2008).
+RN   [86]
+RP   VARIANT LQT3 CYS-1795.
+RX   PubMed=18929331; DOI=10.1016/j.hrthm.2008.07.013;
+RA   Benito B., Brugada R., Perich R.M., Lizotte E., Cinca J., Mont L.,
+RA   Berruezo A., Tolosana J.M., Freixa X., Brugada P., Brugada J.;
+RT   "A mutation in the sodium channel is responsible for the association
+RT   of long QT syndrome and familial atrial fibrillation.";
+RL   Heart Rhythm 5:1434-1440(2008).
+RN   [87]
+RP   VARIANT LQT3 GLN-43, AND CHARACTERIZATION OF VARIANT LQT3 GLN-43.
+RX   PubMed=18848812; DOI=10.1016/j.hrthm.2008.08.010;
+RA   Lin M.-T., Wu M.-H., Chang C.-C., Chiu S.-N., Theriault O., Huang H.,
+RA   Christe G., Ficker E., Chahine M.;
+RT   "In utero onset of long QT syndrome with atrioventricular block and
+RT   spontaneous or lidocaine-induced ventricular tachycardia: compound
+RT   effects of hERG pore region mutation and SCN5A N-terminus variant.";
+RL   Heart Rhythm 5:1567-1574(2008).
+RN   [88]
+RP   VARIANT ATRIAL FIBRILLATION THR-1875, AND CHARACTERIZATION OF VARIANT
+RP   ATRIAL FIBRILLATION THR-1875.
+RX   PubMed=18929244; DOI=10.1016/j.jacc.2008.07.013;
+RA   Makiyama T., Akao M., Shizuta S., Doi T., Nishiyama K., Oka Y.,
+RA   Ohno S., Nishio Y., Tsuji K., Itoh H., Kimura T., Kita T., Horie M.;
+RT   "A novel SCN5A gain-of-function mutation M1875T associated with
+RT   familial atrial fibrillation.";
+RL   J. Am. Coll. Cardiol. 52:1326-1334(2008).
+RN   [89]
+RP   VARIANT LQT3/BRGDA1/SSS1 LYS-1784.
+RX   PubMed=18451998; DOI=10.1172/JCI34057;
+RA   Makita N., Behr E., Shimizu W., Horie M., Sunami A., Crotti L.,
+RA   Schulze-Bahr E., Fukuhara S., Mochizuki N., Makiyama T., Itoh H.,
+RA   Christiansen M., McKeown P., Miyamoto K., Kamakura S., Tsutsui H.,
+RA   Schwartz P.J., George A.L. Jr., Roden D.M.;
+RT   "The E1784K mutation in SCN5A is associated with mixed clinical
+RT   phenotype of type 3 long QT syndrome.";
+RL   J. Clin. Invest. 118:2219-2229(2008).
+RN   [90]
+RP   VARIANTS ARG-558 AND LEU-1090.
+RX   PubMed=18368697; DOI=10.1016/j.ymgme.2007.10.009;
+RA   Shan L., Makita N., Xing Y., Watanabe S., Futatani T., Ye F.,
+RA   Saito K., Ibuki K., Watanabe K., Hirono K., Uese K., Ichida F.,
+RA   Miyawaki T., Origasa H., Bowles N.E., Towbin J.A.;
+RT   "SCN5A variants in Japanese patients with left ventricular
+RT   noncompaction and arrhythmia.";
+RL   Mol. Genet. Metab. 93:468-474(2008).
+RN   [91]
+RP   VARIANTS SIDS CYS-532; SER-1084 AND SER-1705, AND CHARACTERIZATION OF
+RP   VARIANT SIDS SER-1705.
+RX   PubMed=18596570; DOI=10.1203/PDR.0b013e3181841eca;
+RA   Otagiri T., Kijima K., Osawa M., Ishii K., Makita N., Matoba R.,
+RA   Umetsu K., Hayasaka K.;
+RT   "Cardiac ion channel gene mutations in sudden infant death syndrome.";
+RL   Pediatr. Res. 64:482-487(2008).
+RN   [92]
+RP   VARIANT IRRITABLE BOWEL SYNDROME SER-298, AND CHARACTERIZATION OF
+RP   VARIANT IRRITABLE BOWEL SYNDROME SER-298.
+RX   PubMed=19056759; DOI=10.1152/ajpgi.90571.2008;
+RA   Saito Y.A., Strege P.R., Tester D.J., Locke G.R. III, Talley N.J.,
+RA   Bernard C.E., Rae J.L., Makielski J.C., Ackerman M.J., Farrugia G.;
+RT   "Sodium channel mutation in irritable bowel syndrome: evidence for an
+RT   ion channelopathy.";
+RL   Am. J. Physiol. 296:G211-G218(2009).
+RN   [93]
+RP   VARIANT SIDS TYR-1333.
+RX   PubMed=19302788; DOI=10.1016/j.febslet.2009.02.007;
+RA   Huang H., Millat G., Rodriguez-Lafrasse C., Rousson R., Kugener B.,
+RA   Chevalier P., Chahine M.;
+RT   "Biophysical characterization of a new SCN5A mutation S1333Y in a SIDS
+RT   infant linked to long QT syndrome.";
+RL   FEBS Lett. 583:890-896(2009).
+RN   [94]
+RP   VARIANTS BRGDA1 LYS-161; CYS-367; HIS-367; CYS-514; ARG-752; TRP-1232;
+RP   ASN-1275; VAL-1319; ARG-1408; TRP-1512; GLY-1714; ARG-1740; GLU-1743
+RP   AND THR-1924, AND VARIANTS PFHB1A LYS-161; CYS-367; HIS-367; CYS-514;
+RP   ARG-752; TRP-1232; ASN-1275; VAL-1319; ARG-1408; TRP-1512; GLY-1714;
+RP   ARG-1740; GLU-1743 AND THR-1924.
+RX   PubMed=19251209; DOI=10.1016/j.hrthm.2008.11.009;
+RA   Meregalli P.G., Tan H.L., Probst V., Koopmann T.T., Tanck M.W.,
+RA   Bhuiyan Z.A., Sacher F., Kyndt F., Schott J.-J., Albuisson J.,
+RA   Mabo P., Bezzina C.R., Le Marec H., Wilde A.A.M.;
+RT   "Type of SCN5A mutation determines clinical severity and degree of
+RT   conduction slowing in loss-of-function sodium channelopathies.";
+RL   Heart Rhythm 6:341-348(2009).
+RN   [95]
+RP   VARIANTS LQT3 GLN-18; HIS-27; GLY-30; GLN-43; LYS-48; SER-52; GLN-53;
+RP   GLY-104; GLY-115; LEU-125; PRO-212; GLN-222; TRP-225; MET-240;
+RP   LEU-247; LYS-275; SER-289; TRP-340; CYS-367; MET-370; THR-397;
+RP   LYS-406; VAL-409; MET-411; GLU-429 DEL; ALA-462; VAL-530; GLN-535;
+RP   TRP-569; ILE-571; SER-572; VAL-572; 586-ALA-LEU-587 DEL; GLU-615;
+RP   ARG-639; LYS-654; PRO-673; CYS-689; LEU-701; ILE-731; ARG-750;
+RP   ASN-772; TYR-816; PHE-848; LYS-960; LEU-965; PHE-981; SER-997;
+RP   ARG-1004; LYS-1053; MET-1069; VAL-1100; ASN-1114; ASN-1166; SER-1199;
+RP   ILE-1212 DEL; MET-1283; MET-1304; SER-1325; SER-1326; VAL-1334;
+RP   VAL-1338; SER-1432; SER-1472; CYS-1473; GLU-1481; LEU-1487; ARG-1488;
+RP   ASP-1489; ARG-1493; SER-1495; VAL-1498; VAL-1501; ASN-1505; ILE-1532;
+RP   PHE-1560; MET-1593; SER-1594; ILE-1596; PHE-1617 DEL; GLN-1623;
+RP   LEU-1623; HIS-1626; CYS-1644; PHE-1650; THR-1652; ASN-1723; TRP-1739;
+RP   HIS-1761; PHE-1761; MET-1763; MET-1777; MET-1779; LYS-1784; CYS-1795;
+RP   HIS-1826; GLY-1839; TRP-1897; GLN-1901; ASN-1977; VAL-2004 AND
+RP   CYS-2012.
+RX   PubMed=19716085; DOI=10.1016/j.hrthm.2009.05.021;
+RA   Kapplinger J.D., Tester D.J., Salisbury B.A., Carr J.L.,
+RA   Harris-Kerr C., Pollevick G.D., Wilde A.A., Ackerman M.J.;
+RT   "Spectrum and prevalence of mutations from the first 2,500 consecutive
+RT   unrelated patients referred for the FAMILION long QT syndrome genetic
+RT   test.";
+RL   Heart Rhythm 6:1297-1303(2009).
+RN   [96]
+RP   VARIANT BRGDA1 CYS-965, AND CHARACTERIZATION OF VARIANT BRGDA1
+RP   CYS-965.
+RX   PubMed=19272188; DOI=10.1186/1423-0127-16-23;
+RA   Hsueh C.H., Chen W.P., Lin J.L., Tsai C.T., Liu Y.B., Juang J.M.,
+RA   Tsao H.M., Su M.J., Lai L.P.;
+RT   "Distinct functional defect of three novel Brugada syndrome related
+RT   cardiac sodium channel mutations.";
+RL   J. Biomed. Sci. 16:23-23(2009).
+RN   [97]
+RP   VARIANTS TRP-18; CYS-34; HIS-34; LEU-216; SER-286; SER-291; MET-299;
+RP   CYS-376; GLY-447; ALA-449; VAL-461; SER-475; TRP-481; TYR-524;
+RP   ARG-558; HIS-568; ARG-579; LYS-592; GLY-596; ALA-601; PHE-618;
+RP   ASP-638; LEU-656; THR-672; HIS-689; LYS-692; PHE-705; ILE-924;
+RP   GLN-986; MET-1016; ARG-1040; ALA-1082; LEU-1090; LEU-1098; TYR-1103;
+RP   LYS-1107; TRP-1116; GLN-1193; MET-1251; SER-1293; PHE-1308; TRP-1512;
+RP   ASN-1787; THR-1836; LYS-1901; CYS-1919; LEU-1951; GLN-1958; LEU-1962;
+RP   MET-1968; GLN-1991; LEU-2004 AND ALA-2006, AND VARIANTS BRGDA1 GLN-18;
+RP   LYS-70; ASN-84; SER-93; SER-94; GLN-104; TRP-104; LYS-109; GLN-121;
+RP   TRP-121; GLU-126; PRO-136; MET-146; GLN-161; LYS-161; ASN-175;
+RP   GLY-178; ARG-182; VAL-185; VAL-204; GLN-212; ILE-220; GLN-222;
+RP   LEU-223; TRP-225; VAL-226; ILE-232; MET-240; LYS-270; GLN-276;
+RP   ASP-278; CYS-282; ILE-300; PRO-315; ASN-320; ARG-325; LEU-336;
+RP   ASP-351; VAL-351; ASN-356; CYS-367; HIS-367; LEU-367; LYS-369;
+RP   GLY-374; HIS-376; ARG-386; GLU-386; ALA-396; LEU-396; LYS-439;
+RP   GLY-501; HIS-526; CYS-532; LEU-543; ARG-552; GLU-615; PHE-619;
+RP   CYS-620; MET-632; ALA-640; ASP-647; LEU-648; TRP-661; GLY-683;
+RP   LEU-701; LEU-717; VAL-735; LYS-746; ARG-752; GLU-758; ARG-764;
+RP   ASN-772; SER-773; ILE-789; PRO-808; PRO-839; LEU-851; GLN-867;
+RP   CYS-878; HIS-878; PRO-886; CYS-893; HIS-893; LYS-901; LEU-910;
+RP   ARG-915; ARG-917; SER-927; PRO-928; PRO-935; CYS-965; HIS-965;
+RP   THR-997; LYS-1053; GLY-1055; TYR-1079; VAL-1113; THR-1140; ASN-1219;
+RP   LYS-1225; HIS-1228; GLN-1232; TRP-1232; PRO-1239; ASN-1243; ASP-1249;
+RP   GLY-1253; SER-1262; CYS-1271; ASN-1275; GLY-1288; PRO-1311; VAL-1319;
+RP   GLY-1323; LEU-1332; LEU-1344; ILE-1346; PRO-1346; ARG-1351; MET-1353;
+RP   TRP-1358; ASN-1359; CYS-1360; TYR-1363; ILE-1382; LEU-1405; MET-1405;
+RP   ARG-1406; GLU-1406; ARG-1408; CYS-1409; PHE-1412; GLU-1419; ARG-1420;
+RP   SER-1427; VAL-1428; GLY-1432; SER-1432; VAL-1433; LEU-1438; GLN-1441;
+RP   LEU-1448; THR-1448; CYS-1449; ASP-1451; TYR-1463; PHE-1468; VAL-1501;
+RP   LYS-1521; MET-1525; LYS-1548; CYS-1571; LYS-1574; PRO-1582; CYS-1583;
+RP   HIS-1583; MET-1604; LEU-1613; MET-1620; GLN-1623; GLN-1629; GLU-1642;
+RP   VAL-1660; ARG-1661; ILE-1667; TYR-1672; THR-1680; THR-1698; ARG-1709;
+RP   MET-1709; SER-1712; GLY-1714; ASP-1722; ARG-1728; TRP-1728; ARG-1740;
+RP   ARG-1743; GLU-1743; PHE-1764; MET-1779; LYS-1784; GLU-1832; ILE-1861;
+RP   ASN-1872; LEU-1903; THR-1924; SER-1935; LYS-1938 AND VAL-2004.
+RX   PubMed=20129283; DOI=10.1016/j.hrthm.2009.09.069;
+RA   Kapplinger J.D., Tester D.J., Alders M., Benito B., Berthet M.,
+RA   Brugada J., Brugada P., Fressart V., Guerchicoff A., Harris-Kerr C.,
+RA   Kamakura S., Kyndt F., Koopmann T.T., Miyamoto Y., Pfeiffer R.,
+RA   Pollevick G.D., Probst V., Zumhagen S., Vatta M., Towbin J.A.,
+RA   Shimizu W., Schulze-Bahr E., Antzelevitch C., Salisbury B.A.,
+RA   Guicheney P., Wilde A.A., Brugada R., Schott J.J., Ackerman M.J.;
+RT   "An international compendium of mutations in the SCN5A-encoded cardiac
+RT   sodium channel in patients referred for Brugada syndrome genetic
+RT   testing.";
+RL   Heart Rhythm 7:33-46(2010).
+RN   [98]
+RP   CHARACTERIZATION OF VARIANTS ARG-558 AND ALA-2006.
+RX   PubMed=21109022; DOI=10.1016/j.hrthm.2010.11.034;
+RA   Shinlapawittayatorn K., Du X.X., Liu H., Ficker E., Kaufman E.S.,
+RA   Deschenes I.;
+RT   "A common SCN5A polymorphism modulates the biophysical defects of
+RT   SCN5A mutations.";
+RL   Heart Rhythm 8:455-462(2011).
+RN   [99]
+RP   VARIANTS SSS1 VAL-735 AND ASN-1792.
+RX   PubMed=22795782; DOI=10.1016/j.arcped.2012.04.017;
+RA   Selly J.B., Boumahni B., Edmar A., Jamal Bey K., Randrianaivo H.,
+RA   Clerici G., Millat G., Caillet D.;
+RT   "Cardiac sinus node dysfunction due to a new mutation of the SCN5A
+RT   gene.";
+RL   Arch. Pediatr. 19:837-841(2012).
+CC   -!- FUNCTION: This protein mediates the voltage-dependent sodium ion
+CC       permeability of excitable membranes. Assuming opened or closed
+CC       conformations in response to the voltage difference across the
+CC       membrane, the protein forms a sodium-selective channel through
+CC       which Na(+) ions may pass in accordance with their electrochemical
+CC       gradient. It is a tetrodotoxin-resistant Na(+) channel isoform.
+CC       This channel is responsible for the initial upstroke of the action
+CC       potential. Channel inactivation is regulated by intracellular
+CC       calcium levels. {ECO:0000269|PubMed:19074138}.
+CC   -!- SUBUNIT: Interacts with the PDZ domain of the syntrophin SNTA1,
+CC       SNTB1 and SNTB2 (By similarity). Interacts with NEDD4, NEDD4L,
+CC       WWP2 and GPD1L. Interacts with CALM. Interacts with FGF13; the
+CC       interaction is direct and may regulate SNC5A density at membranes
+CC       and function. {ECO:0000250, ECO:0000269|PubMed:15217910,
+CC       ECO:0000269|PubMed:15548568, ECO:0000269|PubMed:19666841,
+CC       ECO:0000269|PubMed:21167176, ECO:0000269|PubMed:21817159,
+CC       ECO:0000269|PubMed:22705208}.
+CC   -!- INTERACTION:
+CC       P62158:CALM3; NbExp=2; IntAct=EBI-726858, EBI-397435;
+CC       Q13557:CAMK2D; NbExp=16; IntAct=EBI-726858, EBI-351018;
+CC       Q99873:PRMT1; NbExp=2; IntAct=EBI-726858, EBI-78738;
+CC       O60678:PRMT3; NbExp=2; IntAct=EBI-726858, EBI-2809009;
+CC       P26045:PTPN3; NbExp=2; IntAct=EBI-726858, EBI-1047946;
+CC   -!- SUBCELLULAR LOCATION: Membrane {ECO:0000269|PubMed:19074138};
+CC       Multi-pass membrane protein {ECO:0000269|PubMed:19074138}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=6;
+CC       Name=1; Synonyms=CAG-inclusive variant, Nav1.5c;
+CC         IsoId=Q14524-1; Sequence=Displayed;
+CC         Note=Most abundant isoform in heart.;
+CC       Name=2; Synonyms=Nav1.5b;
+CC         IsoId=Q14524-2; Sequence=VSP_037478;
+CC         Note=Very abundant isoform.;
+CC       Name=3;
+CC         IsoId=Q14524-3; Sequence=VSP_037477, VSP_037478, VSP_037481;
+CC       Name=4; Synonyms=Nav1.5e, neonatal;
+CC         IsoId=Q14524-4; Sequence=VSP_037477;
+CC         Note=Abundantly expressed in neonatal brain and heart, slower
+CC         kinetics of activation and inactivation.;
+CC       Name=5; Synonyms=Ex18del, Nav1.5a;
+CC         IsoId=Q14524-5; Sequence=VSP_037477, VSP_037479;
+CC         Note=Only detected in neuroblastoma in humans.;
+CC       Name=6; Synonyms=Ex24del, Nav1.5f;
+CC         IsoId=Q14524-6; Sequence=VSP_037477, VSP_037480;
+CC         Note=High expression in brain where it accounts for nearly 50%
+CC         of the total transcripts. Non-functional channel, may exist to
+CC         limit the number of undesired functional Nav1.5 channels.;
+CC   -!- TISSUE SPECIFICITY: Found in jejunal circular smooth muscle cells
+CC       (at protein level). Expressed in human atrial and ventricular
+CC       cardiac muscle but not in adult skeletal muscle, brain,
+CC       myometrium, liver, or spleen. Isoform 4 is expressed in brain.
+CC       {ECO:0000269|PubMed:12358675}.
+CC   -!- DOMAIN: The sequence contains 4 internal repeats, each with 5
+CC       hydrophobic segments (S1,S2,S3,S5,S6) and one positively charged
+CC       segment (S4). Segments S4 are probably the voltage-sensors and are
+CC       characterized by a series of positively charged amino acids at
+CC       every third position.
+CC   -!- DOMAIN: The IQ domain mediates association with calmodulin.
+CC   -!- PTM: Regulated through phosphorylation by CaMK2D. {ECO:0000250}.
+CC   -!- PTM: Ubiquitinated by NEDD4L; which promotes its endocytosis. Does
+CC       not seem to be ubiquitinated by NEDD4 or WWP2.
+CC       {ECO:0000269|PubMed:15217910, ECO:0000269|PubMed:15548568}.
+CC   -!- PTM: Phosphorylation at Ser-1503 by PKC in a highly conserved
+CC       cytoplasmic loop slows inactivation of the sodium channel and
+CC       reduces peak sodium currents. {ECO:0000250}.
+CC   -!- DISEASE: Progressive familial heart block 1A (PFHB1A)
+CC       [MIM:113900]: A cardiac bundle branch disorder characterized by
+CC       progressive alteration of cardiac conduction through the His-
+CC       Purkinje system, with a pattern of a right bundle-branch block
+CC       and/or left anterior hemiblock occurring individually or together.
+CC       It leads to complete atrio-ventricular block causing syncope and
+CC       sudden death. {ECO:0000269|PubMed:12569159,
+CC       ECO:0000269|PubMed:12574143, ECO:0000269|PubMed:19251209}.
+CC       Note=The disease is caused by mutations affecting the gene
+CC       represented in this entry.
+CC   -!- DISEASE: Long QT syndrome 3 (LQT3) [MIM:603830]: A heart disorder
+CC       characterized by a prolonged QT interval on the ECG and
+CC       polymorphic ventricular arrhythmias. They cause syncope and sudden
+CC       death in response to exercise or emotional stress, and can present
+CC       with a sentinel event of sudden cardiac death in infancy.
+CC       {ECO:0000269|PubMed:10377081, ECO:0000269|PubMed:10508990,
+CC       ECO:0000269|PubMed:10627139, ECO:0000269|PubMed:10911008,
+CC       ECO:0000269|PubMed:10973849, ECO:0000269|PubMed:11304498,
+CC       ECO:0000269|PubMed:11997281, ECO:0000269|PubMed:12209021,
+CC       ECO:0000269|PubMed:12673799, ECO:0000269|PubMed:15840476,
+CC       ECO:0000269|PubMed:16414944, ECO:0000269|PubMed:16922724,
+CC       ECO:0000269|PubMed:18060054, ECO:0000269|PubMed:18708744,
+CC       ECO:0000269|PubMed:18848812, ECO:0000269|PubMed:18929331,
+CC       ECO:0000269|PubMed:19716085, ECO:0000269|PubMed:7651517,
+CC       ECO:0000269|PubMed:7889574, ECO:0000269|PubMed:8541846,
+CC       ECO:0000269|PubMed:9506831, ECO:0000269|PubMed:9686753,
+CC       ECO:0000269|Ref.31}. Note=The disease is caused by mutations
+CC       affecting the gene represented in this entry.
+CC   -!- DISEASE: Brugada syndrome 1 (BRGDA1) [MIM:601144]: A
+CC       tachyarrhythmia characterized by right bundle branch block and ST
+CC       segment elevation on an electrocardiogram (ECG). It can cause the
+CC       ventricles to beat so fast that the blood is prevented from
+CC       circulating efficiently in the body. When this situation occurs,
+CC       the individual will faint and may die in a few minutes if the
+CC       heart is not reset. {ECO:0000269|PubMed:11748104,
+CC       ECO:0000269|PubMed:11901046, ECO:0000269|PubMed:12051963,
+CC       ECO:0000269|PubMed:12106943, ECO:0000269|PubMed:15023552,
+CC       ECO:0000269|PubMed:15338453, ECO:0000269|PubMed:15579534,
+CC       ECO:0000269|PubMed:15851320, ECO:0000269|PubMed:16266370,
+CC       ECO:0000269|PubMed:16325048, ECO:0000269|PubMed:16616735,
+CC       ECO:0000269|PubMed:17075016, ECO:0000269|PubMed:17081365,
+CC       ECO:0000269|PubMed:17198989, ECO:0000269|PubMed:18252757,
+CC       ECO:0000269|PubMed:18341814, ECO:0000269|PubMed:18451998,
+CC       ECO:0000269|PubMed:18456723, ECO:0000269|PubMed:18616619,
+CC       ECO:0000269|PubMed:19251209, ECO:0000269|PubMed:19272188,
+CC       ECO:0000269|PubMed:20129283, ECO:0000269|PubMed:9521325}. Note=The
+CC       disease is caused by mutations affecting the gene represented in
+CC       this entry.
+CC   -!- DISEASE: Sick sinus syndrome 1 (SSS1) [MIM:608567]: The term 'sick
+CC       sinus syndrome' encompasses a variety of conditions caused by
+CC       sinus node dysfunction. The most common clinical manifestations
+CC       are syncope, presyncope, dizziness, and fatigue. Electrocardiogram
+CC       typically shows sinus bradycardia, sinus arrest, and/or sinoatrial
+CC       block. Episodes of atrial tachycardias coexisting with sinus
+CC       bradycardia ('tachycardia-bradycardia syndrome') are also common
+CC       in this disorder. SSS occurs most often in the elderly associated
+CC       with underlying heart disease or previous cardiac surgery, but can
+CC       also occur in the fetus, infant, or child without heart disease or
+CC       other contributing factors. SSS1 onset is in utero, infancy, or
+CC       early childhood. {ECO:0000269|PubMed:14523039,
+CC       ECO:0000269|PubMed:22795782}. Note=The disease is caused by
+CC       mutations affecting the gene represented in this entry.
+CC   -!- DISEASE: Familial paroxysmal ventricular fibrillation 1 (VF1)
+CC       [MIM:603829]: A cardiac arrhythmia marked by fibrillary
+CC       contractions of the ventricular muscle due to rapid repetitive
+CC       excitation of myocardial fibers without coordinated contraction of
+CC       the ventricle and by absence of atrial activity.
+CC       {ECO:0000269|PubMed:10940383}. Note=The disease is caused by
+CC       mutations affecting the gene represented in this entry.
+CC   -!- DISEASE: Sudden infant death syndrome (SIDS) [MIM:272120]: SIDS is
+CC       the sudden death of an infant younger than 1 year that remains
+CC       unexplained after a thorough case investigation, including
+CC       performance of a complete autopsy, examination of the death scene,
+CC       and review of clinical history. Pathophysiologic mechanisms for
+CC       SIDS may include respiratory dysfunction, cardiac dysrhythmias,
+CC       cardiorespiratory instability, and inborn errors of metabolism,
+CC       but definitive pathogenic mechanisms precipitating an infant
+CC       sudden death remain elusive. {ECO:0000269|PubMed:18596570,
+CC       ECO:0000269|PubMed:19302788}. Note=Disease susceptibility is
+CC       associated with variations affecting the gene represented in this
+CC       entry.
+CC   -!- DISEASE: Atrial standstill 1 (ATRST1) [MIM:108770]: A rare
+CC       arrhythmia characterized by the absence of electrical and
+CC       mechanical activity in the atria. Electrocardiographically, it is
+CC       characterized by bradycardia, the absence of P waves, and a
+CC       junctional narrow complex escape rhythm.
+CC       {ECO:0000269|PubMed:12522116}. Note=The disease may be caused by
+CC       mutations affecting distinct genetic loci, including the gene
+CC       represented in this entry. A mutation in SCN5A has been detected
+CC       in combination with a rare GJA5 genotype in a large family with
+CC       atrial standstill.
+CC   -!- DISEASE: Cardiomyopathy, dilated 1E (CMD1E) [MIM:601154]: A
+CC       disorder characterized by ventricular dilation and impaired
+CC       systolic function, resulting in congestive heart failure and
+CC       arrhythmia. Patients are at risk of premature death.
+CC       {ECO:0000269|PubMed:15466643}. Note=The disease is caused by
+CC       mutations affecting the gene represented in this entry.
+CC   -!- DISEASE: Atrial fibrillation, familial, 10 (ATFB10) [MIM:614022]:
+CC       A familial form of atrial fibrillation, a common sustained cardiac
+CC       rhythm disturbance. Atrial fibrillation is characterized by
+CC       disorganized atrial electrical activity and ineffective atrial
+CC       contraction promoting blood stasis in the atria and reduces
+CC       ventricular filling. It can result in palpitations, syncope,
+CC       thromboembolic stroke, and congestive heart failure.
+CC       {ECO:0000269|PubMed:18088563, ECO:0000269|PubMed:18378609}.
+CC       Note=The disease is caused by mutations affecting the gene
+CC       represented in this entry.
+CC   -!- MISCELLANEOUS: Na(+) channels in mammalian cardiac membrane have
+CC       functional properties quite distinct from Na(+) channels in nerve
+CC       and skeletal muscle.
+CC   -!- SIMILARITY: Belongs to the sodium channel (TC 1.A.1.10) family.
+CC       Nav1.5/SCN5A subfamily. {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 1 IQ domain. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; M77235; AAA58644.1; -; mRNA.
+DR   EMBL; AY038064; AAK74065.1; -; mRNA.
+DR   EMBL; AY148488; AAN61120.1; -; mRNA.
+DR   EMBL; AF482988; AAO91669.1; -; mRNA.
+DR   EMBL; AB158469; BAD12084.1; -; mRNA.
+DR   EMBL; AB158470; BAD12085.1; -; mRNA.
+DR   EMBL; EF629346; ABR15763.1; -; mRNA.
+DR   EMBL; EF629347; ABR15764.1; -; mRNA.
+DR   EMBL; DQ784809; ABQ01244.1; -; Genomic_DNA.
+DR   EMBL; EF179185; ABN05288.1; -; Genomic_DNA.
+DR   EMBL; AP006241; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; BC140813; AAI40814.1; -; mRNA.
+DR   EMBL; BC144621; AAI44622.1; -; mRNA.
+DR   EMBL; AB208866; BAD92103.1; -; mRNA.
+DR   CCDS; CCDS46796.1; -. [Q14524-1]
+DR   CCDS; CCDS46797.1; -. [Q14524-2]
+DR   CCDS; CCDS46798.1; -. [Q14524-6]
+DR   CCDS; CCDS46799.1; -. [Q14524-4]
+DR   CCDS; CCDS54569.1; -. [Q14524-5]
+DR   CCDS; CCDS54570.1; -. [Q14524-3]
+DR   PIR; A38195; A38195.
+DR   RefSeq; NP_000326.2; NM_000335.4. [Q14524-2]
+DR   RefSeq; NP_001092874.1; NM_001099404.1.
+DR   RefSeq; NP_001092875.1; NM_001099405.1.
+DR   RefSeq; NP_001153632.1; NM_001160160.1.
+DR   RefSeq; NP_001153633.1; NM_001160161.1.
+DR   RefSeq; NP_932173.1; NM_198056.2. [Q14524-1]
+DR   RefSeq; XP_006713345.1; XM_006713282.2. [Q14524-1]
+DR   UniGene; Hs.517898; -.
+DR   PDB; 2KBI; NMR; -; A=1773-1865.
+DR   PDB; 2L53; NMR; -; B=1901-1927.
+DR   PDB; 4DCK; X-ray; 2.20 A; A=1773-1940.
+DR   PDB; 4DJC; X-ray; 1.35 A; B=1491-1522.
+DR   PDB; 4JQ0; X-ray; 3.84 A; D=1773-1940.
+DR   PDB; 4OVN; X-ray; 2.80 A; F/G/H/I/J=1773-1929.
+DR   PDBsum; 2KBI; -.
+DR   PDBsum; 2L53; -.
+DR   PDBsum; 4DCK; -.
+DR   PDBsum; 4DJC; -.
+DR   PDBsum; 4JQ0; -.
+DR   PDBsum; 4OVN; -.
+DR   ProteinModelPortal; Q14524; -.
+DR   SMR; Q14524; 1776-1928.
+DR   BioGrid; 112236; 10.
+DR   DIP; DIP-38416N; -.
+DR   DIP; DIP-46144N; -.
+DR   IntAct; Q14524; 9.
+DR   MINT; MINT-249922; -.
+DR   STRING; 9606.ENSP00000328968; -.
+DR   BindingDB; Q14524; -.
+DR   ChEMBL; CHEMBL2331043; -.
+DR   DrugBank; DB01426; Ajmaline.
+DR   DrugBank; DB01429; Aprindine.
+DR   DrugBank; DB00868; Benzonatate.
+DR   DrugBank; DB00564; Carbamazepine.
+DR   DrugBank; DB00527; Cinchocaine.
+DR   DrugBank; DB00907; Cocaine.
+DR   DrugBank; DB00280; Disopyramide.
+DR   DrugBank; DB01228; Encainide.
+DR   DrugBank; DB00754; Ethotoin.
+DR   DrugBank; DB01195; Flecainide.
+DR   DrugBank; DB01320; Fosphenytoin.
+DR   DrugBank; DB00473; Hexylcaine.
+DR   DrugBank; DB00192; Indecainide.
+DR   DrugBank; DB00281; Lidocaine.
+DR   DrugBank; DB00379; Mexiletine.
+DR   DrugBank; DB00680; Moricizine.
+DR   DrugBank; DB00776; Oxcarbazepine.
+DR   DrugBank; DB00252; Phenytoin.
+DR   DrugBank; DB00750; Prilocaine.
+DR   DrugBank; DB01035; Procainamide.
+DR   DrugBank; DB01182; Propafenone.
+DR   DrugBank; DB00908; Quinidine.
+DR   DrugBank; DB01346; Quinidine barbiturate.
+DR   DrugBank; DB00243; Ranolazine.
+DR   DrugBank; DB00740; Riluzole.
+DR   DrugBank; DB01056; Tocainide.
+DR   DrugBank; DB00313; Valproic Acid.
+DR   DrugBank; DB00661; Verapamil.
+DR   DrugBank; DB00909; Zonisamide.
+DR   GuidetoPHARMACOLOGY; 582; -.
+DR   TCDB; 1.A.1.10.3; the voltage-gated ion channel (vic) superfamily.
+DR   iPTMnet; Q14524; -.
+DR   PhosphoSite; Q14524; -.
+DR   BioMuta; SCN5A; -.
+DR   DMDM; 215273881; -.
+DR   PaxDb; Q14524; -.
+DR   PRIDE; Q14524; -.
+DR   Ensembl; ENST00000333535; ENSP00000328968; ENSG00000183873. [Q14524-1]
+DR   Ensembl; ENST00000423572; ENSP00000398266; ENSG00000183873. [Q14524-2]
+DR   GeneID; 6331; -.
+DR   KEGG; hsa:6331; -.
+DR   UCSC; uc021wvn.1; human. [Q14524-2]
+DR   UCSC; uc021wvo.1; human. [Q14524-1]
+DR   CTD; 6331; -.
+DR   GeneCards; SCN5A; -.
+DR   GeneReviews; SCN5A; -.
+DR   HGNC; HGNC:10593; SCN5A.
+DR   MalaCards; SCN5A; -.
+DR   MIM; 108770; phenotype.
+DR   MIM; 113900; phenotype.
+DR   MIM; 272120; phenotype.
+DR   MIM; 600163; gene.
+DR   MIM; 601144; phenotype.
+DR   MIM; 601154; phenotype.
+DR   MIM; 603829; phenotype.
+DR   MIM; 603830; phenotype.
+DR   MIM; 608567; phenotype.
+DR   MIM; 614022; phenotype.
+DR   neXtProt; NX_Q14524; -.
+DR   Orphanet; 1344; Atrial stand still.
+DR   Orphanet; 130; Brugada syndrome.
+DR   Orphanet; 334; Familial atrial fibrillation.
+DR   Orphanet; 154; Familial isolated dilated cardiomyopathy.
+DR   Orphanet; 871; Familial progressive cardiac conduction defect.
+DR   Orphanet; 166282; Familial sick sinus syndrome.
+DR   Orphanet; 228140; Idiopathic ventricular fibrillation, not Brugada type.
+DR   Orphanet; 101016; Romano-Ward syndrome.
+DR   PharmGKB; PA304; -.
+DR   eggNOG; KOG2301; Eukaryota.
+DR   eggNOG; ENOG410XNP6; LUCA.
+DR   GeneTree; ENSGT00830000128242; -.
+DR   HOVERGEN; HBG053100; -.
+DR   InParanoid; Q14524; -.
+DR   KO; K04838; -.
+DR   OrthoDB; EOG7DJSK9; -.
+DR   PhylomeDB; Q14524; -.
+DR   Reactome; R-HSA-445095; Interaction between L1 and Ankyrins.
+DR   Reactome; R-HSA-5576892; Phase 0 - rapid depolarisation.
+DR   EvolutionaryTrace; Q14524; -.
+DR   GeneWiki; Nav1.5; -.
+DR   GenomeRNAi; 6331; -.
+DR   NextBio; 24578; -.
+DR   PRO; PR:Q14524; -.
+DR   Proteomes; UP000005640; Chromosome 3.
+DR   Bgee; Q14524; -.
+DR   CleanEx; HS_SCN5A; -.
+DR   ExpressionAtlas; Q14524; baseline and differential.
+DR   Genevisible; Q14524; HS.
+DR   GO; GO:0005901; C:caveola; IDA:BHF-UCL.
+DR   GO; GO:0009986; C:cell surface; IDA:UniProtKB.
+DR   GO; GO:0005783; C:endoplasmic reticulum; IDA:BHF-UCL.
+DR   GO; GO:0016021; C:integral component of membrane; IDA:UniProtKB.
+DR   GO; GO:0014704; C:intercalated disc; IDA:BHF-UCL.
+DR   GO; GO:0005622; C:intracellular; IDA:UniProtKB.
+DR   GO; GO:0016328; C:lateral plasma membrane; TAS:BHF-UCL.
+DR   GO; GO:0005886; C:plasma membrane; IDA:BHF-UCL.
+DR   GO; GO:0042383; C:sarcolemma; IDA:BHF-UCL.
+DR   GO; GO:0030315; C:T-tubule; IDA:BHF-UCL.
+DR   GO; GO:0001518; C:voltage-gated sodium channel complex; IDA:BHF-UCL.
+DR   GO; GO:0030018; C:Z disc; IDA:UniProtKB.
+DR   GO; GO:0030506; F:ankyrin binding; IDA:BHF-UCL.
+DR   GO; GO:0005516; F:calmodulin binding; IPI:BHF-UCL.
+DR   GO; GO:0019899; F:enzyme binding; IPI:BHF-UCL.
+DR   GO; GO:0017134; F:fibroblast growth factor binding; IPI:BHF-UCL.
+DR   GO; GO:0044325; F:ion channel binding; IPI:BHF-UCL.
+DR   GO; GO:0050998; F:nitric-oxide synthase binding; IPI:BHF-UCL.
+DR   GO; GO:0019904; F:protein domain specific binding; IPI:UniProtKB.
+DR   GO; GO:0019901; F:protein kinase binding; IPI:BHF-UCL.
+DR   GO; GO:0097110; F:scaffold protein binding; IPI:BHF-UCL.
+DR   GO; GO:0031625; F:ubiquitin protein ligase binding; IPI:BHF-UCL.
+DR   GO; GO:0005248; F:voltage-gated sodium channel activity; IDA:UniProtKB.
+DR   GO; GO:0086060; F:voltage-gated sodium channel activity involved in AV node cell action potential; IMP:BHF-UCL.
+DR   GO; GO:0086061; F:voltage-gated sodium channel activity involved in bundle of His cell action potential; IMP:BHF-UCL.
+DR   GO; GO:0086006; F:voltage-gated sodium channel activity involved in cardiac muscle cell action potential; IDA:BHF-UCL.
+DR   GO; GO:0086062; F:voltage-gated sodium channel activity involved in Purkinje myocyte action potential; IMP:BHF-UCL.
+DR   GO; GO:0086063; F:voltage-gated sodium channel activity involved in SA node cell action potential; IMP:BHF-UCL.
+DR   GO; GO:0086016; P:AV node cell action potential; IMP:BHF-UCL.
+DR   GO; GO:0086067; P:AV node cell to bundle of His cell communication; IMP:BHF-UCL.
+DR   GO; GO:0007411; P:axon guidance; TAS:Reactome.
+DR   GO; GO:0003360; P:brainstem development; ISS:BHF-UCL.
+DR   GO; GO:0086043; P:bundle of His cell action potential; IMP:BHF-UCL.
+DR   GO; GO:0086002; P:cardiac muscle cell action potential involved in contraction; IMP:BHF-UCL.
+DR   GO; GO:0060048; P:cardiac muscle contraction; IMP:BHF-UCL.
+DR   GO; GO:0003231; P:cardiac ventricle development; ISS:BHF-UCL.
+DR   GO; GO:0071277; P:cellular response to calcium ion; IDA:UniProtKB.
+DR   GO; GO:0021549; P:cerebellum development; ISS:BHF-UCL.
+DR   GO; GO:0051899; P:membrane depolarization; IDA:BHF-UCL.
+DR   GO; GO:0086010; P:membrane depolarization during action potential; IDA:BHF-UCL.
+DR   GO; GO:0086045; P:membrane depolarization during AV node cell action potential; IMP:BHF-UCL.
+DR   GO; GO:0086048; P:membrane depolarization during bundle of His cell action potential; IMP:BHF-UCL.
+DR   GO; GO:0086012; P:membrane depolarization during cardiac muscle cell action potential; IMP:BHF-UCL.
+DR   GO; GO:0086047; P:membrane depolarization during Purkinje myocyte cell action potential; IMP:BHF-UCL.
+DR   GO; GO:0086046; P:membrane depolarization during SA node cell action potential; IMP:BHF-UCL.
+DR   GO; GO:0019228; P:neuronal action potential; IBA:GO_Central.
+DR   GO; GO:0042475; P:odontogenesis of dentin-containing tooth; ISS:BHF-UCL.
+DR   GO; GO:0045760; P:positive regulation of action potential; ISS:BHF-UCL.
+DR   GO; GO:0050679; P:positive regulation of epithelial cell proliferation; ISS:BHF-UCL.
+DR   GO; GO:0010765; P:positive regulation of sodium ion transport; IDA:BHF-UCL.
+DR   GO; GO:0060371; P:regulation of atrial cardiac muscle cell membrane depolarization; IMP:BHF-UCL.
+DR   GO; GO:0060372; P:regulation of atrial cardiac muscle cell membrane repolarization; IMP:BHF-UCL.
+DR   GO; GO:0086004; P:regulation of cardiac muscle cell contraction; IMP:BHF-UCL.
+DR   GO; GO:0002027; P:regulation of heart rate; IMP:BHF-UCL.
+DR   GO; GO:0086091; P:regulation of heart rate by cardiac conduction; IMP:BHF-UCL.
+DR   GO; GO:1902305; P:regulation of sodium ion transmembrane transport; IDA:BHF-UCL.
+DR   GO; GO:0060373; P:regulation of ventricular cardiac muscle cell membrane depolarization; IMP:BHF-UCL.
+DR   GO; GO:0060307; P:regulation of ventricular cardiac muscle cell membrane repolarization; IMP:BHF-UCL.
+DR   GO; GO:0014894; P:response to denervation involved in regulation of muscle adaptation; ISS:BHF-UCL.
+DR   GO; GO:0086015; P:SA node cell action potential; IMP:BHF-UCL.
+DR   GO; GO:0035725; P:sodium ion transmembrane transport; IDA:UniProtKB.
+DR   GO; GO:0006814; P:sodium ion transport; IDA:UniProtKB.
+DR   GO; GO:0021537; P:telencephalon development; ISS:BHF-UCL.
+DR   GO; GO:0086005; P:ventricular cardiac muscle cell action potential; IMP:BHF-UCL.
+DR   Gene3D; 1.20.120.350; -; 4.
+DR   InterPro; IPR027359; Channel_four-helix_dom.
+DR   InterPro; IPR005821; Ion_trans_dom.
+DR   InterPro; IPR000048; IQ_motif_EF-hand-BS.
+DR   InterPro; IPR008053; Na_channel_a5su.
+DR   InterPro; IPR001696; Na_channel_asu.
+DR   InterPro; IPR010526; Na_trans_assoc.
+DR   InterPro; IPR024583; Na_trans_cytopl.
+DR   Pfam; PF00520; Ion_trans; 4.
+DR   Pfam; PF06512; Na_trans_assoc; 1.
+DR   Pfam; PF11933; Na_trans_cytopl; 1.
+DR   PRINTS; PR00170; NACHANNEL.
+DR   PRINTS; PR01666; NACHANNEL5.
+DR   SMART; SM00015; IQ; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Alternative splicing; Atrial fibrillation;
+KW   Brugada syndrome; Calmodulin-binding; Cardiomyopathy;
+KW   Complete proteome; Disease mutation; Glycoprotein; Ion channel;
+KW   Ion transport; Long QT syndrome; Membrane; Methylation;
+KW   Phosphoprotein; Polymorphism; Reference proteome; Repeat; Sodium;
+KW   Sodium channel; Sodium transport; Transmembrane; Transmembrane helix;
+KW   Transport; Ubl conjugation; Voltage-gated channel.
+FT   CHAIN         1   2016       Sodium channel protein type 5 subunit
+FT                                alpha.
+FT                                /FTId=PRO_0000048497.
+FT   TOPO_DOM      1    126       Cytoplasmic. {ECO:0000255}.
+FT   TRANSMEM    127    150       Helical; Name=S1 of repeat I.
+FT                                {ECO:0000255}.
+FT   TOPO_DOM    151    158       Extracellular. {ECO:0000255}.
+FT   TRANSMEM    159    178       Helical; Name=S2 of repeat I.
+FT                                {ECO:0000255}.
+FT   TOPO_DOM    179    191       Cytoplasmic. {ECO:0000255}.
+FT   TRANSMEM    192    210       Helical; Name=S3 of repeat I.
+FT                                {ECO:0000255}.
+FT   TOPO_DOM    211    216       Extracellular. {ECO:0000255}.
+FT   TRANSMEM    217    236       Helical; Voltage-sensor; Name=S4 of
+FT                                repeat I. {ECO:0000255}.
+FT   TOPO_DOM    237    252       Cytoplasmic. {ECO:0000255}.
+FT   TRANSMEM    253    276       Helical; Name=S5 of repeat I.
+FT                                {ECO:0000255}.
+FT   TOPO_DOM    277    389       Extracellular. {ECO:0000255}.
+FT   TRANSMEM    390    415       Helical; Name=S6 of repeat I.
+FT                                {ECO:0000255}.
+FT   TOPO_DOM    416    711       Cytoplasmic. {ECO:0000255}.
+FT   TRANSMEM    712    736       Helical; Name=S1 of repeat II.
+FT                                {ECO:0000255}.
+FT   TOPO_DOM    737    747       Extracellular. {ECO:0000255}.
+FT   TRANSMEM    748    771       Helical; Name=S2 of repeat II.
+FT                                {ECO:0000255}.
+FT   TOPO_DOM    772    779       Cytoplasmic. {ECO:0000255}.
+FT   TRANSMEM    780    799       Helical; Name=S3 of repeat II.
+FT                                {ECO:0000255}.
+FT   TOPO_DOM    800    805       Extracellular. {ECO:0000255}.
+FT   TRANSMEM    806    825       Helical; Voltage-sensor; Name=S4 of
+FT                                repeat II. {ECO:0000255}.
+FT   TOPO_DOM    826    841       Cytoplasmic. {ECO:0000255}.
+FT   TRANSMEM    842    862       Helical; Name=S5 of repeat II.
+FT                                {ECO:0000255}.
+FT   TOPO_DOM    863    913       Extracellular. {ECO:0000255}.
+FT   TRANSMEM    914    939       Helical; Name=S6 of repeat II.
+FT                                {ECO:0000255}.
+FT   TOPO_DOM    940   1200       Cytoplasmic. {ECO:0000255}.
+FT   TRANSMEM   1201   1224       Helical; Name=S1 of repeat III.
+FT                                {ECO:0000255}.
+FT   TOPO_DOM   1225   1237       Extracellular. {ECO:0000255}.
+FT   TRANSMEM   1238   1263       Helical; Name=S2 of repeat III.
+FT                                {ECO:0000255}.
+FT   TOPO_DOM   1264   1269       Cytoplasmic. {ECO:0000255}.
+FT   TRANSMEM   1270   1291       Helical; Name=S3 of repeat III.
+FT                                {ECO:0000255}.
+FT   TOPO_DOM   1292   1295       Extracellular. {ECO:0000255}.
+FT   TRANSMEM   1296   1317       Helical; Voltage-sensor; Name=S4 of
+FT                                repeat III. {ECO:0000255}.
+FT   TOPO_DOM   1318   1336       Cytoplasmic. {ECO:0000255}.
+FT   TRANSMEM   1337   1359       Helical; Name=S5 of repeat III.
+FT                                {ECO:0000255}.
+FT   TOPO_DOM   1360   1443       Extracellular. {ECO:0000255}.
+FT   TRANSMEM   1444   1470       Helical; Name=S6 of repeat III.
+FT                                {ECO:0000255}.
+FT   TOPO_DOM   1471   1523       Cytoplasmic. {ECO:0000255}.
+FT   TRANSMEM   1524   1547       Helical; Name=S1 of repeat IV.
+FT                                {ECO:0000255}.
+FT   TOPO_DOM   1548   1558       Extracellular. {ECO:0000255}.
+FT   TRANSMEM   1559   1582       Helical; Name=S2 of repeat IV.
+FT                                {ECO:0000255}.
+FT   TOPO_DOM   1583   1588       Cytoplasmic. {ECO:0000255}.
+FT   TRANSMEM   1589   1612       Helical; Name=S3 of repeat IV.
+FT                                {ECO:0000255}.
+FT   TOPO_DOM   1613   1622       Extracellular. {ECO:0000255}.
+FT   TRANSMEM   1623   1644       Helical; Voltage-sensor; Name=S4 of
+FT                                repeat IV. {ECO:0000255}.
+FT   TOPO_DOM   1645   1659       Cytoplasmic. {ECO:0000255}.
+FT   TRANSMEM   1660   1682       Helical; Name=S5 of repeat IV.
+FT                                {ECO:0000255}.
+FT   TOPO_DOM   1683   1747       Extracellular. {ECO:0000255}.
+FT   TRANSMEM   1748   1772       Helical; Name=S6 of repeat IV.
+FT                                {ECO:0000255}.
+FT   TOPO_DOM   1773   2016       Cytoplasmic. {ECO:0000255}.
+FT   DOMAIN     1901   1930       IQ.
+FT   REGION     1839   1901       Interaction with FGF13.
+FT   REGION     1974   1977       Interaction with NEDD4, NEDD4L and WWP2.
+FT   MOD_RES      36     36       Phosphoserine.
+FT                                {ECO:0000269|PubMed:23092124}.
+FT   MOD_RES      38     38       Phosphothreonine.
+FT                                {ECO:0000269|PubMed:23092124}.
+FT   MOD_RES     457    457       Phosphoserine.
+FT                                {ECO:0000269|PubMed:23092124}.
+FT   MOD_RES     460    460       Phosphoserine.
+FT                                {ECO:0000269|PubMed:23092124}.
+FT   MOD_RES     483    483       Phosphoserine.
+FT                                {ECO:0000269|PubMed:23092124}.
+FT   MOD_RES     484    484       Phosphoserine.
+FT                                {ECO:0000269|PubMed:23092124}.
+FT   MOD_RES     486    486       Phosphothreonine.
+FT                                {ECO:0000250|UniProtKB:P15389}.
+FT   MOD_RES     497    497       Phosphoserine.
+FT                                {ECO:0000269|PubMed:23092124}.
+FT   MOD_RES     510    510       Phosphoserine.
+FT                                {ECO:0000269|PubMed:23092124}.
+FT   MOD_RES     513    513       Dimethylated arginine; alternate.
+FT                                {ECO:0000269|PubMed:21726068}.
+FT   MOD_RES     513    513       Omega-N-methylarginine; alternate.
+FT                                {ECO:0000269|PubMed:21726068}.
+FT   MOD_RES     526    526       Dimethylated arginine; alternate.
+FT                                {ECO:0000269|PubMed:21726068}.
+FT   MOD_RES     526    526       Omega-N-methylarginine; alternate.
+FT                                {ECO:0000269|PubMed:21726068}.
+FT   MOD_RES     539    539       Phosphoserine.
+FT                                {ECO:0000250|UniProtKB:Q9JJV9}.
+FT   MOD_RES     571    571       Phosphoserine.
+FT                                {ECO:0000269|PubMed:23092124}.
+FT   MOD_RES     664    664       Phosphoserine.
+FT                                {ECO:0000269|PubMed:23092124}.
+FT   MOD_RES     667    667       Phosphoserine.
+FT                                {ECO:0000269|PubMed:23092124}.
+FT   MOD_RES     680    680       Dimethylated arginine; alternate.
+FT                                {ECO:0000269|PubMed:21726068}.
+FT   MOD_RES     680    680       Omega-N-methylarginine; alternate.
+FT                                {ECO:0000269|PubMed:21726068}.
+FT   MOD_RES    1503   1503       Phosphoserine; by PKC. {ECO:0000250}.
+FT   CARBOHYD    214    214       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    283    283       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    288    288       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    291    291       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    318    318       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    328    328       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    740    740       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    803    803       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    864    864       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD   1365   1365       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD   1374   1374       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD   1380   1380       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD   1388   1388       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD   1736   1736       N-linked (GlcNAc...). {ECO:0000255}.
+FT   VAR_SEQ     206    211       TTEFVD -> VSENIK (in isoform 3, isoform
+FT                                4, isoform 5 and isoform 6).
+FT                                {ECO:0000303|PubMed:15489334,
+FT                                ECO:0000303|PubMed:16115203,
+FT                                ECO:0000303|Ref.6}.
+FT                                /FTId=VSP_037477.
+FT   VAR_SEQ    1076   1076       Missing (in isoform 2 and isoform 3).
+FT                                {ECO:0000303|PubMed:12358675,
+FT                                ECO:0000303|PubMed:12454206,
+FT                                ECO:0000303|PubMed:14500339,
+FT                                ECO:0000303|PubMed:15489334}.
+FT                                /FTId=VSP_037478.
+FT   VAR_SEQ    1077   1130       Missing (in isoform 5).
+FT                                {ECO:0000303|PubMed:16115203}.
+FT                                /FTId=VSP_037479.
+FT   VAR_SEQ    1416   1433       Missing (in isoform 6).
+FT                                {ECO:0000303|Ref.6}.
+FT                                /FTId=VSP_037480.
+FT   VAR_SEQ    1573   1604       Missing (in isoform 3).
+FT                                {ECO:0000303|PubMed:15489334}.
+FT                                /FTId=VSP_037481.
+FT   VARIANT       9      9       G -> V (in LQT3).
+FT                                {ECO:0000269|PubMed:16922724}.
+FT                                /FTId=VAR_036660.
+FT   VARIANT      18     18       R -> Q (in BRGDA1 and LQT3; unknown
+FT                                pathological significance).
+FT                                {ECO:0000269|PubMed:19716085,
+FT                                ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074312.
+FT   VARIANT      18     18       R -> W (rare variant; found in a patient
+FT                                with long QT syndrome; unknown
+FT                                pathological significance).
+FT                                {ECO:0000269|PubMed:15840476,
+FT                                ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_068325.
+FT   VARIANT      27     27       R -> H (in BRGDA1 and LQT3).
+FT                                {ECO:0000269|PubMed:11901046,
+FT                                ECO:0000269|PubMed:19716085}.
+FT                                /FTId=VAR_026341.
+FT   VARIANT      30     30       E -> G (in LQT3; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:19716085}.
+FT                                /FTId=VAR_074695.
+FT   VARIANT      34     34       R -> C (in dbSNP:rs6791924).
+FT                                {ECO:0000269|PubMed:11997281,
+FT                                ECO:0000269|PubMed:18378609,
+FT                                ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_026342.
+FT   VARIANT      34     34       R -> H. {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074313.
+FT   VARIANT      43     43       R -> Q (in LQT3; does not affect baseline
+FT                                kinetics of sodium currents; causes an
+FT                                unusual hyperpolarizing shift of the
+FT                                activation kinetics after lidocaine
+FT                                treatment). {ECO:0000269|PubMed:18848812,
+FT                                ECO:0000269|PubMed:19716085}.
+FT                                /FTId=VAR_055159.
+FT   VARIANT      48     48       E -> K (in LQT3; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:19716085}.
+FT                                /FTId=VAR_074696.
+FT   VARIANT      52     52       P -> S (in LQT3; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:19716085}.
+FT                                /FTId=VAR_074697.
+FT   VARIANT      53     53       R -> Q (in LQT3; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:19716085}.
+FT                                /FTId=VAR_074698.
+FT   VARIANT      70     70       N -> K (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074314.
+FT   VARIANT      84     84       D -> N (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074315.
+FT   VARIANT      93     93       F -> S (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074316.
+FT   VARIANT      94     94       I -> S (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074317.
+FT   VARIANT      95     95       V -> I (in BRGDA1).
+FT                                {ECO:0000269|PubMed:17081365}.
+FT                                /FTId=VAR_055160.
+FT   VARIANT     104    104       R -> G (in LQT3; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:19716085}.
+FT                                /FTId=VAR_074699.
+FT   VARIANT     104    104       R -> Q (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074318.
+FT   VARIANT     104    104       R -> W (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074319.
+FT   VARIANT     109    109       N -> K (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074320.
+FT   VARIANT     115    115       S -> G (in LQT3; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:19716085}.
+FT                                /FTId=VAR_074700.
+FT   VARIANT     121    121       R -> Q (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074321.
+FT   VARIANT     121    121       R -> W (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074322.
+FT   VARIANT     125    125       V -> L (in LQT3).
+FT                                {ECO:0000269|PubMed:15840476,
+FT                                ECO:0000269|PubMed:19716085}.
+FT                                /FTId=VAR_068326.
+FT   VARIANT     126    126       K -> E (in BRGDA1).
+FT                                {ECO:0000269|PubMed:12051963,
+FT                                ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_026343.
+FT   VARIANT     136    136       L -> P (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074323.
+FT   VARIANT     138    138       M -> I (in ATFB10).
+FT                                {ECO:0000269|PubMed:18378609}.
+FT                                /FTId=VAR_055161.
+FT   VARIANT     146    146       V -> M (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074324.
+FT   VARIANT     161    161       E -> K (in BRGDA1 and PFHB1A).
+FT                                {ECO:0000269|PubMed:12106943,
+FT                                ECO:0000269|PubMed:19251209,
+FT                                ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_026344.
+FT   VARIANT     161    161       E -> Q (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074325.
+FT   VARIANT     175    175       K -> N (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074326.
+FT   VARIANT     178    178       A -> G (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074327.
+FT   VARIANT     182    182       C -> R (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074328.
+FT   VARIANT     185    185       A -> V (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074329.
+FT   VARIANT     187    187       T -> I (in BRGDA1; loss of function).
+FT                                {ECO:0000269|PubMed:16325048}.
+FT                                /FTId=VAR_026345.
+FT   VARIANT     204    204       A -> V (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074330.
+FT   VARIANT     212    212       L -> P (in LQT3).
+FT                                {ECO:0000269|PubMed:19716085}.
+FT                                /FTId=VAR_055162.
+FT   VARIANT     212    212       L -> Q (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074331.
+FT   VARIANT     216    216       S -> L (rare variant found in patients
+FT                                with atrial fibrillation; unknown
+FT                                pathological significance;
+FT                                dbSNP:rs41276525).
+FT                                {ECO:0000269|PubMed:18378609,
+FT                                ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_055163.
+FT   VARIANT     220    220       T -> I (in SSS1 and BRGDA1;
+FT                                dbSNP:rs45620037).
+FT                                {ECO:0000269|PubMed:14523039,
+FT                                ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_017670.
+FT   VARIANT     222    222       R -> Q (in BRGDA1 and LQT3).
+FT                                {ECO:0000269|PubMed:19716085,
+FT                                ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074332.
+FT   VARIANT     223    223       V -> L (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074333.
+FT   VARIANT     225    225       R -> Q (in LQT3).
+FT                                {ECO:0000269|PubMed:16922724}.
+FT                                /FTId=VAR_036661.
+FT   VARIANT     225    225       R -> W (in PFHB1A, BRGDA1 and LQT3).
+FT                                {ECO:0000269|PubMed:12574143,
+FT                                ECO:0000269|PubMed:19716085,
+FT                                ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_055164.
+FT   VARIANT     226    226       A -> V (in BRGDA1).
+FT                                {ECO:0000269|PubMed:11901046,
+FT                                ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_026346.
+FT   VARIANT     230    230       I -> V (in BRGDA1).
+FT                                {ECO:0000269|PubMed:11901046}.
+FT                                /FTId=VAR_026347.
+FT   VARIANT     232    232       V -> I (in BRGDA1; unknown pathological
+FT                                significance; dbSNP:rs45471994).
+FT                                {ECO:0000269|PubMed:18599870,
+FT                                ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_055165.
+FT   VARIANT     240    240       V -> M (in BRGDA1 and LQT3).
+FT                                {ECO:0000269|PubMed:19716085,
+FT                                ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074334.
+FT   VARIANT     245    245       Q -> K (in LQT3).
+FT                                {ECO:0000269|PubMed:15840476}.
+FT                                /FTId=VAR_068327.
+FT   VARIANT     247    247       V -> L (in LQT3; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:19716085}.
+FT                                /FTId=VAR_074701.
+FT   VARIANT     270    270       Q -> K (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074335.
+FT   VARIANT     275    275       N -> K (in LQT3; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:19716085}.
+FT                                /FTId=VAR_074702.
+FT   VARIANT     276    276       L -> Q (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074336.
+FT   VARIANT     278    278       H -> D (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074337.
+FT   VARIANT     282    282       R -> C (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074338.
+FT   VARIANT     282    282       R -> H (in BRGDA1).
+FT                                {ECO:0000269|PubMed:11901046}.
+FT                                /FTId=VAR_026348.
+FT   VARIANT     286    286       A -> S. {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074339.
+FT   VARIANT     289    289       G -> S (in LQT3; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:19716085}.
+FT                                /FTId=VAR_074703.
+FT   VARIANT     291    291       N -> S. {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074340.
+FT   VARIANT     294    294       V -> M (in BRGDA1).
+FT                                {ECO:0000269|PubMed:11901046}.
+FT                                /FTId=VAR_026349.
+FT   VARIANT     298    298       G -> S (in PFHB1A; also in irritable
+FT                                bowel syndrome; results in reduction of
+FT                                whole cell current density and a delay in
+FT                                channel activation kinetics without a
+FT                                change in single-channel conductance).
+FT                                {ECO:0000269|PubMed:11804990,
+FT                                ECO:0000269|PubMed:19056759}.
+FT                                /FTId=VAR_017671.
+FT   VARIANT     299    299       L -> M. {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074341.
+FT   VARIANT     300    300       V -> I (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074342.
+FT   VARIANT     315    315       L -> P (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074343.
+FT   VARIANT     319    319       G -> S (in BRGDA1).
+FT                                {ECO:0000269|PubMed:11901046}.
+FT                                /FTId=VAR_026350.
+FT   VARIANT     320    320       T -> N (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074344.
+FT   VARIANT     325    325       L -> R (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_055166.
+FT   VARIANT     336    336       P -> L (in BRGDA1; detected in a compound
+FT                                heterozygote also carrying V-1660; the
+FT                                presence of both mutations is necessary
+FT                                for the phenotypic expression of the
+FT                                disease; severe reduction of sodium
+FT                                currents). {ECO:0000269|PubMed:17075016,
+FT                                ECO:0000269|PubMed:20129283,
+FT                                ECO:0000269|Ref.6}.
+FT                                /FTId=VAR_055167.
+FT   VARIANT     340    340       R -> W (in LQT3; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:19716085}.
+FT                                /FTId=VAR_074704.
+FT   VARIANT     351    351       G -> D (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074345.
+FT   VARIANT     351    351       G -> V (in BRGDA1; 7-fold current
+FT                                reduction). {ECO:0000269|PubMed:12051963,
+FT                                ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_026351.
+FT   VARIANT     353    353       T -> I (in BRGDA1).
+FT                                {ECO:0000269|PubMed:17198989}.
+FT                                /FTId=VAR_055168.
+FT   VARIANT     356    356       D -> N (in BRGDA1; loss of function).
+FT                                {ECO:0000269|PubMed:16325048,
+FT                                ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_026352.
+FT   VARIANT     367    367       R -> C (in BRGDA1 and LQT3; express no
+FT                                current; dbSNP:rs28937318).
+FT                                {ECO:0000269|PubMed:12106943,
+FT                                ECO:0000269|PubMed:19251209,
+FT                                ECO:0000269|PubMed:19716085,
+FT                                ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_026353.
+FT   VARIANT     367    367       R -> H (in BRGDA1; express no current;
+FT                                dbSNP:rs28937318).
+FT                                {ECO:0000269|PubMed:11823453,
+FT                                ECO:0000269|PubMed:19251209,
+FT                                ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_017672.
+FT   VARIANT     367    367       R -> L (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074346.
+FT   VARIANT     369    369       M -> K (in BRGDA1).
+FT                                {ECO:0000269|PubMed:12106943,
+FT                                ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_026354.
+FT   VARIANT     370    370       T -> M (in LQT3; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:19716085}.
+FT                                /FTId=VAR_074705.
+FT   VARIANT     374    374       W -> G (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074347.
+FT   VARIANT     376    376       R -> C. {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074348.
+FT   VARIANT     376    376       R -> H (in BRGDA1; unknown pathological
+FT                                significance; also found in patients with
+FT                                atrial fibrillation).
+FT                                {ECO:0000269|PubMed:18378609,
+FT                                ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_055169.
+FT   VARIANT     386    386       G -> E (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074349.
+FT   VARIANT     386    386       G -> R (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074350.
+FT   VARIANT     393    393       Missing (in BRGDA1).
+FT                                {ECO:0000269|PubMed:11901046}.
+FT                                /FTId=VAR_026355.
+FT   VARIANT     396    396       V -> A (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074351.
+FT   VARIANT     396    396       V -> L (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074352.
+FT   VARIANT     397    397       I -> T (in LQT3; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:19716085}.
+FT                                /FTId=VAR_074706.
+FT   VARIANT     404    404       L -> Q (in LQT3).
+FT                                {ECO:0000269|PubMed:15840476}.
+FT                                /FTId=VAR_068328.
+FT   VARIANT     406    406       N -> K (in LQT3).
+FT                                {ECO:0000269|PubMed:15840476,
+FT                                ECO:0000269|PubMed:19716085}.
+FT                                /FTId=VAR_055170.
+FT   VARIANT     406    406       N -> S (in BRGDA1).
+FT                                /FTId=VAR_055171.
+FT   VARIANT     409    409       L -> V (in LQT3; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:19716085}.
+FT                                /FTId=VAR_074707.
+FT   VARIANT     411    411       V -> M (in LQT3).
+FT                                {ECO:0000269|PubMed:15840476,
+FT                                ECO:0000269|PubMed:19716085}.
+FT                                /FTId=VAR_068329.
+FT   VARIANT     413    413       A -> E (in LQT3; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:16414944}.
+FT                                /FTId=VAR_074708.
+FT   VARIANT     413    413       A -> T (in LQT3; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:16414944}.
+FT                                /FTId=VAR_074709.
+FT   VARIANT     428    428       E -> K (in ATFB10).
+FT                                {ECO:0000269|PubMed:18378609}.
+FT                                /FTId=VAR_055172.
+FT   VARIANT     429    429       Missing (in LQT3; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:19716085}.
+FT                                /FTId=VAR_074710.
+FT   VARIANT     439    439       E -> K (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074353.
+FT   VARIANT     445    445       H -> D (in ATFB10).
+FT                                {ECO:0000269|PubMed:18378609}.
+FT                                /FTId=VAR_055173.
+FT   VARIANT     447    447       A -> G. {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074354.
+FT   VARIANT     449    449       T -> A. {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074355.
+FT   VARIANT     461    461       L -> V (in dbSNP:rs41313697).
+FT                                {ECO:0000269|PubMed:18378609,
+FT                                ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_055174.
+FT   VARIANT     462    462       E -> A (in LQT3; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:19716085}.
+FT                                /FTId=VAR_074711.
+FT   VARIANT     462    462       E -> K (in LQT3).
+FT                                {ECO:0000269|PubMed:15840476}.
+FT                                /FTId=VAR_068330.
+FT   VARIANT     470    470       N -> K (in ATFB10).
+FT                                {ECO:0000269|PubMed:18378609}.
+FT                                /FTId=VAR_055175.
+FT   VARIANT     475    475       R -> S. {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074356.
+FT   VARIANT     481    481       R -> W. {ECO:0000269|PubMed:18378609,
+FT                                ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_055176.
+FT   VARIANT     501    501       D -> G (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074357.
+FT   VARIANT     512    512       T -> I (in PFHB1A; voltage-dependent
+FT                                activation and inactivation of the Ile-
+FT                                512 channel is shifted negatively by 8 to
+FT                                9 mV and had enhanced slow activation and
+FT                                slower recovery from inactivation
+FT                                commpared to the wild-type channel; the
+FT                                double mutant Arg-558/Ile-512 channel
+FT                                shows that Arg-558 eliminates the
+FT                                negative shift induced by Ile-512 but
+FT                                only partially restores the kinetic
+FT                                abnormalities).
+FT                                {ECO:0000269|PubMed:12569159}.
+FT                                /FTId=VAR_036662.
+FT   VARIANT     514    514       G -> C (in BRGDA1 and PFHB1A).
+FT                                {ECO:0000269|PubMed:11234013,
+FT                                ECO:0000269|PubMed:19251209}.
+FT                                /FTId=VAR_017673.
+FT   VARIANT     524    524       S -> Y (in dbSNP:rs41313691).
+FT                                {ECO:0000269|PubMed:18378609,
+FT                                ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_036663.
+FT   VARIANT     526    526       R -> H (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074358.
+FT   VARIANT     530    530       F -> V (in LQT3; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:19716085}.
+FT                                /FTId=VAR_074712.
+FT   VARIANT     532    532       F -> C (in SIDS and BRGDA1).
+FT                                {ECO:0000269|PubMed:18596570,
+FT                                ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_055177.
+FT   VARIANT     535    535       R -> Q (in LQT3; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:19716085}.
+FT                                /FTId=VAR_074713.
+FT   VARIANT     543    543       F -> L (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074359.
+FT   VARIANT     552    552       G -> R (in BRGDA1; dbSNP:rs3918389).
+FT                                {ECO:0000269|PubMed:12358675,
+FT                                ECO:0000269|PubMed:1309946,
+FT                                ECO:0000269|PubMed:16616735,
+FT                                ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_026356.
+FT   VARIANT     558    558       H -> R (polymorphism; channels properties
+FT                                are similar to wild-type; the double
+FT                                mutant Arg-558/Ile-512 channel shows that
+FT                                Arg-558 eliminates the negative shift
+FT                                induced by Ile-512 but only partially
+FT                                restores the kinetic abnormalities; can
+FT                                modulate the gating defects caused by
+FT                                Ala-2006 and other mutations;
+FT                                dbSNP:rs1805124).
+FT                                {ECO:0000269|PubMed:11997281,
+FT                                ECO:0000269|PubMed:12051963,
+FT                                ECO:0000269|PubMed:12454206,
+FT                                ECO:0000269|PubMed:12569159,
+FT                                ECO:0000269|PubMed:14500339,
+FT                                ECO:0000269|PubMed:15489334,
+FT                                ECO:0000269|PubMed:18368697,
+FT                                ECO:0000269|PubMed:18378609,
+FT                                ECO:0000269|PubMed:20129283,
+FT                                ECO:0000269|PubMed:21109022}.
+FT                                /FTId=VAR_008955.
+FT   VARIANT     567    567       L -> Q (in BRGDA1).
+FT                                {ECO:0000269|PubMed:11901046}.
+FT                                /FTId=VAR_026357.
+FT   VARIANT     568    568       R -> H. {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074360.
+FT   VARIANT     569    569       R -> W (in LQT3; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:19716085}.
+FT                                /FTId=VAR_074714.
+FT   VARIANT     571    571       S -> I (in LQT3; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:19716085}.
+FT                                /FTId=VAR_074715.
+FT   VARIANT     572    572       A -> D (in LQT3 and ATFB10;
+FT                                dbSNP:rs36210423).
+FT                                {ECO:0000269|PubMed:15840476,
+FT                                ECO:0000269|PubMed:18378609}.
+FT                                /FTId=VAR_055178.
+FT   VARIANT     572    572       A -> S (in LQT3; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:19716085}.
+FT                                /FTId=VAR_074716.
+FT   VARIANT     572    572       A -> V (in LQT3; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:19716085}.
+FT                                /FTId=VAR_074717.
+FT   VARIANT     573    573       Q -> E (in LQT3; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:16414944}.
+FT                                /FTId=VAR_074718.
+FT   VARIANT     579    579       G -> R (in LQT3; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:16414944,
+FT                                ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074361.
+FT   VARIANT     586    587       Missing (in LQT3; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:19716085}.
+FT                                /FTId=VAR_055179.
+FT   VARIANT     592    592       N -> K. {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074362.
+FT   VARIANT     596    596       D -> G. {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074363.
+FT   VARIANT     601    601       V -> A. {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074364.
+FT   VARIANT     615    615       G -> E (in LQT3 and BRGDA1; drug-induced
+FT                                LQT syndrome; dbSNP:rs12720452).
+FT                                {ECO:0000269|PubMed:11997281,
+FT                                ECO:0000269|PubMed:15840476,
+FT                                ECO:0000269|PubMed:19716085,
+FT                                ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_026358.
+FT   VARIANT     618    618       L -> F (found in patients with drug-
+FT                                induced LQT syndrome; also found in
+FT                                patients with atrial fibrillation;
+FT                                unknown pathological significance;
+FT                                dbSNP:rs45488304).
+FT                                {ECO:0000269|PubMed:15840476,
+FT                                ECO:0000269|PubMed:18378609,
+FT                                ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_047360.
+FT   VARIANT     619    619       L -> F (in LQT3 and BRGDA1).
+FT                                {ECO:0000269|PubMed:11997281,
+FT                                ECO:0000269|PubMed:12673799,
+FT                                ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_015682.
+FT   VARIANT     620    620       R -> C (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074365.
+FT   VARIANT     632    632       T -> M (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074366.
+FT   VARIANT     637    637       P -> L (in LQT3).
+FT                                {ECO:0000269|PubMed:15840476}.
+FT                                /FTId=VAR_068331.
+FT   VARIANT     638    638       G -> D. {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074367.
+FT   VARIANT     639    639       G -> R (in LQT3).
+FT                                {ECO:0000269|PubMed:16922724,
+FT                                ECO:0000269|PubMed:19716085}.
+FT                                /FTId=VAR_036664.
+FT   VARIANT     640    640       P -> A (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074368.
+FT   VARIANT     647    647       A -> D (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074369.
+FT   VARIANT     648    648       P -> L (in LQT3 and BRGDA1).
+FT                                {ECO:0000269|PubMed:15840476,
+FT                                ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_068332.
+FT   VARIANT     654    654       E -> K (in LQT3; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:19716085}.
+FT                                /FTId=VAR_074719.
+FT   VARIANT     655    655       E -> K (in ATFB10).
+FT                                {ECO:0000269|PubMed:18378609}.
+FT                                /FTId=VAR_055180.
+FT   VARIANT     656    656       P -> L. {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074370.
+FT   VARIANT     661    661       R -> W (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074371.
+FT   VARIANT     672    672       A -> T. {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074372.
+FT   VARIANT     673    673       L -> P (in LQT3; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:19716085}.
+FT                                /FTId=VAR_074720.
+FT   VARIANT     680    680       R -> H (in LQT3).
+FT                                /FTId=VAR_055181.
+FT   VARIANT     681    681       H -> P (in BRGDA1).
+FT                                {ECO:0000269|PubMed:11901046}.
+FT                                /FTId=VAR_026359.
+FT   VARIANT     683    683       C -> G (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074373.
+FT   VARIANT     689    689       R -> C (in LQT3; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:19716085}.
+FT                                /FTId=VAR_074721.
+FT   VARIANT     689    689       R -> H (in LQT3; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:16414944,
+FT                                ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074374.
+FT   VARIANT     692    692       Q -> K. {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074375.
+FT   VARIANT     701    701       P -> L (in BRGDA1 and LQT3).
+FT                                {ECO:0000269|PubMed:19716085,
+FT                                ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074376.
+FT   VARIANT     705    705       S -> F. {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074377.
+FT   VARIANT     717    717       P -> L (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074378.
+FT   VARIANT     731    731       T -> I (in LQT3; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:19716085}.
+FT                                /FTId=VAR_074722.
+FT   VARIANT     735    735       A -> E (in BRGDA1).
+FT                                {ECO:0000269|PubMed:11901046}.
+FT                                /FTId=VAR_026360.
+FT   VARIANT     735    735       A -> V (in BRGDA1 and SSS1; expresses
+FT                                currents with steady state activation
+FT                                voltage shifted to more positive
+FT                                potentials and exhibit reduced sodium
+FT                                channel current at the end of phase I of
+FT                                the action potential).
+FT                                {ECO:0000269|PubMed:11823453,
+FT                                ECO:0000269|PubMed:20129283,
+FT                                ECO:0000269|PubMed:22795782}.
+FT                                /FTId=VAR_017674.
+FT   VARIANT     746    746       E -> K (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074379.
+FT   VARIANT     750    750       Q -> R (in LQT3; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:19716085}.
+FT                                /FTId=VAR_074723.
+FT   VARIANT     752    752       G -> R (in BRGDA1 and PFHB1A).
+FT                                {ECO:0000269|PubMed:12106943,
+FT                                ECO:0000269|PubMed:19251209,
+FT                                ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_026361.
+FT   VARIANT     758    758       G -> E (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074380.
+FT   VARIANT     764    764       M -> R (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074381.
+FT   VARIANT     772    772       D -> N (in BRGDA1 and LQT3).
+FT                                {ECO:0000269|PubMed:19716085,
+FT                                ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074382.
+FT   VARIANT     773    773       P -> S (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074383.
+FT   VARIANT     789    789       V -> I (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074384.
+FT   VARIANT     808    808       R -> P (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074385.
+FT   VARIANT     814    814       R -> Q (in BRGDA1).
+FT                                /FTId=VAR_055182.
+FT   VARIANT     816    816       F -> Y (in LQT3; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:19716085}.
+FT                                /FTId=VAR_074724.
+FT   VARIANT     839    839       L -> P (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074386.
+FT   VARIANT     848    848       I -> F (in LQT3; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:19716085}.
+FT                                /FTId=VAR_074725.
+FT   VARIANT     851    851       F -> L (in BRGDA1).
+FT                                {ECO:0000269|PubMed:11901046,
+FT                                ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_026362.
+FT   VARIANT     867    867       E -> Q (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074387.
+FT   VARIANT     878    878       R -> C (in BRGDA1).
+FT                                {ECO:0000269|PubMed:18616619,
+FT                                ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_055183.
+FT   VARIANT     878    878       R -> H (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074388.
+FT   VARIANT     886    886       H -> P (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074389.
+FT   VARIANT     892    892       F -> I (in BRGDA1).
+FT                                {ECO:0000269|PubMed:11901046}.
+FT                                /FTId=VAR_026363.
+FT   VARIANT     893    893       R -> C (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074390.
+FT   VARIANT     893    893       R -> H (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074391.
+FT   VARIANT     896    896       C -> S (in BRGDA1).
+FT                                {ECO:0000269|PubMed:11901046}.
+FT                                /FTId=VAR_026364.
+FT   VARIANT     901    901       E -> K (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074392.
+FT   VARIANT     910    910       S -> L (in BRGDA1).
+FT                                {ECO:0000269|PubMed:11901046,
+FT                                ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_026365.
+FT   VARIANT     915    915       C -> R (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074393.
+FT   VARIANT     917    917       L -> R (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074394.
+FT   VARIANT     924    924       V -> I. {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074395.
+FT   VARIANT     927    927       N -> S (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074396.
+FT   VARIANT     928    928       L -> P (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074397.
+FT   VARIANT     935    935       L -> P (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074398.
+FT   VARIANT     941    941       S -> N (in LQT3; also in SIDS).
+FT                                {ECO:0000269|PubMed:10911008}.
+FT                                /FTId=VAR_017675.
+FT   VARIANT     960    960       Q -> K (in LQT3; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:19716085}.
+FT                                /FTId=VAR_074726.
+FT   VARIANT     965    965       R -> C (in BRGDA1; steady state
+FT                                inactivation shifted to a more negative
+FT                                potential; slower recovery from
+FT                                inactivation).
+FT                                {ECO:0000269|PubMed:11901046,
+FT                                ECO:0000269|PubMed:19272188,
+FT                                ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_026366.
+FT   VARIANT     965    965       R -> H (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074399.
+FT   VARIANT     965    965       R -> L (in LQT3; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:19716085}.
+FT                                /FTId=VAR_074727.
+FT   VARIANT     971    971       R -> C (in LQT3).
+FT                                {ECO:0000269|PubMed:15840476}.
+FT                                /FTId=VAR_068333.
+FT   VARIANT     981    981       C -> F (in LQT3; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:19716085}.
+FT                                /FTId=VAR_074728.
+FT   VARIANT     986    986       R -> Q. {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074400.
+FT   VARIANT     997    997       A -> S (in LQT3; also found in patients
+FT                                with atrial fibrillation; sodium current
+FT                                characterized by slower decay and a 2- to
+FT                                3-fold increase in late sodium current).
+FT                                {ECO:0000269|PubMed:11710892,
+FT                                ECO:0000269|PubMed:18378609,
+FT                                ECO:0000269|PubMed:19716085}.
+FT                                /FTId=VAR_017676.
+FT   VARIANT     997    997       A -> T (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074401.
+FT   VARIANT    1004   1004       C -> R (in LQT3; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:19716085}.
+FT                                /FTId=VAR_074729.
+FT   VARIANT    1016   1016       T -> M. {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074402.
+FT   VARIANT    1023   1023       R -> H (in BRGDA1).
+FT                                /FTId=VAR_055184.
+FT   VARIANT    1027   1027       R -> Q. {ECO:0000269|PubMed:1309946,
+FT                                ECO:0000269|PubMed:16616735,
+FT                                ECO:0000269|Ref.6}.
+FT                                /FTId=VAR_026367.
+FT   VARIANT    1040   1040       G -> R. {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074403.
+FT   VARIANT    1041   1041       D -> N (in dbSNP:rs45491996).
+FT                                /FTId=VAR_047361.
+FT   VARIANT    1053   1053       E -> K (in BRGDA1, ATFB10 and LQT3;
+FT                                abolishes binding to ANK3 and also
+FT                                prevents accumulation of SCN5A at cell
+FT                                surface sites in ventricular
+FT                                cardiomyocytes).
+FT                                {ECO:0000269|PubMed:11901046,
+FT                                ECO:0000269|PubMed:15579534,
+FT                                ECO:0000269|PubMed:18378609,
+FT                                ECO:0000269|PubMed:19716085,
+FT                                ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_026368.
+FT   VARIANT    1055   1055       D -> G (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074404.
+FT   VARIANT    1069   1069       T -> M (in LQT3).
+FT                                {ECO:0000269|PubMed:15840476,
+FT                                ECO:0000269|PubMed:19716085}.
+FT                                /FTId=VAR_068334.
+FT   VARIANT    1079   1079       S -> Y (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074405.
+FT   VARIANT    1082   1082       V -> A. {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074406.
+FT   VARIANT    1084   1084       G -> S (in SIDS; may be a rare
+FT                                polymorphism).
+FT                                {ECO:0000269|PubMed:18596570}.
+FT                                /FTId=VAR_055185.
+FT   VARIANT    1090   1090       P -> L (in dbSNP:rs1805125).
+FT                                {ECO:0000269|PubMed:18368697,
+FT                                ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_014464.
+FT   VARIANT    1098   1098       V -> L. {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074407.
+FT   VARIANT    1100   1100       A -> V (in LQT3; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:19716085}.
+FT                                /FTId=VAR_074730.
+FT   VARIANT    1103   1103       S -> Y (polymorphism; may confer
+FT                                susceptibility to acquired arrhythmia;
+FT                                dbSNP:rs7626962).
+FT                                {ECO:0000269|PubMed:12193783,
+FT                                ECO:0000269|PubMed:12471205,
+FT                                ECO:0000269|PubMed:14500339,
+FT                                ECO:0000269|PubMed:18378609,
+FT                                ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_017677.
+FT   VARIANT    1107   1107       E -> K. {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074408.
+FT   VARIANT    1113   1113       A -> V (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074409.
+FT   VARIANT    1114   1114       D -> N (in LQT3).
+FT                                {ECO:0000269|PubMed:10973849,
+FT                                ECO:0000269|PubMed:19716085}.
+FT                                /FTId=VAR_009935.
+FT   VARIANT    1116   1116       R -> W. {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074410.
+FT   VARIANT    1131   1131       T -> I (in ATFB10).
+FT                                {ECO:0000269|PubMed:18378609}.
+FT                                /FTId=VAR_055186.
+FT   VARIANT    1140   1140       S -> T (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074411.
+FT   VARIANT    1166   1166       D -> N (in LQT3; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:19716085}.
+FT                                /FTId=VAR_074731.
+FT   VARIANT    1180   1180       A -> V (in dbSNP:rs41310765).
+FT                                /FTId=VAR_047362.
+FT   VARIANT    1193   1193       R -> Q (in BRGDA1 and LQT3; also found in
+FT                                patients with atrial fibrillation;
+FT                                accelerates the inactivation of the
+FT                                sodium channel current and exhibit
+FT                                reduced sodium channel current at the end
+FT                                of phase I of the action potential;
+FT                                dbSNP:rs41261344).
+FT                                {ECO:0000269|PubMed:11823453,
+FT                                ECO:0000269|PubMed:18378609,
+FT                                ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_017678.
+FT   VARIANT    1199   1199       Y -> S (in LQT3; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:19716085}.
+FT                                /FTId=VAR_074732.
+FT   VARIANT    1212   1212       Missing (in LQT3; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:19716085}.
+FT                                /FTId=VAR_074733.
+FT   VARIANT    1219   1219       S -> N (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074412.
+FT   VARIANT    1225   1225       E -> K (in BRGDA1 and LQT3).
+FT                                {ECO:0000269|PubMed:12106943,
+FT                                ECO:0000269|PubMed:15840476,
+FT                                ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_026369.
+FT   VARIANT    1228   1228       Y -> H (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074413.
+FT   VARIANT    1231   1231       E -> K (in LQT3).
+FT                                {ECO:0000269|PubMed:15840476}.
+FT                                /FTId=VAR_068335.
+FT   VARIANT    1232   1232       R -> Q (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074414.
+FT   VARIANT    1232   1232       R -> W (in BRGDA1 and PFHB1A).
+FT                                {ECO:0000269|PubMed:19251209,
+FT                                ECO:0000269|PubMed:20129283,
+FT                                ECO:0000269|PubMed:9521325}.
+FT                                /FTId=VAR_017679.
+FT   VARIANT    1236   1236       K -> N (in BRGDA1).
+FT                                {ECO:0000269|PubMed:11901046}.
+FT                                /FTId=VAR_026370.
+FT   VARIANT    1239   1239       L -> P (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074415.
+FT   VARIANT    1240   1240       E -> Q (in BRGDA1).
+FT                                {ECO:0000269|PubMed:11901046}.
+FT                                /FTId=VAR_026371.
+FT   VARIANT    1243   1243       D -> N (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074416.
+FT   VARIANT    1249   1249       V -> D (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074417.
+FT   VARIANT    1250   1250       F -> L (in LQT3; drug-induced LQT
+FT                                syndrome; dbSNP:rs45589741).
+FT                                {ECO:0000269|PubMed:11997281}.
+FT                                /FTId=VAR_026372.
+FT   VARIANT    1251   1251       V -> M. {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074418.
+FT   VARIANT    1253   1253       E -> G (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074419.
+FT   VARIANT    1262   1262       G -> S (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:15338453,
+FT                                ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_036665.
+FT   VARIANT    1271   1271       W -> C (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074420.
+FT   VARIANT    1275   1275       D -> N (in CMD1E, BRGDA1, PFHB1A and
+FT                                ATRST1; in familial atrial standstill is
+FT                                found in association with polymorphisms
+FT                                in the regulatory region of GJA5).
+FT                                {ECO:0000269|PubMed:12522116,
+FT                                ECO:0000269|PubMed:15466643,
+FT                                ECO:0000269|PubMed:19251209,
+FT                                ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_026373.
+FT   VARIANT    1283   1283       L -> M (in LQT3; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:19716085}.
+FT                                /FTId=VAR_074734.
+FT   VARIANT    1288   1288       A -> G (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074421.
+FT   VARIANT    1293   1293       F -> S (in BRGDA1; unknown pathological
+FT                                significance; dbSNP:rs41311127).
+FT                                {ECO:0000269|PubMed:11901046,
+FT                                ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_026374.
+FT   VARIANT    1295   1295       E -> K (in LQT3; causes significant
+FT                                positive shifts in the half-maximal
+FT                                voltage of steady-state inactivation and
+FT                                activation).
+FT                                {ECO:0000269|PubMed:11304498}.
+FT                                /FTId=VAR_055187.
+FT   VARIANT    1298   1298       P -> L (in SSS1; dbSNP:rs28937319).
+FT                                {ECO:0000269|PubMed:14523039}.
+FT                                /FTId=VAR_017680.
+FT   VARIANT    1304   1304       T -> M (in LQT3).
+FT                                {ECO:0000269|PubMed:10508990,
+FT                                ECO:0000269|PubMed:19716085}.
+FT                                /FTId=VAR_008956.
+FT   VARIANT    1308   1308       L -> F (polymorphism; associated with I-
+FT                                232 in a case of lidocaine-induced
+FT                                Brugada syndrome; dbSNP:rs41313031).
+FT                                {ECO:0000269|PubMed:18599870,
+FT                                ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_055188.
+FT   VARIANT    1311   1311       L -> P (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074422.
+FT   VARIANT    1319   1319       G -> V (in BRGDA1).
+FT                                {ECO:0000269|PubMed:12106943,
+FT                                ECO:0000269|PubMed:19251209,
+FT                                ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_026375.
+FT   VARIANT    1323   1323       V -> G (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074423.
+FT   VARIANT    1325   1325       N -> S (in LQT3; dbSNP:rs28937317).
+FT                                {ECO:0000269|PubMed:15840476,
+FT                                ECO:0000269|PubMed:19716085}.
+FT                                /FTId=VAR_001577.
+FT   VARIANT    1326   1326       A -> S (in LQT3; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:19716085}.
+FT                                /FTId=VAR_074735.
+FT   VARIANT    1330   1330       A -> P (in LQT3).
+FT                                /FTId=VAR_055189.
+FT   VARIANT    1330   1330       A -> T (in LQT3).
+FT                                /FTId=VAR_055190.
+FT   VARIANT    1332   1332       P -> L (in LQT3 and BRGDA1; unknown
+FT                                pathological significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_055191.
+FT   VARIANT    1333   1333       S -> Y (in LQT3 and SIDS).
+FT                                {ECO:0000269|PubMed:16922724,
+FT                                ECO:0000269|PubMed:19302788}.
+FT                                /FTId=VAR_036666.
+FT   VARIANT    1334   1334       I -> V (in LQT3; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:19716085}.
+FT                                /FTId=VAR_074736.
+FT   VARIANT    1338   1338       L -> V (in LQT3; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:19716085}.
+FT                                /FTId=VAR_074737.
+FT   VARIANT    1344   1344       F -> L (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074424.
+FT   VARIANT    1344   1344       F -> S (in BRGDA1).
+FT                                {ECO:0000269|PubMed:16616735}.
+FT                                /FTId=VAR_026376.
+FT   VARIANT    1346   1346       L -> I (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074425.
+FT   VARIANT    1346   1346       L -> P (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074426.
+FT   VARIANT    1351   1351       M -> R (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074427.
+FT   VARIANT    1353   1353       V -> M (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074428.
+FT   VARIANT    1358   1358       G -> W (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074429.
+FT   VARIANT    1359   1359       K -> N (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074430.
+FT   VARIANT    1360   1360       F -> C (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074431.
+FT   VARIANT    1363   1363       C -> Y (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074432.
+FT   VARIANT    1382   1382       S -> I (in BRGDA1).
+FT                                {ECO:0000269|PubMed:12106943,
+FT                                ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_026377.
+FT   VARIANT    1405   1405       V -> L (in BRGDA1).
+FT                                {ECO:0000269|PubMed:12106943,
+FT                                ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_026378.
+FT   VARIANT    1405   1405       V -> M (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074433.
+FT   VARIANT    1406   1406       G -> E (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074434.
+FT   VARIANT    1406   1406       G -> R (in BRGDA1).
+FT                                {ECO:0000269|PubMed:12106943,
+FT                                ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_026379.
+FT   VARIANT    1408   1408       G -> R (in SSS1 and BRGDA1;
+FT                                dbSNP:rs28936971).
+FT                                {ECO:0000269|PubMed:11748104,
+FT                                ECO:0000269|PubMed:14523039,
+FT                                ECO:0000269|PubMed:19251209,
+FT                                ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_017681.
+FT   VARIANT    1409   1409       Y -> C (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074435.
+FT   VARIANT    1412   1412       L -> F (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074436.
+FT   VARIANT    1419   1419       K -> E (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074437.
+FT   VARIANT    1420   1420       G -> R (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074438.
+FT   VARIANT    1427   1427       A -> S (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074439.
+FT   VARIANT    1428   1428       A -> V (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074440.
+FT   VARIANT    1432   1432       R -> G (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_055192.
+FT   VARIANT    1432   1432       R -> S (in BRGDA1 and LQT3).
+FT                                {ECO:0000269|PubMed:19716085,
+FT                                ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074441.
+FT   VARIANT    1433   1433       G -> V (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074442.
+FT   VARIANT    1438   1438       P -> L (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_055193.
+FT   VARIANT    1441   1441       E -> Q (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074443.
+FT   VARIANT    1448   1448       I -> L (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074444.
+FT   VARIANT    1448   1448       I -> T (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074445.
+FT   VARIANT    1449   1449       Y -> C (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074446.
+FT   VARIANT    1451   1451       V -> D (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074447.
+FT   VARIANT    1458   1458       S -> Y (in LQT3).
+FT                                {ECO:0000269|PubMed:15840476}.
+FT                                /FTId=VAR_068336.
+FT   VARIANT    1463   1463       N -> Y (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074448.
+FT   VARIANT    1468   1468       V -> F (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074449.
+FT   VARIANT    1472   1472       N -> S (in LQT3; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:19716085}.
+FT                                /FTId=VAR_074738.
+FT   VARIANT    1473   1473       F -> C (in LQT3).
+FT                                {ECO:0000269|PubMed:18060054,
+FT                                ECO:0000269|PubMed:19716085}.
+FT                                /FTId=VAR_055194.
+FT   VARIANT    1479   1479       Missing (in BRGDA1).
+FT                                {ECO:0000269|PubMed:12106943}.
+FT                                /FTId=VAR_026380.
+FT   VARIANT    1481   1481       G -> E (in LQT3).
+FT                                {ECO:0000269|PubMed:15840476,
+FT                                ECO:0000269|PubMed:19716085}.
+FT                                /FTId=VAR_068337.
+FT   VARIANT    1486   1486       F -> L (in LQT3).
+FT                                /FTId=VAR_055195.
+FT   VARIANT    1487   1487       M -> L (in LQT3; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:19716085}.
+FT                                /FTId=VAR_074739.
+FT   VARIANT    1488   1488       T -> R (in LQT3; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:19716085}.
+FT                                /FTId=VAR_074740.
+FT   VARIANT    1489   1489       E -> D (in LQT3; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:19716085}.
+FT                                /FTId=VAR_074741.
+FT   VARIANT    1493   1493       K -> R (in LQT3; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:19716085}.
+FT                                /FTId=VAR_074742.
+FT   VARIANT    1494   1494       Y -> N (in BRGDA1).
+FT                                {ECO:0000269|PubMed:18341814}.
+FT                                /FTId=VAR_055196.
+FT   VARIANT    1495   1495       Y -> S (in LQT3; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:19716085}.
+FT                                /FTId=VAR_074743.
+FT   VARIANT    1498   1498       M -> T (found in a patient with long QT
+FT                                syndrome; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:16115203,
+FT                                ECO:0000269|PubMed:16414944}.
+FT                                /FTId=VAR_074744.
+FT   VARIANT    1498   1498       M -> V (in LQT3; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:19716085}.
+FT                                /FTId=VAR_074745.
+FT   VARIANT    1500   1500       K -> N. {ECO:0000269|PubMed:10508990}.
+FT                                /FTId=VAR_008957.
+FT   VARIANT    1500   1500       Missing (in BRGDA1).
+FT                                {ECO:0000269|PubMed:11901046}.
+FT                                /FTId=VAR_026381.
+FT   VARIANT    1501   1501       L -> V (in LQT3 and BRGDA1).
+FT                                {ECO:0000269|PubMed:10973849,
+FT                                ECO:0000269|PubMed:19716085,
+FT                                ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_009936.
+FT   VARIANT    1502   1502       G -> S (in BRGDA1).
+FT                                {ECO:0000269|PubMed:12106943}.
+FT                                /FTId=VAR_026382.
+FT   VARIANT    1505   1507       Missing (in LQT3).
+FT                                {ECO:0000269|PubMed:15840476,
+FT                                ECO:0000269|PubMed:7651517}.
+FT                                /FTId=VAR_001576.
+FT   VARIANT    1505   1505       K -> N (in LQT3; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:19716085}.
+FT                                /FTId=VAR_074746.
+FT   VARIANT    1507   1509       Missing (in LQT3).
+FT                                /FTId=VAR_055197.
+FT   VARIANT    1512   1512       R -> W (in BRGDA1; significantly affects
+FT                                cardiac sodium channel characteristics;
+FT                                associated with an increase in inward
+FT                                sodium current during the action
+FT                                potential upstroke).
+FT                                {ECO:0000269|PubMed:10690282,
+FT                                ECO:0000269|PubMed:12106943,
+FT                                ECO:0000269|PubMed:19251209,
+FT                                ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_017682.
+FT   VARIANT    1521   1521       I -> K (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074450.
+FT   VARIANT    1525   1525       V -> M (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074451.
+FT   VARIANT    1527   1527       K -> R (in BRGDA1; asymptomatic patient;
+FT                                associated with P-1569).
+FT                                {ECO:0000269|PubMed:15851320}.
+FT                                /FTId=VAR_055198.
+FT   VARIANT    1532   1532       V -> I (in LQT3; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:19716085}.
+FT                                /FTId=VAR_074747.
+FT   VARIANT    1548   1548       E -> K (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074452.
+FT   VARIANT    1560   1560       L -> F (in LQT3; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:19716085}.
+FT                                /FTId=VAR_074748.
+FT   VARIANT    1569   1569       A -> P (in BRGDA1; asymptomatic patient;
+FT                                associated with R-1527).
+FT                                {ECO:0000269|PubMed:15851320}.
+FT                                /FTId=VAR_055199.
+FT   VARIANT    1571   1571       F -> C (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074453.
+FT   VARIANT    1574   1574       E -> K (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074454.
+FT   VARIANT    1582   1582       L -> P (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074455.
+FT   VARIANT    1583   1583       R -> C (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074456.
+FT   VARIANT    1583   1583       R -> H (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074457.
+FT   VARIANT    1593   1593       I -> M (in LQT3; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:19716085}.
+FT                                /FTId=VAR_074749.
+FT   VARIANT    1594   1594       F -> S (in LQT3; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:19716085}.
+FT                                /FTId=VAR_074750.
+FT   VARIANT    1595   1595       D -> N (in PFHB1A; significant defect in
+FT                                the kinetics of fast-channel inactivation
+FT                                distinct from mutations reported in
+FT                                LQT3). {ECO:0000269|PubMed:11804990}.
+FT                                /FTId=VAR_017683.
+FT   VARIANT    1596   1596       F -> I (in LQT3; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:19716085}.
+FT                                /FTId=VAR_074751.
+FT   VARIANT    1604   1604       V -> M (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074458.
+FT   VARIANT    1609   1609       S -> W (in LQT3).
+FT                                {ECO:0000269|PubMed:16922724}.
+FT                                /FTId=VAR_036667.
+FT   VARIANT    1613   1613       Q -> L (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074459.
+FT   VARIANT    1617   1617       Missing (in LQT3 and BRGDA1).
+FT                                {ECO:0000269|PubMed:17081365,
+FT                                ECO:0000269|PubMed:19716085}.
+FT                                /FTId=VAR_055200.
+FT   VARIANT    1620   1620       T -> K (in LQT3 and PFHB1A).
+FT                                /FTId=VAR_055201.
+FT   VARIANT    1620   1620       T -> M (in BRGDA1; arrhythmogenicity
+FT                                revealed only at temperatures approaching
+FT                                the physiologic range).
+FT                                {ECO:0000269|PubMed:10532948,
+FT                                ECO:0000269|PubMed:10618304,
+FT                                ECO:0000269|PubMed:20129283,
+FT                                ECO:0000269|PubMed:9521325}.
+FT                                /FTId=VAR_017684.
+FT   VARIANT    1623   1623       R -> L (in LQT3).
+FT                                {ECO:0000269|PubMed:10973849,
+FT                                ECO:0000269|PubMed:15840476,
+FT                                ECO:0000269|PubMed:19716085}.
+FT                                /FTId=VAR_009937.
+FT   VARIANT    1623   1623       R -> Q (in LQT3 and BRGDA1).
+FT                                {ECO:0000269|PubMed:19716085,
+FT                                ECO:0000269|PubMed:20129283,
+FT                                ECO:0000269|PubMed:9506831,
+FT                                ECO:0000269|Ref.31}.
+FT                                /FTId=VAR_001578.
+FT   VARIANT    1626   1626       R -> H (in LQT3; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:19716085}.
+FT                                /FTId=VAR_074752.
+FT   VARIANT    1626   1626       R -> P (in LQT3; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:16414944}.
+FT                                /FTId=VAR_055202.
+FT   VARIANT    1629   1629       R -> Q (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074460.
+FT   VARIANT    1642   1642       G -> E (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074461.
+FT   VARIANT    1644   1644       R -> C (in LQT3 and BRGDA1).
+FT                                {ECO:0000269|PubMed:16414944,
+FT                                ECO:0000269|PubMed:19716085}.
+FT                                /FTId=VAR_055203.
+FT   VARIANT    1644   1644       R -> H (in LQT3; dbSNP:rs28937316).
+FT                                {ECO:0000269|PubMed:10973849,
+FT                                ECO:0000269|PubMed:15840476}.
+FT                                /FTId=VAR_001579.
+FT   VARIANT    1645   1645       T -> M (in LQT3).
+FT                                {ECO:0000269|PubMed:10508990}.
+FT                                /FTId=VAR_008958.
+FT   VARIANT    1649   1649       A -> V (in BRGDA1).
+FT                                {ECO:0000269|PubMed:17081365}.
+FT                                /FTId=VAR_055204.
+FT   VARIANT    1650   1650       L -> F (in LQT3; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:19716085}.
+FT                                /FTId=VAR_074753.
+FT   VARIANT    1652   1652       M -> R (in LQT3).
+FT                                /FTId=VAR_055205.
+FT   VARIANT    1652   1652       M -> T (in LQT3; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:19716085}.
+FT                                /FTId=VAR_074754.
+FT   VARIANT    1660   1660       I -> V (in BRGDA1 and LQT3; detected in a
+FT                                compound heterozygote also carrying L-
+FT                                336; the presence of both mutations is
+FT                                necessary for the phenotypic expression
+FT                                of the disease; complete loss of sodium
+FT                                currents due to defective channel
+FT                                trafficking to the plasma membrane).
+FT                                {ECO:0000269|PubMed:16414944,
+FT                                ECO:0000269|PubMed:17075016,
+FT                                ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_055206.
+FT   VARIANT    1661   1661       G -> R (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074462.
+FT   VARIANT    1667   1667       V -> I (in LQT3 and BRGDA1).
+FT                                {ECO:0000269|PubMed:15840476,
+FT                                ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_068338.
+FT   VARIANT    1672   1672       S -> Y (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074463.
+FT   VARIANT    1680   1680       A -> T (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074464.
+FT   VARIANT    1698   1698       A -> T (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074465.
+FT   VARIANT    1705   1705       F -> S (in SIDS; causes a hyperpolarizing
+FT                                shift of steady-state inactivation and
+FT                                delayed recovery from inactivation).
+FT                                {ECO:0000269|PubMed:18596570}.
+FT                                /FTId=VAR_055207.
+FT   VARIANT    1709   1709       T -> M (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074466.
+FT   VARIANT    1709   1709       T -> R (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074467.
+FT   VARIANT    1710   1710       S -> L (in VF1).
+FT                                {ECO:0000269|PubMed:10940383}.
+FT                                /FTId=VAR_017685.
+FT   VARIANT    1712   1712       G -> S (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074468.
+FT   VARIANT    1714   1714       D -> G (in BRGDA1; strong decrease of
+FT                                current density; does not affect ion
+FT                                selectivity properties).
+FT                                {ECO:0000269|PubMed:16266370,
+FT                                ECO:0000269|PubMed:19251209,
+FT                                ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_026383.
+FT   VARIANT    1722   1722       N -> D (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074469.
+FT   VARIANT    1723   1723       T -> N (in LQT3; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:19716085}.
+FT                                /FTId=VAR_074755.
+FT   VARIANT    1728   1728       C -> R (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074470.
+FT   VARIANT    1728   1728       C -> W (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074471.
+FT   VARIANT    1739   1739       R -> W (in LQT3; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:19716085}.
+FT                                /FTId=VAR_074756.
+FT   VARIANT    1740   1740       G -> R (in BRGDA1).
+FT                                {ECO:0000269|PubMed:11901046,
+FT                                ECO:0000269|PubMed:19251209,
+FT                                ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_026384.
+FT   VARIANT    1743   1743       G -> E (in BRGDA1).
+FT                                {ECO:0000269|PubMed:12106943,
+FT                                ECO:0000269|PubMed:19251209,
+FT                                ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_026385.
+FT   VARIANT    1743   1743       G -> R (in BRGDA1; yields nearly
+FT                                undetectable currents in transfected
+FT                                cells). {ECO:0000269|PubMed:15023552,
+FT                                ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_055208.
+FT   VARIANT    1761   1761       L -> F (in LQT3; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:19716085}.
+FT                                /FTId=VAR_074757.
+FT   VARIANT    1761   1761       L -> H (in LQT3; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:19716085}.
+FT                                /FTId=VAR_074758.
+FT   VARIANT    1763   1763       V -> M (in LQT3).
+FT                                {ECO:0000269|PubMed:15840476,
+FT                                ECO:0000269|PubMed:19716085}.
+FT                                /FTId=VAR_055209.
+FT   VARIANT    1764   1764       V -> F (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074472.
+FT   VARIANT    1766   1766       M -> L (in LQT3; affects protein
+FT                                trafficking).
+FT                                {ECO:0000269|PubMed:12454206,
+FT                                ECO:0000269|PubMed:15840476}.
+FT                                /FTId=VAR_055210.
+FT   VARIANT    1767   1767       Y -> C (in LQT3; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:16414944}.
+FT                                /FTId=VAR_074759.
+FT   VARIANT    1768   1768       I -> V (in LQT3; increases the rate of
+FT                                recovery from inactivation and the
+FT                                channel availability, observed as a
+FT                                positive shift of the steady-state
+FT                                inactivation curve).
+FT                                {ECO:0000269|PubMed:12209021}.
+FT                                /FTId=VAR_055211.
+FT   VARIANT    1777   1777       V -> M (in LQT3).
+FT                                {ECO:0000269|PubMed:15840476,
+FT                                ECO:0000269|PubMed:19716085}.
+FT                                /FTId=VAR_055212.
+FT   VARIANT    1779   1779       T -> M (in LQT3 and BRGDA1).
+FT                                {ECO:0000269|PubMed:15840476,
+FT                                ECO:0000269|PubMed:19716085,
+FT                                ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_068339.
+FT   VARIANT    1784   1784       E -> K (in LQT3 and BRGDA1).
+FT                                {ECO:0000269|PubMed:10377081,
+FT                                ECO:0000269|PubMed:11901046,
+FT                                ECO:0000269|PubMed:15840476,
+FT                                ECO:0000269|PubMed:18451998,
+FT                                ECO:0000269|PubMed:19716085,
+FT                                ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_008959.
+FT   VARIANT    1787   1787       S -> N. {ECO:0000269|PubMed:10973849,
+FT                                ECO:0000269|PubMed:16414944,
+FT                                ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_009938.
+FT   VARIANT    1790   1790       D -> G (in LQT3).
+FT                                {ECO:0000269|PubMed:16414944,
+FT                                ECO:0000269|PubMed:9686753}.
+FT                                /FTId=VAR_001580.
+FT   VARIANT    1792   1792       D -> N (in SSS1).
+FT                                {ECO:0000269|PubMed:22795782}.
+FT                                /FTId=VAR_068475.
+FT   VARIANT    1795   1795       Y -> C (in LQT3; also in a family
+FT                                associating LQT syndrome and atrial
+FT                                fibrillation; slows the onset of
+FT                                activation, but does not cause a marked
+FT                                negative shift in the voltage dependence
+FT                                of inactivation or affect the kinetics of
+FT                                the recovery from inactivation; increases
+FT                                the expression of sustained Na(+) channel
+FT                                activity and promotes entrance into an
+FT                                intermediate or slowly developing
+FT                                inactivated state).
+FT                                {ECO:0000269|PubMed:11410597,
+FT                                ECO:0000269|PubMed:15840476,
+FT                                ECO:0000269|PubMed:18929331,
+FT                                ECO:0000269|PubMed:19716085}.
+FT                                /FTId=VAR_019123.
+FT   VARIANT    1795   1795       Y -> H (in BRGDA1; accelerates the onset
+FT                                of activation and causes a marked
+FT                                negative shift in the voltage dependence
+FT                                of inactivation; does not affect the
+FT                                kinetics of the recovery from
+FT                                inactivation; increases the expression of
+FT                                sustained Na(+) channel activity and
+FT                                promotes entrance into an intermediate or
+FT                                slowly developing inactivated state).
+FT                                {ECO:0000269|PubMed:11410597,
+FT                                ECO:0000269|PubMed:11901046}.
+FT                                /FTId=VAR_019124.
+FT   VARIANT    1795   1795       Y -> YD (in LQT3 and BRGDA1; 7.3-mV
+FT                                negative shift of the steady-state
+FT                                inactivation curve and 8.1-mV positive
+FT                                shift of the steady-state activation
+FT                                curve; may reduced sodium current during
+FT                                the upstroke of the action potential).
+FT                                {ECO:0000269|PubMed:10590249,
+FT                                ECO:0000269|PubMed:11889015}.
+FT                                /FTId=VAR_017686.
+FT   VARIANT    1819   1819       D -> N (in LQT3; digenic; associated with
+FT                                Gly-100 mutation on the KCNH2 gene).
+FT                                {ECO:0000269|PubMed:16922724}.
+FT                                /FTId=VAR_036668.
+FT   VARIANT    1825   1825       L -> P (in LQT3; drug-induced LQT
+FT                                syndrome).
+FT                                /FTId=VAR_055213.
+FT   VARIANT    1826   1826       R -> C (in ATFB10).
+FT                                {ECO:0000269|PubMed:18378609}.
+FT                                /FTId=VAR_055214.
+FT   VARIANT    1826   1826       R -> H (in LQT3; sodium current
+FT                                characterized by slower decay and a 2- to
+FT                                3-fold increase in late sodium current).
+FT                                {ECO:0000269|PubMed:11710892,
+FT                                ECO:0000269|PubMed:19716085}.
+FT                                /FTId=VAR_017687.
+FT   VARIANT    1832   1832       Q -> E (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074473.
+FT   VARIANT    1836   1836       I -> T. {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074474.
+FT   VARIANT    1839   1839       D -> G (in LQT3).
+FT                                {ECO:0000269|PubMed:10627139,
+FT                                ECO:0000269|PubMed:19716085}.
+FT                                /FTId=VAR_001581.
+FT   VARIANT    1850   1850       C -> S (in BRGDA1; decreased I(Na)
+FT                                density; shift of the steady-state
+FT                                inactivation towards negative
+FT                                potentials).
+FT                                {ECO:0000269|PubMed:18252757}.
+FT                                /FTId=VAR_055215.
+FT   VARIANT    1861   1861       V -> I (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074475.
+FT   VARIANT    1872   1872       K -> N (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074476.
+FT   VARIANT    1875   1875       M -> T (in atrial fibrillation;
+FT                                pronounced depolarized shift of the
+FT                                voltage dependence of steady-state
+FT                                inactivation; no persistent sodium
+FT                                current). {ECO:0000269|PubMed:18929244}.
+FT                                /FTId=VAR_055216.
+FT   VARIANT    1897   1897       R -> W (in LQT3; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:19716085}.
+FT                                /FTId=VAR_074760.
+FT   VARIANT    1901   1901       E -> K. {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074477.
+FT   VARIANT    1901   1901       E -> Q (in LQT3; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:19716085}.
+FT                                /FTId=VAR_074761.
+FT   VARIANT    1903   1903       V -> L (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074478.
+FT   VARIANT    1904   1904       S -> L (in LQT3; promotes late sodium
+FT                                currents by increasing the propensity of
+FT                                the channel to reopen during prolonged
+FT                                depolarization).
+FT                                {ECO:0000269|PubMed:18708744}.
+FT                                /FTId=VAR_055217.
+FT   VARIANT    1909   1909       Q -> R (in LQT3).
+FT                                {ECO:0000269|PubMed:15840476}.
+FT                                /FTId=VAR_068340.
+FT   VARIANT    1913   1913       R -> H (in LQT3; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:16414944}.
+FT                                /FTId=VAR_074762.
+FT   VARIANT    1919   1919       R -> C. {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074479.
+FT   VARIANT    1924   1924       A -> T (in BRGDA1; significantly affect
+FT                                cardiac sodium channel characteristics;
+FT                                associated with an increase in inward
+FT                                sodium current during the action
+FT                                potential upstroke).
+FT                                {ECO:0000269|PubMed:10690282,
+FT                                ECO:0000269|PubMed:12106943,
+FT                                ECO:0000269|PubMed:19251209,
+FT                                ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_017688.
+FT   VARIANT    1935   1935       G -> S (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_055218.
+FT   VARIANT    1938   1938       E -> K (in BRGDA1; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074480.
+FT   VARIANT    1949   1949       A -> S (in LQT3).
+FT                                {ECO:0000269|PubMed:15840476}.
+FT                                /FTId=VAR_068341.
+FT   VARIANT    1951   1951       V -> L (in BRGDA1 and LQT3; also found in
+FT                                patients with atrial fibrillation;
+FT                                unknown pathological significance;
+FT                                dbSNP:rs41315493).
+FT                                {ECO:0000269|PubMed:11901046,
+FT                                ECO:0000269|PubMed:18378609,
+FT                                ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_026386.
+FT   VARIANT    1951   1951       V -> M (in ATFB10; dbSNP:rs41315493).
+FT                                {ECO:0000269|PubMed:18378609}.
+FT                                /FTId=VAR_055219.
+FT   VARIANT    1958   1958       R -> Q (found in a patient with long QT
+FT                                syndrome; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:15840476,
+FT                                ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_068342.
+FT   VARIANT    1962   1962       P -> L. {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074481.
+FT   VARIANT    1968   1968       I -> M. {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074482.
+FT   VARIANT    1968   1968       I -> S (in BRGDA1).
+FT                                /FTId=VAR_055220.
+FT   VARIANT    1977   1977       Y -> N (in LQT3; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:19716085}.
+FT                                /FTId=VAR_074763.
+FT   VARIANT    1987   1987       N -> K (in ATFB10).
+FT                                {ECO:0000269|PubMed:18088563}.
+FT                                /FTId=VAR_065865.
+FT   VARIANT    1991   1991       R -> Q. {ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074483.
+FT   VARIANT    2004   2004       F -> L (in LQT3 and BRGDA1; also found in
+FT                                patients with atrial fibrillation;
+FT                                results in channels with decreased peak
+FT                                and persistent current amplitudes;
+FT                                increased closed-state and slow
+FT                                inactivation; decelerated recovery from
+FT                                inactivation; dbSNP:rs41311117).
+FT                                {ECO:0000269|PubMed:18378609,
+FT                                ECO:0000269|PubMed:18456723,
+FT                                ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_055221.
+FT   VARIANT    2004   2004       F -> V (in BRGDA1 and LQT3).
+FT                                {ECO:0000269|PubMed:19716085,
+FT                                ECO:0000269|PubMed:20129283}.
+FT                                /FTId=VAR_074484.
+FT   VARIANT    2006   2006       P -> A (found in a patient with long QT
+FT                                syndrome; unknown pathological
+FT                                significance; causes an increase of
+FT                                persistent sodium current and produces a
+FT                                depolarizing shift in voltage dependence
+FT                                of inactivation).
+FT                                {ECO:0000269|PubMed:20129283,
+FT                                ECO:0000269|PubMed:21109022}.
+FT                                /FTId=VAR_055222.
+FT   VARIANT    2012   2012       R -> C (in LQT3; unknown pathological
+FT                                significance).
+FT                                {ECO:0000269|PubMed:19716085}.
+FT                                /FTId=VAR_074764.
+FT   MUTAGEN    1476   1476       Q->K: Induces accelerated recovery from
+FT                                channel fast inactivation.
+FT                                {ECO:0000269|PubMed:16054936}.
+FT   MUTAGEN    1610   1610       D->R: High decrease in affinity to the
+FT                                sea anemone toxin anthopleurin-B.
+FT                                {ECO:0000269|PubMed:24898004}.
+FT   MUTAGEN    1802   1804       DPE->APA: Abolishes calcium response on
+FT                                channel inactivation.
+FT                                {ECO:0000269|PubMed:19074138}.
+FT   MUTAGEN    1974   1974       P->A: Strongly reduces interaction with
+FT                                NEDD4, NEDD4L or WWP2.
+FT                                {ECO:0000269|PubMed:15548568}.
+FT   MUTAGEN    1975   1975       P->A: Strongly reduces interaction with
+FT                                NEDD4, NEDD4L or WWP2.
+FT                                {ECO:0000269|PubMed:15548568}.
+FT   MUTAGEN    1976   1976       S->A: Strongly reduces interaction with
+FT                                NEDD4, NEDD4L or WWP2.
+FT                                {ECO:0000269|PubMed:15548568}.
+FT   MUTAGEN    1977   1977       Y->A: Strongly reduces interaction with
+FT                                NEDD4, NEDD4L or WWP2.
+FT                                {ECO:0000269|PubMed:15217910,
+FT                                ECO:0000269|PubMed:15548568}.
+FT   MUTAGEN    1978   1978       D->A: No effect on interaction with
+FT                                NEDD4, NEDD4L or WWP2.
+FT                                {ECO:0000269|PubMed:15548568}.
+FT   MUTAGEN    1979   1979       S->A: No effect on interaction with
+FT                                NEDD4, NEDD4L or WWP2.
+FT                                {ECO:0000269|PubMed:15548568}.
+FT   MUTAGEN    1980   1980       V->A: No effect on interaction with
+FT                                NEDD4, NEDD4L or WWP2.
+FT                                {ECO:0000269|PubMed:15217910,
+FT                                ECO:0000269|PubMed:15548568}.
+FT   MUTAGEN    1980   1980       V->D,R: Strongly reduces interaction with
+FT                                NEDD4L. {ECO:0000269|PubMed:15217910,
+FT                                ECO:0000269|PubMed:15548568}.
+FT   CONFLICT     91     91       K -> R (in Ref. 6; ABR15763/ABR15764).
+FT                                {ECO:0000305}.
+FT   CONFLICT     96     96       L -> P (in Ref. 6; ABR15763/ABR15764).
+FT                                {ECO:0000305}.
+FT   CONFLICT    120    120       I -> V (in Ref. 1; AAA58644).
+FT                                {ECO:0000305}.
+FT   CONFLICT    162    162       Y -> H (in Ref. 6; ABR15763/ABR15764).
+FT                                {ECO:0000305}.
+FT   CONFLICT    180    180       G -> A (in Ref. 1; AAA58644).
+FT                                {ECO:0000305}.
+FT   CONFLICT    181    181       F -> S (in Ref. 6; ABR15763/ABR15764).
+FT                                {ECO:0000305}.
+FT   CONFLICT    191    191       D -> G (in Ref. 5; BAD12084/BAD12085 and
+FT                                6; ABR15763/ABR15764). {ECO:0000305}.
+FT   CONFLICT    196    196       L -> P (in Ref. 6; ABR15763/ABR15764).
+FT                                {ECO:0000305}.
+FT   CONFLICT    215    215       V -> L (in Ref. 5; BAD12084/BAD12085, 6;
+FT                                ABR15763/ABR15764 and 9; AAI44622/
+FT                                AAI40814). {ECO:0000305}.
+FT   CONFLICT    234    234       S -> P (in Ref. 5; BAD12084/BAD12085, 6;
+FT                                ABR15763/ABR15764 and 9; AAI44622/
+FT                                AAI40814). {ECO:0000305}.
+FT   CONFLICT    280    280       C -> R (in Ref. 6; ABR15763/ABR15764).
+FT                                {ECO:0000305}.
+FT   CONFLICT    290    290       T -> I (in Ref. 6; ABR15763/ABR15764).
+FT                                {ECO:0000305}.
+FT   CONFLICT    516    516       S -> N (in Ref. 6; ABR15763/ABR15764).
+FT                                {ECO:0000305}.
+FT   CONFLICT    608    608       D -> N (in Ref. 6; ABR15763/ABR15764).
+FT                                {ECO:0000305}.
+FT   CONFLICT    618    618       L -> I (in Ref. 4; AAO91669).
+FT                                {ECO:0000305}.
+FT   CONFLICT    653    653       F -> V (in Ref. 5; BAD12084/BAD12085).
+FT                                {ECO:0000305}.
+FT   CONFLICT    918    918       V -> G (in Ref. 6; ABR15763/ABR15764).
+FT                                {ECO:0000305}.
+FT   CONFLICT    987    987       Q -> H (in Ref. 1; AAA58644, 5; BAD12084/
+FT                                BAD12085 and 6; ABR15763/ABR15764).
+FT                                {ECO:0000305}.
+FT   CONFLICT   1085   1085       G -> W (in Ref. 1; AAA58644 and 5;
+FT                                BAD12084). {ECO:0000305}.
+FT   CONFLICT   1087   1087       E -> R (in Ref. 1; AAA58644 and 5;
+FT                                BAD12084). {ECO:0000305}.
+FT   CONFLICT   1088   1088       A -> G (in Ref. 1; AAA58644 and 5;
+FT                                BAD12084). {ECO:0000305}.
+FT   CONFLICT   1342   1342       L -> H (in Ref. 6; ABR15763/ABR15764).
+FT                                {ECO:0000305}.
+FT   CONFLICT   1479   1479       K -> T (in Ref. 5; BAD12084/BAD12085).
+FT                                {ECO:0000305}.
+FT   CONFLICT   1480   1481       LG -> IR (in Ref. 7; ABQ01244).
+FT                                {ECO:0000305}.
+FT   CONFLICT   1616   1616       F -> S (in Ref. 10; BAD92103).
+FT                                {ECO:0000305}.
+FT   CONFLICT   1657   1657       L -> P (in Ref. 6; ABR15763/ABR15764).
+FT                                {ECO:0000305}.
+FT   CONFLICT   1850   1850       C -> R (in Ref. 6; ABR15763/ABR15764).
+FT                                {ECO:0000305}.
+FT   HELIX      1491   1500       {ECO:0000244|PDB:4DJC}.
+FT   HELIX      1788   1801       {ECO:0000244|PDB:4DCK}.
+FT   STRAND     1807   1810       {ECO:0000244|PDB:4DCK}.
+FT   HELIX      1811   1813       {ECO:0000244|PDB:4DCK}.
+FT   HELIX      1814   1820       {ECO:0000244|PDB:4DCK}.
+FT   TURN       1823   1825       {ECO:0000244|PDB:4DCK}.
+FT   HELIX      1832   1837       {ECO:0000244|PDB:4DCK}.
+FT   STRAND     1841   1843       {ECO:0000244|PDB:4DCK}.
+FT   TURN       1844   1846       {ECO:0000244|PDB:4DCK}.
+FT   STRAND     1847   1849       {ECO:0000244|PDB:4DCK}.
+FT   HELIX      1850   1862       {ECO:0000244|PDB:4DCK}.
+FT   HELIX      1866   1882       {ECO:0000244|PDB:4DCK}.
+FT   HELIX      1886   1888       {ECO:0000244|PDB:4DCK}.
+FT   STRAND     1891   1894       {ECO:0000244|PDB:4OVN}.
+FT   HELIX      1896   1926       {ECO:0000244|PDB:4DCK}.
+SQ   SEQUENCE   2016 AA;  226940 MW;  841E3A365931190B CRC64;
+     MANFLLPRGT SSFRRFTRES LAAIEKRMAE KQARGSTTLQ ESREGLPEEE APRPQLDLQA
+     SKKLPDLYGN PPQELIGEPL EDLDPFYSTQ KTFIVLNKGK TIFRFSATNA LYVLSPFHPI
+     RRAAVKILVH SLFNMLIMCT ILTNCVFMAQ HDPPPWTKYV EYTFTAIYTF ESLVKILARG
+     FCLHAFTFLR DPWNWLDFSV IIMAYTTEFV DLGNVSALRT FRVLRALKTI SVISGLKTIV
+     GALIQSVKKL ADVMVLTVFC LSVFALIGLQ LFMGNLRHKC VRNFTALNGT NGSVEADGLV
+     WESLDLYLSD PENYLLKNGT SDVLLCGNSS DAGTCPEGYR CLKAGENPDH GYTSFDSFAW
+     AFLALFRLMT QDCWERLYQQ TLRSAGKIYM IFFMLVIFLG SFYLVNLILA VVAMAYEEQN
+     QATIAETEEK EKRFQEAMEM LKKEHEALTI RGVDTVSRSS LEMSPLAPVN SHERRSKRRK
+     RMSSGTEECG EDRLPKSDSE DGPRAMNHLS LTRGLSRTSM KPRSSRGSIF TFRRRDLGSE
+     ADFADDENST AGESESHHTS LLVPWPLRRT SAQGQPSPGT SAPGHALHGK KNSTVDCNGV
+     VSLLGAGDPE ATSPGSHLLR PVMLEHPPDT TTPSEEPGGP QMLTSQAPCV DGFEEPGARQ
+     RALSAVSVLT SALEELEESR HKCPPCWNRL AQRYLIWECC PLWMSIKQGV KLVVMDPFTD
+     LTITMCIVLN TLFMALEHYN MTSEFEEMLQ VGNLVFTGIF TAEMTFKIIA LDPYYYFQQG
+     WNIFDSIIVI LSLMELGLSR MSNLSVLRSF RLLRVFKLAK SWPTLNTLIK IIGNSVGALG
+     NLTLVLAIIV FIFAVVGMQL FGKNYSELRD SDSGLLPRWH MMDFFHAFLI IFRILCGEWI
+     ETMWDCMEVS GQSLCLLVFL LVMVIGNLVV LNLFLALLLS SFSADNLTAP DEDREMNNLQ
+     LALARIQRGL RFVKRTTWDF CCGLLRQRPQ KPAALAAQGQ LPSCIATPYS PPPPETEKVP
+     PTRKETRFEE GEQPGQGTPG DPEPVCVPIA VAESDTDDQE EDEENSLGTE EESSKQQESQ
+     PVSGGPEAPP DSRTWSQVSA TASSEAEASA SQADWRQQWK AEPQAPGCGE TPEDSCSEGS
+     TADMTNTAEL LEQIPDLGQD VKDPEDCFTE GCVRRCPCCA VDTTQAPGKV WWRLRKTCYH
+     IVEHSWFETF IIFMILLSSG ALAFEDIYLE ERKTIKVLLE YADKMFTYVF VLEMLLKWVA
+     YGFKKYFTNA WCWLDFLIVD VSLVSLVANT LGFAEMGPIK SLRTLRALRP LRALSRFEGM
+     RVVVNALVGA IPSIMNVLLV CLIFWLIFSI MGVNLFAGKF GRCINQTEGD LPLNYTIVNN
+     KSQCESLNLT GELYWTKVKV NFDNVGAGYL ALLQVATFKG WMDIMYAAVD SRGYEEQPQW
+     EYNLYMYIYF VIFIIFGSFF TLNLFIGVII DNFNQQKKKL GGQDIFMTEE QKKYYNAMKK
+     LGSKKPQKPI PRPLNKYQGF IFDIVTKQAF DVTIMFLICL NMVTMMVETD DQSPEKINIL
+     AKINLLFVAI FTGECIVKLA ALRHYYFTNS WNIFDFVVVI LSIVGTVLSD IIQKYFFSPT
+     LFRVIRLARI GRILRLIRGA KGIRTLLFAL MMSLPALFNI GLLLFLVMFI YSIFGMANFA
+     YVKWEAGIDD MFNFQTFANS MLCLFQITTS AGWDGLLSPI LNTGPPYCDP TLPNSNGSRG
+     DCGSPAVGIL FFTTYIIISF LIVVNMYIAI ILENFSVATE ESTEPLSEDD FDMFYEIWEK
+     FDPEATQFIE YSVLSDFADA LSEPLRIAKP NQISLINMDL PMVSGDRIHC MDILFAFTKR
+     VLGESGEMDA LKIQMEEKFM AANPSKISYE PITTTLRRKH EEVSAMVIQR AFRRHLLQRS
+     LKHASFLFRQ QAGSGLSEED APEREGLIAY VMSENFSRPL GPPSSSSISS TSFPPSYDSV
+     TRATSDNLQV RGSDYSHSED LADFPPSPDR DRESIV
+//

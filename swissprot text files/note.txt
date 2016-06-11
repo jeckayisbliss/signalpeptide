@@ -1,0 +1,14 @@
+UniProt release 2016/02 = 550,552 http://www.uniprot.org/uniprot/?query=reviewed%3Ayes&sort=score
+
+transit = 8946 
+http://www.uniprot.org/uniprot/?query=annotation%3A%28type%3Atransit%29+AND+reviewed%3Ayes&sort=score
+
+signal = 40194
+
+transit + signal = 3 
+http://www.uniprot.org/uniprot/?query=annotation%3A%28type%3Asignal%29+AND+reviewed%3Ayes+AND+annotation%3A%28type%3Atransit%29&sort=score
+
+not signal + not transit = 501415 
+http://www.uniprot.org/uniprot/?query=reviewed%3Ayes+NOT+annotation%3A%28type%3Asignal%29+NOT+annotation%3A%28type%3Atransit%29&sort=score
+-------------------------------------------------------
+if only 1 txt file, import does not work.

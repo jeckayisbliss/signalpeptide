@@ -1,0 +1,62 @@
+UniProt release 2016/02 = 550,552 http://www.uniprot.org/uniprot/?query=reviewed%3Ayes&sort=score
+
+transit = 8946 
+http://www.uniprot.org/uniprot/?query=annotation%3A%28type%3Atransit%29+AND+reviewed%3Ayes&sort=score
+
+signal = 40194
+
+transit + signal = 3 
+http://www.uniprot.org/uniprot/?query=annotation%3A%28type%3Asignal%29+AND+reviewed%3Ayes+AND+annotation%3A%28type%3Atransit%29&sort=score
+
+not signal + not transit = 501415 
+http://www.uniprot.org/uniprot/?query=reviewed%3Ayes+NOT+annotation%3A%28type%3Asignal%29+NOT+annotation%3A%28type%3Atransit%29&sort=score
+
+
+-------------------------
+change in phpmyadmin: max connection = 50000
+
+http://www.uniprot.org/uniprot/?query=annotation:(type:signal)%20existence:%22evidence%20at%20protein%20level%22&fil=organism%3A%22Rattus+norvegicus+%28Rat%29+%5B10116%5D%22+AND+reviewed%3Ayes&sort=score
+
+annotation:(type:signal) existence:"evidence at protein level" AND reviewed:yes AND organism:"Rattus norvegicus (Rat) [10116]"
+
+http://www.uniprot.org/uniprot/?query=annotation:(type:signal)%20existence:%22evidence%20at%20protein%20level%22&fil=organism%3A%22Mus+musculus+%28Mouse%29+%5B10090%5D%22+AND+reviewed%3Ayes&sort=score
+
+annotation:(type:signal) existence:"evidence at protein level" AND reviewed:yes AND organism:"Mus musculus (Mouse) [10090]"
+
+sample file to update
+"http://www.uniprot.org/uniprot/?sort=score&desc=&compress=no&query=annotation:(type:signal)%20taxonomy:proteobacteria&fil=reviewed:yes&limit=500&force=no&preview=true&format=txt"
+--------------------------------
+TODO:
+1. inside the entries when clicking on data filters Signal Peptide: No, datatable should not refresh coz it may be that teh data filter will be cancelled.
+2. check all filters if correct ang number of entries
+3. if 3k entries does not show in datatable
+---------------------------------
+why pop-up download after finish downloading doesn;t work
+http://stackoverflow.com/questions/1563187/check-if-download-is-completed
+---------------------------
+VERSION
+php - 5.5.12
+msyql - 5.6.17
+apache - 2.4.9
+-----------------------------
+512000000
+upload_max_filesize = 64M to 500M
+memory_limit = 128M
+post_max_size = 3M to 500M
+mysql.connect_timeout = 60 to -1
+max_input_time = 60 to -1
+-------------------------------
+No. of Entries		Size			Time
+2161				17,722kb		13sec
+1950				23,990kb		17sec
+-------------------------------------
+PISCES
+http://dunbrack.fccc.edu/
+It's not really designed for that, either on the website or the downloadable version. I could try a program like CD-HIT or blastclust, and cluster the sequences at some percent sequence identity, then pick one from each cluster.
+
+CD-HIT
+Sequence identity cut-off: -c of level 1 for cd-hit or cd-hit-2d should be a float between 0.3 to 1
+-------------------------------------------------
+in DE, KW and/or CC lines 
+---------------------------------------------------------------------------------------
+

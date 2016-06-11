@@ -1,0 +1,12 @@
+.DS_Store
+Thumbs.db
+lib/redundancy-checker/input/*
+!lib/redundancy-checker/input/index.php
+lib/redundancy-checker/output/*
+!lib/redundancy-checker/output/index.php
+lib/redundancy-checker/source/formatdb.log
+formatdb.log
+upload/*
+!upload/index.php
+update/*
+!update/index.php
